@@ -12,7 +12,7 @@ set-theoretic topology. My specializations include applications
 of game theory as well as the study of generalized
 inverse limits.
 
-## My publications
+## Publications
 
 An overview of my work in mathematics may be found on
 [ResearchGate](https://www.researchgate.net/profile/Steven_Clontz).
