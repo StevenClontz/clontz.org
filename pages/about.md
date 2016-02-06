@@ -1,8 +1,9 @@
 ---
 layout: page
 title: "About"
-description: "This is me."
+description: "this is me"
 header-img: "img/about-bg.jpg"
+permalink: /about/
 ---
 
 My name is Steven Clontz, and I'm a

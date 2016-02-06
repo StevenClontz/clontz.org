@@ -1,8 +1,8 @@
 # Site settings
 title: Steven Clontz
-header-img: img/home-bg.jpg
+header-img: "img/home-bg.jpg"
 email: steven.clontz@gmail.com
-description: "Mathematician, Professor, Programmer, and Puzzler"
+description: "mathematician, professor, programmer, puzzler"
 baseurl: ""
 url: "http://clontz.org"
 twitter_username: StevenXClontz
