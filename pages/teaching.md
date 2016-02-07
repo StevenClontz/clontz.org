@@ -14,6 +14,8 @@ better leaders and teachers. Years later I used those skills as
 I became an instructor of mathematics at several institutions of
 higher education.
 
+![Teaching Note](/img/teaching-note.jpg)
+
 ## Philosophy
 
 My philosophy of teaching is available with my
