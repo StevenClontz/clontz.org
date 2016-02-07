@@ -20,6 +20,8 @@ curriculum vitae on GitHub:
 
 ## Life
 
+![My gravatar](http://www.gravatar.com/avatar/2f9ecf8e56d48c8fd7adff7a8b5400bb?size=400)
+
 I grew up in the suburbs outside Huntsville, Alabama, graduating from
 Buckhorn High School (home of the Bucks, go Bucks). Following that I
 spent eleven years at [Auburn Univeristy](http://www.auburn.edu),
