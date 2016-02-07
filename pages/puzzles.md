@@ -2,7 +2,7 @@
 layout: page
 title: "Puzzles"
 description: "or fher gb qevax lbhe binygvar"
-header-img: "img/puzzles-bg.png"
+header-img: "img/puzzles-bg.jpg"
 permalink: /puzzles/
 ---
 
@@ -81,6 +81,8 @@ including an expansion to Australia and the introduction of a middle
 school competition in partnership with the AMP'd Challenge.
 
 ### Leadership in the Zombie Apocolypse
+
+![MaPP](/img/zombies.png)
 
 In partnership with [The Leaders Foundry](http://www.theleadersfoundry.com/)
 I developed a puzzle challenge
