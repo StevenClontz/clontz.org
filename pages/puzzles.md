@@ -20,6 +20,8 @@ to a location in Auburn, Alabama. Have fun!
 I came to puzzles as a mathematician,
 because *mathematics is the art of solving problems*, and *puzzle design
 is the art of creating fun problems to solve*.
+There are [many kinds](/puzzles/types/), and I love to work with
+them all.
 
 ## Consulting and Design
 

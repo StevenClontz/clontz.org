@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Auburn Puzzle Party 5"
-
+header-img: "img/puzzles-bg.jpg"
 date: 2012-10-28 23:11
 
 ---
