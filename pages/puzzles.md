@@ -23,6 +23,23 @@ is the art of creating fun problems to solve*.
 There are [many kinds](/puzzles/types/), and I love to work with
 them all.
 
+## A few of my designs
+
+In addition to the video above,
+the following puzzles were taken from
+[Auburn Puzzle Party 5](http://auburnpuzzleparty.wikia.com/wiki/APP5)
+which took place in Fall 2012.
+
+* [Wrapword Puzzle](https://drive.google.com/file/d/0B8pZbEA-o_pVTUpTbC0zNm50RXc/view)
+* [Letter Flow](https://drive.google.com/file/d/0B8pZbEA-o_pVN3RudkI5U1NWYjQ/view)
+* [King Rook's Return](https://drive.google.com/folderview?ddrp=1&id=0BztY6G2AjPh0X2lPX0ltNHZSWjg#) (with
+  [Scott Varagona](http://www.montevallo.edu/staff-bio/scott-varagona/))
+* [Dance Dance Revelation 2nd Mix](https://www.youtube.com/watch?v=-lBMAoqR1iI)
+
+Mathematical Puzzle Programs has also open-sourced my designs for the
+[Lamar Mathematical Puzzle Challenge](https://github.com/MaPPmath/lamp-2015/)
+which ran in Spring 2015.
+
 ## Consulting and Design
 
 I'm available to design your next custom puzzle event. These experiences
@@ -35,6 +52,8 @@ how we can create the perfect puzzling occasion.
 I'm particularly interested in puzzlehunts: large-scale events which involve
 teams of players solving puzzles, which can end up sending them across an
 entire campus or town to find the solution.
+
+### Auburn Puzzle Party
 
 ![Puzzlehunt](/img/puzzlehunt.jpg)
 
@@ -81,6 +100,13 @@ from Texas to Connecticut.
 As Director of MaPP, I will double that number in 2017,
 including an expansion to Australia and the introduction of a middle
 school competition in partnership with the AMP'd Challenge.
+
+### JoCo Cruise 2016
+
+![JoCo](/img/joco.svg)
+
+While I won't be on board, I contributed an original puzzle for
+the 2016 [JoCo Cruise](https://jococruise.com/) Puzzlehunt.
 
 ### Leadership in the Zombie Apocolypse
 

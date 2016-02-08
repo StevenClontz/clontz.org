@@ -7,9 +7,6 @@ p {
   line-height: 1.5;
   margin: 30px 0;
 }
-p a {
-  text-decoration: underline;
-}
 h1,
 h2,
 h3,
@@ -20,11 +17,20 @@ h6 {
   font-weight: 800;
 }
 a {
-  color: #404040;
+  color: #101010;
 }
 a:hover,
 a:focus {
   color: #0085a1;
+  text-decoration: none;
+}
+#main a {
+  border-bottom: 1px dotted #101010;
+}
+#main a:hover,
+#main a:focus {
+  color: #0085a1;
+  border-bottom: none;
 }
 a img:hover,
 a img:focus {
