@@ -101,12 +101,24 @@ As Director of MaPP, I will double that number in 2017,
 including an expansion to Australia and the introduction of a middle
 school competition in partnership with the AMP'd Challenge.
 
+### The National Museum of Mathematics (MoMath)
+
+![MoMath](/img/momath.png)
+
+I am a regular consultant with the National Museum of Mathematics,
+including taking lead of the design for the
+[2016 MoMath Dimensions Puzzlehunt](http://dimensions.momath.org),
+an annual mathematical puzzle challenge held on the museum's campus
+in New York City.
+
 ### JoCo Cruise 2016
 
 ![JoCo](/img/joco.svg)
 
 While I won't be on board, I contributed an original puzzle for
-the 2016 [JoCo Cruise](https://jococruise.com/) Puzzlehunt.
+the 2016 [JoCo Cruise](https://jococruise.com/) Puzzlehunt, and
+another of my designs from MaPP's Lamar Mathematical
+Puzzlehunt Challenge is also featured in the event.
 
 ### Leadership in the Zombie Apocolypse
 
