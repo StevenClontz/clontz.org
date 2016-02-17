@@ -116,9 +116,7 @@ in New York City.
 ![JoCo](/img/joco.svg)
 
 While I won't be on board, I contributed an original puzzle for
-the 2016 [JoCo Cruise](https://jococruise.com/) Puzzlehunt, and
-another of my designs from MaPP's Lamar Mathematical
-Puzzlehunt Challenge is also featured in the event.
+the 2016 [JoCo Cruise](https://jococruise.com/) Puzzlehunt.
 
 ### Leadership in the Zombie Apocolypse
 
