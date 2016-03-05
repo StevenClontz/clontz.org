@@ -16,6 +16,8 @@ talk on Friday, March
 11 at the Spring Topology and Dynamics Conference in Waco, Texas for
 the special session on Continuum Theory.
 
-[AMS Sectional slides](http://stevenclontz.github.io/ams-sectional-presentation-20160305/#/)
+[STDC slides 2016-03-11](http://stevenclontz.github.io/stdc-presentation-20160311/#/)
 
-[Spring Topology slides (to be added)](#)
+And for posterity (it's the same slides, but with more typos!),
+[AMS Sectional slides 2016-03-05](http://stevenclontz.github.io/ams-sectional-presentation-20160305/#/)
+
