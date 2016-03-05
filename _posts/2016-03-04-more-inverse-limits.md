@@ -7,7 +7,7 @@ header-img: "img/math-bg.png"
 ---
 
 Academic travel continues this week, following
-[the talk I gave at South Alabama yesterday](../2016-02-29-south-alabama-presentation/).
+[the talk I gave at South Alabama yesterday](/blog/2016/02/29/2016-02-29-south-alabama-presentation/).
 On Saturday, March 5 I'll be speaking
 at the AMS Southeastern Sectional Meeting in Athens, Georgia
 for the special session on
