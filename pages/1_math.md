@@ -8,9 +8,10 @@ permalink: /math/
 
 Aside from the math intrinsic in [puzzling](/puzzles/) and
 [programming](/code/), I am a published researcher in
-set-theoretic topology. My specializations include applications
-of game theory as well as the study of generalized
-inverse limits.
+set-theoretic topology and continuum theory.
+My specializations include applications
+of game theory in topology and the study of generalized
+inverse limits indexed by arbitrary total orders.
 
 ## Publications
 
