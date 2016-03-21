@@ -118,6 +118,13 @@ in New York City.
 While I won't be on board, I contributed an original puzzle for
 the 2016 [JoCo Cruise](https://jococruise.com/) Puzzlehunt.
 
+### USC Puzzlehunt
+
+![USC Puzzlehunt](/img/usc-puzzle.png)
+
+In 2016 I was a remote competitor in the annual
+[USC Puzzlehunt](http://uscpuzzlehunt.com/).
+
 ### Leadership in the Zombie Apocolypse
 
 ![MaPP](/img/zombies.png)
