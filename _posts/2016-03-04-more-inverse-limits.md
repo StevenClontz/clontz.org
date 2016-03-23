@@ -18,6 +18,8 @@ the special session on Continuum Theory.
 
 [STDC slides 2016-03-11](http://stevenclontz.github.io/stdc-presentation-20160311/#/)
 
+![STDC 2016](/img/stdc-2016.jpg)
+
 And for posterity (it's the same slides, but with more typos!),
 [AMS Sectional slides 2016-03-05](http://stevenclontz.github.io/ams-sectional-presentation-20160305/#/)
 
