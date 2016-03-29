@@ -53,15 +53,22 @@ I'm particularly interested in puzzlehunts: large-scale events which involve
 teams of players solving puzzles, which can end up sending them across an
 entire campus or town to find the solution.
 
-### Auburn Puzzle Party
+### Auburn Puzzle Community
 
-![Puzzlehunt](/img/puzzlehunt.jpg)
+![Puzzlehunt](/img/puzzlehunt-2.jpg)
 
 I played and won my first
 [Auburn Puzzle Party](http://auburnpuzzleparty.wikia.com) in 2009, and
 lead a team of puzzle designers to create Auburn Puzzle Parties 4 and 5 from
-2010-2012. My work on these projects served as the inspiration
-for a series of future puzzlehunts at college campuses across the country.
+2010-2012. I've also developed multiple Auburn Puzzle Potluck concepts putting
+designers in head-to-head competition.
+
+I retired from competitive puzzling in Auburn in 2016. During my tenure,
+I tied the community record for most first place wins, and I still hold
+the longest active streak of the first place wins in Auburn puzzlehunts.
+My trohpies include four
+[Eric's Puzzle Parties](http://www.ericharshbarger.org/epp/) and
+two Auburn Puzzle Parties.
 
 ### AMP'd Challenge
 
