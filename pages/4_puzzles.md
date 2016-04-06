@@ -8,7 +8,7 @@ permalink: /puzzles/
 
 ![Swiper no swiping](/img/swiper-no-swiping.jpg)
 
-What word should appear under the question mark?
+What word should appear under the question mark? (from the 2016 JoCo Cruise)
 [Solution](https://github.com/StevenClontz/swiper-no-swiping/raw/master/puzzle-solution.pdf)
 
 {::nomarkdown}
@@ -18,7 +18,7 @@ What word should appear under the question mark?
 {:/nomarkdown}
 
 What's the fourteen-character message hidden in the video above, referring
-to a location in Auburn, Alabama?
+to a location in Auburn, Alabama? (from Auburn Puzzle Party 5)
 [Solution][wiki-link]
 
 [wiki-link]: http://auburnpuzzleparty.wikia.com/wiki/Puzzle_18_(APP5)_Solution
@@ -27,6 +27,7 @@ to a location in Auburn, Alabama?
 
 Which of the three dice in the first image cannot be moved to the location
 in the second image by rolling along the grid?
+(from Lamar Mathematical Puzzlehunt)
 [Solution](http://math.stackexchange.com/a/1089984)
 
 ## What's so cool about puzzles?
