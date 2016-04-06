@@ -19,7 +19,9 @@ What word should appear under the question mark?
 
 What's the fourteen-character message hidden in the video above, referring
 to a location in Auburn, Alabama?
-[Solution](http://auburnpuzzleparty.wikia.com/wiki/Puzzle_18\_(APP5)\_Solution)
+[Solution][wiki-link]
+
+[wiki-link]: http://auburnpuzzleparty.wikia.com/wiki/Puzzle_18_(APP5)_Solution
 
 ![Dice](/img/dice.png)
 
