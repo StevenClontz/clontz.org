@@ -27,7 +27,7 @@ to a location in Auburn, Alabama? (from Auburn Puzzle Party 5)
 
 Which of the three dice in the first image cannot be moved to the location
 in the second image by rolling along the grid?
-(from Lamar Mathematical Puzzlehunt)
+(from the 2015 Lamar Mathematical Puzzlehunt)
 [Solution](http://math.stackexchange.com/a/1089984)
 
 ## What's so cool about puzzles?
