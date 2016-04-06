@@ -6,14 +6,26 @@ header-img: "img/puzzles-bg.jpg"
 permalink: /puzzles/
 ---
 
+![Swiper no swiping](/img/swiper-no-swiping.jpg)
+
+What word should appear under the question mark?
+[Solution](https://github.com/StevenClontz/swiper-no-swiping/raw/master/puzzle-solution.pdf)
+
 {::nomarkdown}
 <div class="youtube">
 <iframe width="560" height="315" style="max-width:100%" src="//www.youtube.com/embed/KrL5WV7TxYI" frameborder="0" allowfullscreen></iframe>
 </div>
 {:/nomarkdown}
 
-There's a fourteen-character message hidden in the video above, which refers
-to a location in Auburn, Alabama. Have fun!
+What's the fourteen-character message hidden in the video above, referring
+to a location in Auburn, Alabama?
+[Solution](http://auburnpuzzleparty.wikia.com/wiki/Puzzle_18\_(APP5)\_Solution)
+
+![Dice](/img/dice.jpg)
+
+Which of the three dice in the first image cannot be moved to the location
+in the second image by rolling along the grid?
+[Solution](http://math.stackexchange.com/a/1089984)
 
 ## What's so cool about puzzles?
 
@@ -22,23 +34,6 @@ because *mathematics is the art of solving problems*, and *puzzle design
 is the art of creating fun problems to solve*.
 There are [many kinds](/puzzles/types/), and I love to work with
 them all.
-
-## A few of my designs
-
-In addition to the video above,
-the following puzzles were taken from
-[Auburn Puzzle Party 5](http://auburnpuzzleparty.wikia.com/wiki/APP5)
-which took place in Fall 2012.
-
-* [Wrapword Puzzle](https://drive.google.com/file/d/0B8pZbEA-o_pVTUpTbC0zNm50RXc/view)
-* [Letter Flow](https://drive.google.com/file/d/0B8pZbEA-o_pVN3RudkI5U1NWYjQ/view)
-* [King Rook's Return](https://drive.google.com/folderview?ddrp=1&id=0BztY6G2AjPh0X2lPX0ltNHZSWjg#) (with
-  [Scott Varagona](http://www.montevallo.edu/staff-bio/scott-varagona/))
-* [Dance Dance Revelation 2nd Mix](https://www.youtube.com/watch?v=-lBMAoqR1iI)
-
-Mathematical Puzzle Programs has also open-sourced my designs for the
-[Lamar Mathematical Puzzle Challenge](https://github.com/MaPPmath/lamp-2015/)
-which ran in Spring 2015.
 
 ## Consulting and Design
 
@@ -142,5 +137,3 @@ for people managers in their "Leadership in the Zombie Apocolypse"
 training. The Leaders Foundry uses this
 event as a final test of the skills they cover in their People
 Manager Developer Program.
-
-
