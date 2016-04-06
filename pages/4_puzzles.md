@@ -21,7 +21,7 @@ What's the fourteen-character message hidden in the video above, referring
 to a location in Auburn, Alabama?
 [Solution](http://auburnpuzzleparty.wikia.com/wiki/Puzzle_18\_(APP5)\_Solution)
 
-![Dice](/img/dice.jpg)
+![Dice](/img/dice.png)
 
 Which of the three dice in the first image cannot be moved to the location
 in the second image by rolling along the grid?
