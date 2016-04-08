@@ -1056,27 +1056,3 @@ jQuery(document).ready(function($) {
             });
     }
 });
-
-
-
-
-  // Disable Twitter scrolling
-  // See http://stackoverflow.com/a/25904582/1607849
-  // Disable scroll zooming and bind back the click event
-  var onWidgetMouseleaveHandler = function (event) {
-    var that = $(this);
-    that.on('click', onWidgetClickHandler);
-    that.off('mouseleave', onWidgetMouseleaveHandler);
-    that.find('iframe').css("pointer-events", "none");
-  }
-  var onWidgetClickHandler = function (event) {
-    var that = $(this);
-    // Disable the click handler until the user leaves the map area
-    that.off('click', onWidgetClickHandler);
-    // Enable scrolling zoom
-    that.find('iframe').css("pointer-events", "auto");
-    // Handle the mouse leave event
-    that.on('mouseleave', onWidgetMouseleaveHandler);
-  }
-  // Enable map zooming with mouse scroll when the user clicks the map
-  $('.twitter-widget').on('click', onWidgetClickHandler);
