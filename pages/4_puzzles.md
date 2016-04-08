@@ -9,8 +9,8 @@ permalink: /puzzles/
 ![Swiper no swiping](/img/swiper-no-swiping.jpg)
 
 What word should appear under the question mark? (from JoCo Cruise 2016)
-[Full image](/img/swiper-no-swiping.jpg)
-[Solution](https://github.com/StevenClontz/swiper-no-swiping/raw/master/puzzle-solution.pdf)
+[[Full image](/img/swiper-no-swiping.jpg)]
+[[Solution](https://github.com/StevenClontz/swiper-no-swiping/raw/master/puzzle-solution.pdf)]
 
 {::nomarkdown}
 <div class="youtube">
@@ -20,8 +20,8 @@ What word should appear under the question mark? (from JoCo Cruise 2016)
 
 What's the fourteen-character message hidden in the video above, referring
 to a location in Auburn, Alabama? (from Auburn Puzzle Party 5)
-[YouTube link](https://www.youtube.com/watch?v=KrL5WV7TxYI)
-[Solution][wiki-link]
+[[YouTube link](https://www.youtube.com/watch?v=KrL5WV7TxYI)]
+[[Solution][wiki-link]]
 
 [wiki-link]: http://auburnpuzzleparty.wikia.com/wiki/Puzzle_18_(APP5)_Solution
 
@@ -30,8 +30,8 @@ to a location in Auburn, Alabama? (from Auburn Puzzle Party 5)
 Which of the three dice in the first image cannot be moved to the location
 in the second image by rolling along the grid?
 (from Lamar Mathematical Puzzlehunt 2015)
-[Full image](/img/dice.png)
-[Solution](http://math.stackexchange.com/a/1089984)
+[[Full image](/img/dice.png)]
+[[Solution](http://math.stackexchange.com/a/1089984)]
 
 ## What's so cool about puzzles?
 
