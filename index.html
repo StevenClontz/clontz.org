@@ -3,27 +3,7 @@ layout: page
 description: "mathematician, professor, programmer, puzzler"
 ---
 
-<div class="post-preview">
-    <a href="{{ paginator.posts.first.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            {{ paginator.posts.first.title }}
-        </h2>
-        {% if paginator.posts.first.subtitle %}
-        <h3 class="post-subtitle">
-            {{ paginator.posts.first.subtitle }}
-        </h3>
-        {% endif %}
-    </a>
-    <p class="post-meta">Posted by {% if paginator.posts.first.author %}{{ paginator.posts.first.author }}{% else %}{{ site.title }}{% endif %} on {{ paginator.posts.first.date | date: "%B %-d, %Y" }}</p>
-</div>
-<hr>
-
-<p class="text-center">
-<a class="twitter-timeline" href="https://twitter.com/StevenXClontz" data-widget-id="718235164875300864">Tweets by @StevenXClontz</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-</p>
-<hr>
-
-{% for post in paginator.posts %}
+{% paginator.posts.each_with_index do |post, index| %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
@@ -37,7 +17,15 @@ description: "mathematician, professor, programmer, puzzler"
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
-{% endfor %}
+
+{% if paginator.page == 1 and index == 0 %}
+<p class="text-center">
+<a class="twitter-timeline" href="https://twitter.com/StevenXClontz" data-widget-id="718235164875300864">Tweets by @StevenXClontz</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</p>
+<hr>
+{% endif %}
+{% end %}
 
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
