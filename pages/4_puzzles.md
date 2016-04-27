@@ -4,6 +4,7 @@ title: "Puzzles"
 description: "or fher gb qevax lbhe binygvar"
 header-img: "img/puzzles-bg.jpg"
 permalink: /puzzles/
+show-navbar: true
 ---
 
 ![Swiper no swiping](/img/swiper-no-swiping.jpg)

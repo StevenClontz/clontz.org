@@ -18,7 +18,7 @@
                 <li>
                     <a href="{{ site.baseurl }}/">Blog</a>
                 </li>
-                {% for page in site.pages %}{% if page.title %}{% unless page.hide-navbar %}
+                {% for page in site.pages %}{% if page.title %}{% if page.show-navbar %}
                 <li>
                     <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 </li>

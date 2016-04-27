@@ -4,6 +4,7 @@ title: "Teaching"
 description: "explain, demonstrate, guide, enable"
 header-img: "img/teaching-bg.jpg"
 permalink: /teaching/
+show-navbar: true
 ---
 
 I love teaching! I got my start as a National Youth Leadership Training

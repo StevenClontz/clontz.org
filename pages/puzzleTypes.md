@@ -4,7 +4,6 @@ title: "Puzzle Types"
 description: "math, word, logic, and more"
 header-img: "img/puzzles-bg.jpg"
 permalink: /puzzles/types/
-hide-navbar: true
 ---
 
 

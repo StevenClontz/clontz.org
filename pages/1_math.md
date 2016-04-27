@@ -4,6 +4,7 @@ title: "Math"
 description: "the art of solving problems"
 header-img: "img/math-bg.png"
 permalink: /math/
+show-navbar: true
 ---
 
 Aside from the math intrinsic in [puzzling](/puzzles/) and

@@ -4,6 +4,7 @@ title: "Programming"
 description: "hello world"
 header-img: "img/code-bg.png"
 permalink: /code/
+show-navbar: true
 ---
 
 My work in software development covers a variety of platforms and

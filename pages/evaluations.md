@@ -4,7 +4,6 @@ title: "Teaching Evaluations"
 description: "what my students have to say"
 header-img: "img/teaching-bg.jpg"
 permalink: /teaching/evaluations/
-hide-navbar: true
 ---
 
 [↑ Back to my Teaching page](/teaching/)

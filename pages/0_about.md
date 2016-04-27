@@ -4,6 +4,7 @@ title: "About"
 description: "this is me"
 header-img: "img/about-bg.jpg"
 permalink: /about/
+show-navbar: true
 ---
 
 My name is Steven Clontz, and I'm a
