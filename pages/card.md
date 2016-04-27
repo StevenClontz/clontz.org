@@ -13,7 +13,7 @@ permalink: /card/
         its digits is a multiple of nine.**
 
 *Proof:*
-Express the integer as the sum of its digits:
+Express the integer in terms of its digits:
 \\(d_0+10d_1+100d_2+\\dots+10^nd_n\\).
 This may be grouped into the sum of its digits
 \\(d_0+d_1+\\dots+d_n\\) plus the sum
