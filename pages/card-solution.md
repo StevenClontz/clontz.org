@@ -25,5 +25,5 @@ There's not much to this puzzle, but I wanted
 something simple to put on the back of my card. Congrats for solving it!
 
 * [clontz.org/card](/card/)
-* [Github project for this card](https://github.com/StevenClontz/business-card)
+* [Github project for my card](https://github.com/StevenClontz/business-card)
 * [More puzzles](/puzzles/)

@@ -6,8 +6,10 @@ header-img: "img/puzzles-bg.jpg"
 permalink: /card/
 ---
 
-* [Link to my card PDF](https://github.com/StevenClontz/business-card/raw/master/card.pdf)
-* [Link to larger version](https://github.com/StevenClontz/business-card/raw/master/article.pdf)
+* [A PDF of my card](https://github.com/StevenClontz/business-card/raw/master/card.pdf)
+* [A printable full-page version of the puzzle](https://github.com/StevenClontz/business-card/raw/master/article.pdf)
+
+Following is an HTML version of the puzzle:
 
 **Theorem: An integer is a multiple of nine iff the sum of
         its digits is a multiple of nine.**
@@ -23,4 +25,5 @@ follows. \\(\\Box\\)
 
 ![Full image](/img/card-puzzle.png)
 
-* [See the project on Github (WARNING: SPOILERS)](https://github.com/StevenClontz/business-card)
+* [Github project for my card](https://github.com/StevenClontz/business-card) (WARNING: SPOILERS)
+* [The solution](/foo/)
