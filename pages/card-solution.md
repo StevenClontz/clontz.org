@@ -24,6 +24,8 @@ only fit at most 14 characters without increasing the resolution of the QR code.
 There's not much to this puzzle, but I wanted
 something simple to put on the back of my card. Congrats for solving it!
 
+![Scan of solved card](/img/card-scan.png)
+
 * [clontz.org/card](/card/)
 * [Github project for my card](https://github.com/StevenClontz/business-card)
 * [More puzzles](/puzzles/)
