@@ -2,7 +2,7 @@
 layout: page
 title: "My Card"
 description: "a small puzzle"
-header-img: "img/puzzles-bg.jpg"
+header-img: "img/card.jpg"
 permalink: /card/
 ---
 

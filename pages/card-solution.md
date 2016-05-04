@@ -2,7 +2,7 @@
 layout: page
 title: "Card Solution"
 description: "clontz.org/foo"
-header-img: "img/puzzles-bg.jpg"
+header-img: "img/card.jpg"
 permalink: /foo/
 ---
 
