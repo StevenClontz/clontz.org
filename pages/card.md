@@ -25,5 +25,8 @@ follows. \\(\\Box\\)
 
 ![Full image](/img/card-puzzle.png)
 
+<small>(Early versions of the card word the proof differently; this is
+irrelevant to the puzzle.)</small>
+
 * [Github project for my card](https://github.com/StevenClontz/business-card) (WARNING: SPOILERS)
 * [The solution](/foo/)
