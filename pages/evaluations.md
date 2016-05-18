@@ -8,13 +8,86 @@ permalink: /teaching/evaluations/
 
 [↑ Back to my Teaching page](/teaching/)
 
-While at Auburn University and later at UNC Charlotte, I've had the
+During my years at Auburn University, UNC Charlotte, and
+South Alabama, I've had the
 opportunity to work with hundreds of students as the instructor of
-several mathematics courses. I think that I've done well overall, and this
+dozens of mathematics courses. I think that I've done well overall, and this
 is reflected by the evaluations they've left me. I've included excerpts
 from each semester I've taught since Fall 2012 below.
 
-### Fall 2016
+### Full Evaluations
+
+Full evaluations for all of my courses taught since 2016 are available
+as a part of my CV repository at this link:
+
+<https://github.com/StevenClontz/cv/tree/master/teaching-evaluations>
+
+---
+
+### Spring 2016
+
+In my second (and final) semester at UNC Charlotte, I was able to
+take another stab at teaching Calculus IV. I also taught a section
+of Advanced Calculus of Several Variables (undergrad multivariable analysis).
+Needless to say, it was a very enjoyable semester, with several very
+talented students.
+
+#### Calculus IV
+
+> In particular, I appreciated the methods used to grade quizzes.
+  The method allowed for short quizzes while also preventing a
+  single poor score from ruining the overall grade.
+
+> I visited my instructor's office on multiple occasions, and he was always
+  willing to answer and questions I had as well as take the
+  time to address my concerns about the textbook.
+
+> Dr. Clontz was very open to student input and he had a warm personality
+  so that you felt you could always go talk to him. His office hours were
+  frequently filled by students in my class asking for help on the homework.
+
+> In four semesters at UNCC, I have never experienced a professor who provided
+  adequate time for quizzes until this class. I have always been rushed,
+  hindering my grade. However, in this course I felt I was given the time
+  required to complete the work assigned.
+
+> I thoroughly enjoyed this course and would recommend my instructor as one of
+  the best at UNCC. My only complaint lies in the
+  textbook selected. It was confusing and often displayed incorrect answers.
+
+#### Advanced Calculus of Several Variables
+
+> Dr. Clontz was always quick to update us on grades, presentations, and the
+  like. His grading is fair and transparent, and he would
+  even send reminder emails about upcoming due dates.
+
+> Dr. Clontz has a wonderful "open door" policy in regards to office hours.
+  He never makes the student feel incompetent and will make sure either after
+  class or during office hours to clarify any points that are still unclear.
+  Very attentive to the needs of his students.
+
+> Overall, this has been an interesting experience. I'm glad Dr. Clontz made
+  us type our notes in LaTeX. This semester has given me a lot of practical
+  experience in developing a workflow and writing up proofs. Our current
+  textbook is good companion for this type of guided-notes system.
+
+> I really liked how he used pictures to describe what we were trying to prove.
+  It helped me understand things better.
+
+> Dr. Clontz is a teacher that reflects a new brand of teaching that relies on
+  current technology that's available for teaching. Unlike the previous
+  generation of instructors, Dr. Clontz makes students learn and at the same
+  time present this knowledge with the other students in class to re-enforce
+  the material that they learned. Furthermore, students are required to
+  write-up their own notes using LaTeX, to ensure that the student understands
+  what they are writing down, instead of blindly copying from the blackboard as
+  in the majority of classes. Along with learning multi-variable real analysis,
+  we also learned how to use LaTeX in this class. Dr. Clontz is a
+  naturally-gifted teacher.
+
+---
+
+### Fall 2015
 
 This was my first semester as a professor at UNC Charlotte. I used a
 traditional lecture style approach in two sections of a
@@ -120,6 +193,7 @@ Selected qualitative comments:
 
 > Very straightforward and candid about how grading works.
 
+---
 
 ### Spring 2015
 
@@ -190,6 +264,8 @@ Mr. Clontz, however, is a wonderful teacher and man that cares a great deal abou
 
 > Great grading system. Great guy. Great class.
 
+---
+
 ### Fall 2014
 
 Compiled results from 23 of 52 students in a Calculus II course:
@@ -235,11 +311,15 @@ Written comments:
 
 > I really liked the way he structured his course. The packets that you follow along with, the assigned problems that we present in class, and the weekly quizzes on Mondays was an effective way of teaching for me. Many people might not like the forced involvement but it really helps with engaging you with the work. You want to be able to explain the problem to the class, which helps further your own understanding.
 
+---
+
 ### Spring 2014
 
 No evaluations are availble for this semester as I
 took a sabbatical from teaching to work as a software developer for
 Auburn's Office of Univeristy Writing.
+
+---
 
 ### Fall 2013
 
@@ -265,6 +345,8 @@ Auburn's Office of Univeristy Writing.
 
 > Steven was not only the best Calculus teacher I have had at Auburn, but also one of my best teachers period. His grading techniques were fair, and he did everything possible to make sure that we understood the material being taught. I would absolutely take him again for any future math classes and it was a privilege to have him as a teacher. Steven, don't change any aspect of how you teach, it was done perfectly. Excellent job.
 
+---
+
 ### Summer 2013
 
 > By far the best teacher I have ever had!
@@ -274,6 +356,8 @@ Auburn's Office of Univeristy Writing.
 > He is by far my favorite teacher ever!!
 
 > I really like the way you engaged us in the material, despite how quiet the class usually was. I thought you did a great job this summer.
+
+---
 
 ### Spring 2013
 
@@ -286,6 +370,8 @@ Auburn's Office of Univeristy Writing.
 > Mr. Clontz has easily been one of the best instructors I have had in Auburn in every aspect. He makes Calculus about as enjoyable as one could make it. His teaching techniques really helped me to learn the material that much easier. He provides plenty of examples and he leaves no room for doubt for how he makes his test. He creates a study guide that even lists how he gives partial credit so that way there is no room for error. Outside of class he was very easy to approach which was nice for me since I have never been one to visit teachers outside of class but he encourages you to and was very flexible. Mr. Clontz is definitely someone I would recommend to future students.
 
 > Really good communication with class. Excellent resources provided online.
+
+---
 
 ### Fall 2012
 
