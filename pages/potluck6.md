@@ -26,7 +26,10 @@ by another team.
 
 * Teams are comprised of one or two people.
 
-* (TODO organizer team) <!-- The organizer's team will submit a puzzle and will play all the puzzles present along with the other teams, but will not be eligible for points so that there is a more or less impartial judge in the event one is needed. -->
+* The organizer will provide two puzzles exclusively for Designer Teams to
+  complete in place of their own puzzle(s). Solver Teams can try these puzzles
+  after the event at their leisure. The organizer will serve as impartial judge
+  if necessary, but these things tend to run themselves. :-)
 
 ### Designing Puzzles
 
