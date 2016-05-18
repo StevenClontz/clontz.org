@@ -32,6 +32,10 @@ of Advanced Calculus of Several Variables (undergrad multivariable analysis).
 Needless to say, it was a very enjoyable semester, with several very
 talented students.
 
+Here are some selected qualitative comments. Full quantitative and qualitative
+data on this semester (and all future semesters) is available at the link
+at the top of the page under Full Evaluations.
+
 #### Calculus IV
 
 > In particular, I appreciated the methods used to grade quizzes.
