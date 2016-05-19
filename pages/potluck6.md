@@ -41,16 +41,19 @@ at <steven.clontz@gmail.com> if you have thoughts.**
   MUST be completed one week in advance of the event.** The event will have to be
   canceled unless the Designer Teams pull through!
 
-* Teams should provide enough copies of their puzzle(s) for every other
-  Team to solve.
+* Designer Teams only need to create one copy of each puzzle they contribute,
+  except for any consumable elements which must be reset between teams.
 
 * Puzzles can be of any type (creativity is encouraged!)
-  but should be designed within 30 minutes. All necessary material to solve a
+  but should be designed to be solved within 30 minutes.
+  All necessary material to solve a
   puzzle should be provided by the designing team, aside from the
   materials all teams are required to bring (listed below).
 
-* **Puzzles must solve to a word or phrase.** The organizer will provide
-  a solution sheet for each team's solutions to all puzzles.
+* **Puzzles must solve to a word, phrase, number, or otherwise some sequence of
+  letters and/or numbers.** The organizer will provide
+  a solution sheet with blank spaces for each team to write their guesses
+  for all puzzle solutions.
 
 * Puzzles must not require players to leave the event venue in order to be
   solved.
@@ -73,7 +76,8 @@ at <steven.clontz@gmail.com> if you have thoughts.**
   changed/added after the 30 minutes for that puzzle have expired.
 
 * The organizer will keep the official time. After each puzzle, teams will
-  have a brief period to rotate to the next numbered station (or back to
+  have a brief period to reset their puzzle(s)
+  and rotate to the next numbered station (or back to
   station 1 from the highest numbered station) before the organizer
   starts the next 30 minutes.
 
@@ -89,32 +93,32 @@ at <steven.clontz@gmail.com> if you have thoughts.**
 
 ### How to Win
 
-* All teams are eligible for the **Solver Trophy**. Solve Points toward this
-  trophy are awarded as follows:
-    * 10 Solve Points for solving another team's puzzle
-    * (For Designer Teams only) 1 Solve Point for each 10% of teams which solve
-      a puzzle your team designed up to 60%, and -1 Solve Point for each
-      additional 10% of teams which solve your puzzle.
-        * For example, suppose your team provides two puzzles. If 5/9=55% of the
-        other teams solve your first, your team earns 5 Solve Points by this
-        rule. But if 8/9=88% of the other teams solve your second puzzle, then
-        your team earns 6 Solve Points for the first 60%, minus 2 Solve Points
-        for the additional 28%, totaling 4 Solve Points.
-    * (For Designer Teams only) 5 Solve Points for solving an organizer's
-      puzzle.
-        * Note that this allows for Designer Teams to earn up to 6+5=11 Solve
-          Points for each puzzle they contribute, rather than the 10
-          Solve Points available to other teams for that puzzle.
-
-* Only Designer Teams are eligible for the **Designer Trophy**. Each team
+* Designer Teams are eligible for the **Designers' Trophy**. Each team
   will complete a survey on all the other puzzles they completed, simply
   ranking each on a scale of 1 to 5 stars (with half-stars allowed). The
-  average ranking each puzzle receives is its Design S
+  Design Points for a puzzle are given by the average number of stars it
+  receives from this survey multiplied by two and rounded to the nearest
+  integer.
+  The Designer Team which contributed the puzzle with the
+  most Design Points wins the trophy.
 
-* In the case of a tie for either trophy, each team's Solve Points is added to
-  their Design Stars for each contributed puzzle to rank the tied teams.
-  (Note this gives an advantage to Designer Teams, and a greater advantage to
-  a Designer Team contributing two puzzles.) If this does not break the
+* All Teams are eligible for the **Potluck Trophy**, although Designer Teams
+  will have an advantage. The team earning the most Potluck Points as described
+  below will win this trophy.
+    * 10 Potluck Points are awarded for solving another team's puzzle
+    * A maximum of 20 Potluck Points are awarded to Designer Teams for each
+      puzzle they contribute. This is calculated by the formula
+      \\((1-\\left|\\frac{2}{3}-\\frac{Solves}{Teams}\\right|)\\times Bonus \\times 10\\),
+      where Teams is the number of opposing teams, Solves is the number of
+      opposing teams who solved the puzzle, and Bonus is 2 if your team solved the
+      organizer's substitute puzzle and 1 otherwise.
+
+* Solver Teams are eligible for the **Solvers' Trophy** based upon their
+  Potluck Points.
+
+* In the case of a tie for any trophy, the sum of Design Points and Potluck
+  Points will be used to break the tie.
+  (Note this gives an advantage to Designer Teams.) If this does not break the
   tie, then the remaining tied teams will be asked a toss-up puzzle with a
   numerical answer, and the team closest to the correct answer wins.
 
@@ -127,7 +131,7 @@ is limited by the number of Designer Teams contributing two puzzles.
 * **Designer Teams**  
   (must design puzzles before *TBD*)
     * *(none)*
-* **Solver Teams (available: 0)**
+* **Solver Teams (currently available: 0)**
     * *(none)*
 
 ## Survey Results
