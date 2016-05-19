@@ -24,6 +24,9 @@ by another team.
 
 ## Rules
 
+**Consider the below rules as unofficial, pending feedback. Email me
+at <steven.clontz@gmail.com> if you have thoughts.**
+
 * Teams are comprised of one or two people.
 
 * The organizer will provide two puzzles exclusively for Designer Teams to
@@ -33,49 +36,98 @@ by another team.
 
 ### Designing Puzzles
 
-* Each Designer Team must design one or two original puzzles. These puzzles
-MUST be completed one week in advance of the event. The event will have to be
-canceled unless the Designer Teams pull through!
+* Each Designer Team must design one or two original puzzles. The team
+  designates how many puzzles they will provide at registration. **These puzzles
+  MUST be completed one week in advance of the event.** The event will have to be
+  canceled unless the Designer Teams pull through!
 
 * Teams should provide enough copies of their puzzle(s) for every other
-Team to solve.
+  Team to solve.
 
 * Puzzles can be of any type (creativity is encouraged!)
-but should be designed within 30 minutes. All necessary material to solve a
-puzzle should be provided by the designing team, aside from the
-materials all teams are required to bring (listed below).
+  but should be designed within 30 minutes. All necessary material to solve a
+  puzzle should be provided by the designing team, aside from the
+  materials all teams are required to bring (listed below).
 
-* Puzzles must provide a mechanism for recording a solution, which is
-scored "all-or-nothing". (TODO: master solution sheet?)
+* **Puzzles must solve to a word or phrase.** The organizer will provide
+  a solution sheet for each team's solutions to all puzzles.
 
 * Puzzles must not require players to leave the event venue in order to be
-solved.
+  solved.
 
 ### Playing the Game
 
-* (TODO materials to bring)
+* All teams should bring **paper** (as a notebook, or perhaps on a clipboard)
+  and uncolored **pens/pencils**. Any other required
+  supplies will be provided by the Designer Teams for their own puzzle(s).
 
-* (TODO stations)<!-- The Potluck consists of one station per puzzle (Station 1, Station 2, etc.), plus a Timekeeper Station, and one 30 minute Round per team. Teams begin at the Station number equal to their team number plus one, looping back to the Timekeeper Station. (Team 1 starts at Station 2, Team 2 starts at Station 3, and the highest-numbered Team starts at the Timekeeper Station.) Each Team leaves a copy of their puzzle at the Station matching their own number. During each Round, each Team solves the puzzle at their Station before the 30 minutes elapses. The Team at the Timekeeper Station is responsible for timing the 30 minutes for the Round and giving warnings at 20, 10, and 5 minutes. -->
+* The potluck consists of at least one station per puzzle. Teams begin at the
+  station matching their number (which may or may not feature one of their own
+  puzzles). During each round, teams have 30 minutes
+  to solve the puzzle at their station. (If a Designer Team is at a station
+  with their own puzzle, they will solve a puzzle provided by the organizer
+  instead.)
 
-* (TODO scoring) <!-- There will be a few minutes between Rounds for each Team to evaluate and reset the puzzle at their Station. Results should be recorded on the Team Scoresheet. -->
+* Solutions must be written on the provided solution sheet
+  and kept with the team until the end of the game; solutions may not be
+  changed/added after the 30 minutes for that puzzle have expired.
 
-* (TODO rotations) <!-- Each consecutive Round, Teams progress to the next numbered Station, looping from the final Station to the Timekeeper Station. -->
+* The organizer will keep the official time. After each puzzle, teams will
+  have a brief period to rotate to the next numbered station (or back to
+  station 1 from the highest numbered station) before the organizer
+  starts the next 30 minutes.
+
+* At the end of competition, the organizer will collect solution sheets from
+  all teams to grade.
+
+* The organizer will distribute surveys asking each team about each puzzle
+  (besides the organizer's, which are ineligible for awards). Each
+  Designer Team will be given 90 seconds to first state the solution,
+  and then describe how they intended their puzzle to be solved and any other
+  relevant information. The organizer will grade the solution sheets during
+  this time.
 
 ### How to Win
 
-* (TODO wrapup) <!-- After all of the Rounds are completed, Teams will gather to explain their puzzles and solutions in order. After these explanations, teams will fill out and turn in their Puzzle Ranking Sheets. Points will be scaled linearly so that each team awards the same number of points total to their opponents. -->
+* All teams are eligible for the **Solver Trophy**. Solve Points toward this
+  trophy are awarded as follows:
+    * 10 Solve Points for solving another team's puzzle
+    * (For Designer Teams only) 1 Solve Point for each 10% of teams which solve
+      a puzzle your team designed up to 60%, and -1 Solve Point for each
+      additional 10% of teams which solve your puzzle.
+        * For example, suppose your team provides two puzzles. If 5/9=55% of the
+        other teams solve your first, your team earns 5 Solve Points by this
+        rule. But if 8/9=88% of the other teams solve your second puzzle, then
+        your team earns 6 Solve Points for the first 60%, minus 2 Solve Points
+        for the additional 28%, totaling 4 Solve Points.
+    * (For Designer Teams only) 5 Solve Points for solving an organizer's
+      puzzle.
+        * Note that this allows for Designer Teams to earn up to 6+5=11 Solve
+          Points for each puzzle they contribute, rather than the 10
+          Solve Points available to other teams for that puzzle.
 
-* (TODO winners) <!-- Finally, each Team will turn in their Team Scoresheet and Puzzle Ranking Sheet to the organizer, who will tabulate the scores and announce the winners. -->
+* Only Designer Teams are eligible for the **Designer Trophy**. Each team
+  will complete a survey on all the other puzzles they completed, simply
+  ranking each on a scale of 1 to 5 stars (with half-stars allowed). The
+  average ranking each puzzle receives is its Design S
+
+* In the case of a tie for either trophy, each team's Solve Points is added to
+  their Design Stars for each contributed puzzle to rank the tied teams.
+  (Note this gives an advantage to Designer Teams, and a greater advantage to
+  a Designer Team contributing two puzzles.) If this does not break the
+  tie, then the remaining tied teams will be asked a toss-up puzzle with a
+  numerical answer, and the team closest to the correct answer wins.
 
 ## Registered Teams
 
 Registration is not yet open (hey, we don't even have a date yet). After
-it is, the teams will be listed here.
+it is, the teams will be listed here. Note that availability for Solver Teams
+is limited by the number of Designer Teams contributing two puzzles.
 
 * **Designer Teams**  
   (must design puzzles before *TBD*)
     * *(none)*
-* **Solver Teams**
+* **Solver Teams (available: 0)**
     * *(none)*
 
 ## Survey Results
