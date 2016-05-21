@@ -62,9 +62,12 @@ at <steven.clontz@gmail.com> if you have thoughts.**
 
 ### Playing the Game
 
-* All teams should bring **paper** (as a notebook, or perhaps on a clipboard)
-  and uncolored **pens/pencils**. Any other required
-  supplies will be provided by the Designer Teams for their own puzzle(s).
+* All teams should bring **paper** (loose leaf, but a having a
+  clipboard or notebook is fine)
+  and **pens/pencils** (black/blue). Any other required
+  supplies must be provided by the Designer Teams for their own puzzle(s)
+  and kept at the puzzle's station throughout the game
+  (e.g. colored pencils/crayons if coloring is required).
 
 * The potluck consists of at least one station per puzzle. Teams begin at the
   station matching their number (which may or may not feature one of their own
