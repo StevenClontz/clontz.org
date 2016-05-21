@@ -27,7 +27,7 @@ by another team.
 **Consider the below rules as unofficial, pending feedback. Email me
 at <steven.clontz@gmail.com> if you have thoughts.**
 
-* Teams are comprised of one or two people.
+* Teams are composed of one or two people.
 
 * The organizer will provide two puzzles exclusively for Designer Teams to
   complete in place of their own puzzle(s). Solver Teams can try these puzzles
@@ -38,11 +38,13 @@ at <steven.clontz@gmail.com> if you have thoughts.**
 
 * Each Designer Team must design one or two original puzzles. The team
   designates how many puzzles they will provide at registration. **These puzzles
-  MUST be completed one week in advance of the event.** The event will have to be
+  MUST be completed one week in advance of the event.** When a puzzle has
+  been finalized, the team should email the organizer with its solution.
+  The event will have to be
   canceled unless the Designer Teams pull through!
 
 * Designer Teams only need to create one copy of each puzzle they contribute,
-  except for any consumable elements which must be reset between teams.
+  except for any consumable elements which must be reset for each team.
 
 * Puzzles can be of any type (creativity is encouraged!)
   but should be designed to be solved within 30 minutes.
@@ -86,8 +88,8 @@ at <steven.clontz@gmail.com> if you have thoughts.**
 
 * The organizer will distribute surveys asking each team about each puzzle
   (besides the organizer's, which are ineligible for awards). Each
-  Designer Team will be given 90 seconds to first state the solution,
-  and then describe how they intended their puzzle to be solved and any other
+  Designer Team will be given two minutes to describe how they intended their
+  puzzle to be solved, its solution, and any other
   relevant information. The organizer will grade the solution sheets during
   this time.
 
