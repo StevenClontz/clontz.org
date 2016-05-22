@@ -95,7 +95,7 @@ middle school and high school students at capacity.
 
 ### Mathematical Puzzle Programs
 
-![MaPP](http://www.mappmath.org/img/logo/banner_color.svg)
+![MaPP](http://mappmath.org/img/logo/banner_color.svg)
 
 Due to the ridiculous success of AMP'd at Auburn, I saw a demand
 for expanding the availability for these sorts of educational experiences
