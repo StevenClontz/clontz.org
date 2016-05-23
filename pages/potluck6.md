@@ -138,7 +138,8 @@ two puzzles, but we will waitlist any interested Solver Teams in the meantime.
 * **Designer Teams**  
   *(must design 1 or 2 puzzles before 2016 July 23)*
     * Eric Harshbarger (2 puzzles)
-* **Solver Teams (currently available: 1)**
+    * Zachary Sarver (2 puzzles)
+* **Solver Teams (currently available: 2)**
     * *(none)*
 
 ## Survey Results
