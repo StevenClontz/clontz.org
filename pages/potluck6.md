@@ -45,7 +45,8 @@ by another team**.
   except for any consumable elements which must be reset for each team.
 
 * Puzzles can be of any type (creativity is encouraged!)
-  but should be designed to be solved within 30 minutes.
+  but should be designed to be solved within roughly half an hour
+  (28 minutes to be precise).
   All necessary material to solve a
   puzzle should be provided by the designing team, aside from the
   materials all teams are required to bring (listed below).
@@ -80,7 +81,7 @@ by another team**.
   changed/added after the 30 minutes for that puzzle have expired.
 
 * The organizer will keep the official time. After each puzzle, teams will
-  have a brief period to reset their puzzle(s)
+  have two minutes to reset their puzzle(s)
   and rotate to the next numbered station (or back to
   station 1 from the highest numbered station) before the organizer
   starts the next 30 minutes.
@@ -132,15 +133,19 @@ by another team**.
 To register, email the organizer at
 <steven.clontz@gmail.com>. Specify if you will be a Solver or Designer Team,
 your teammate (if any), and the number of puzzles you'll be contributing.
-We can only support Solver Teams if we have Designer Teams who contribute
+We can only support as many Solver Teams as we have Designer Teams who contribute
 two puzzles, but we will waitlist any interested Solver Teams in the meantime.
+
+**Registration will close on 2016 July 16.** Space will be limited to 10 total
+puzzles, so I recommend that you register early if you want to play
+(you can add a teammate at a later date).
 
 * **Designer Teams**  
   *(must design 1 or 2 puzzles before 2016 July 23)*
     * Eric Harshbarger (2 puzzles)
     * Zachary Sarver (2 puzzles)
-* **Solver Teams (currently available: 2)**
-    * *(none)*
+* **Solver Teams**
+    * Ashley McCrary and Dave McCrary
 
 ## Survey Results
 
