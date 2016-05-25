@@ -24,7 +24,8 @@ My philosophy of teaching is available with my
 
 ## Evaluations
 
-While at Auburn University and later at UNC Charlotte, I've had the
+During my time at Auburn University, UNC Charlotte, and now
+South Alabama, I've had the
 opportunity to work with hundreds of students as the instructor of
 several mathematics courses. I think that I've done well overall, and this
 is reflected by the evaluations they've left me. I've included excerpts
