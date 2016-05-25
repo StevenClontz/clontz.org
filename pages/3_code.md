@@ -18,10 +18,11 @@ libraries I'd never have picked up programming as a hobby, much less a
 vocation. By working as a community, we can create robust and secure
 applications for the betterment of society.
 
-My major project was [Teloga.com](http://teloga.com), a CRM for
+My largest project so far was co-founding and developing
+[Teloga.com](http://teloga.com), a CRM for
 collegiate music organizations which operated from 2011-2015. It
-was built on Ruby on Rails and AngularJS. I've also done consulting
-for organizations such as the
+was built on Ruby on Rails (previously Django) and AngularJS. I've also done
+technology consulting for organizations such as the
 [AU Department of Mathematics and Statistics](http://auburn.edu/math/)
 and the [National Museum of Mathematics](http://momath.org).
 

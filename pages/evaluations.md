@@ -6,8 +6,6 @@ header-img: "img/teaching-bg.jpg"
 permalink: /teaching/evaluations/
 ---
 
-[↑ Back to my Teaching page](/teaching/)
-
 During my years at Auburn University, UNC Charlotte, and
 South Alabama, I've had the
 opportunity to work with hundreds of students as the instructor of
