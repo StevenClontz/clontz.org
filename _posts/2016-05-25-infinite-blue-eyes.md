@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Infinite Blue Eyes Puzzle"
-subtitle:   "gotta get off this rock, Chuck"
+subtitle:   "like a deep blue sea"
 date:       2016-03-28 21:18:00
 header-img: "img/math-bg.png"
 ---
@@ -32,11 +32,11 @@ communicate with each other, but they share a few truths:
 * All islanders are immortal, except as explained below.
 * All islanders know the color of every other islander's eyes, but not their own.
 * If an islander has enough information to logically deduce the color of their
-  own eyes, they will perish at noon on the following day, which will be
+  own eyes, they will perish at midnight of the following day, which will be
   noticed by the other islanders.
 * Any message washed ashore in a bottle can be trusted.
 
-Now as it happens, at 12:01pm on Day 0, a message washes ashore in a bottle,
+Now as it happens, at 12:01am on Day 0, a message washes ashore in a bottle,
 and is read by all the islanders:
 
 > There is at least one islander with blue eyes.
@@ -51,7 +51,7 @@ for infinitely many islanders, as long as only finitely many have blue eyes.
 
 The easy case is when there is only one islander with blue eyes. She reads
 the message, looks around, and sees no one else with blue eyes. Therefore,
-she correctly deduces she must be the islander with blue eyes. So, at noon
+she correctly deduces she must be the islander with blue eyes. So, at midnight
 on Day 1, she's dead as a doornail.
 
 What about the rest of them? Well, suppose you are another islander. You
@@ -73,31 +73,87 @@ and every other islander, live on.
 So, we have proven the following fact.
 
 **Proposition** If there is only one islander with blue eyes, she will
-perish at noon on Day 1, and all others will survive.
+perish at midnight on Day 1, and all others will survive.
 
 However, we are more interested in the lemmas which led us to this
 conclusion.
 
-**Lemma** If an islander can see at least one islander with blue eyes, she cannot
-deduce her eye color by noon on Day 1.
+**Lemma** If an islander sees at least one islander with blue eyes, she cannot
+deduce her eye color by Day 1.
 
-**Lemma** If an islander can see no other islanders with blue eyes, she can
-deduce her eye color by noon on Day 1.
+**Lemma** If an islander sees no other islanders with blue eyes, she can
+deduce her eye color by Day 1.
 
 We'd like to prove two generalizations. We will always assume
 \\(N\\in\\omega=\\{0,1,2,\\dots\\}\\).
 
-**Lemma** If an islander can see at least \\(N+1\\) other islanders with blue
-eyes, she cannot deduce her eye color by noon on Day \\(N+1\\).
+**Lemma** If an islander sees at least \\(N\\) other islanders with blue
+eyes, she knows on Day \\(0\\) that she will not be able to deduce her eye
+color before Day \\(N\\).
 
-*Proof* This is true for \\(N=0\\), so by induction we may assume it is true for
-\\(N+1\\) and aim to show it for \\(N+2\\). Let \\(Alice\\) be such
+*Proof.* This is trivially true for \\(N=0\\), so by induction we may assume
+it is true for
+\\(N\\) and aim to show it for \\(N+1\\). Let \\(Alice\\) be such
 an islander who sees at least
-\\(N+2\\) blue-eyed islanders. By induction, she cannot deduce her eye color
-by noon on Day \\(N+1\\) as she sees at least \\(N+1\\) blue-eyed islanders.
-Importantly, no other islander can deduce their eye
+\\(N+1\\) blue-eyed islanders. By induction, she cannot deduce her eye color
+by noon on Day \\(N\\) as she sees at least \\(N\\) blue-eyed islanders.
+Importantly, Alice realizes that no other islander can deduce their eye
 color by then either! Any blue-eyed islander besides \\(Alice\\) can see
-the other \\(N+1\\) blue-eyed islanders \\(Alice\\) observed, so they also are
+the other \\(N\\) blue-eyed islanders \\(Alice\\) observed, so they also are
 subject to the induction hypothesis. And of course the non-blue-eyed islanders
-can see the same \\(N+2\\) blue-eyed islanders \\(Alice\\) noticed, so they
-too see at least \\(N+1\\) pairs of blue eyes.
+can see the same \\(N+1\\) blue-eyed islanders \\(Alice\\) noticed, so they
+too see at least \\(N\\) pairs of blue eyes.
+
+Since \\(Alice\\) knows from Day \\(0\\) that no other islander can deduce his
+own eye color during the first \\(N\\) days, so she gains no information she
+cannot deduce herself from the beginning when noon on day \\(N\\) rolls around
+and everyone is still alive. Therefore,
+she still cannot deduce her eye color by noon on day \\(N+1\\). \\(\\square\\)
+
+**Lemma** If an islander sees \\(N\\) other islanders with blue eyes who
+are alive on Day \\(N\\), then she can deduce her eye color by Day \\(N+1\\).
+
+*Proof.* We again proceed by induction as this holds for \\(N=0\\). Let
+\\(Alice\\) be an islander who sees \\(N+1\\) other islanders with blue eyes
+who are alive on Day \\(N+1\\). Let \\(Bob\\) be one of the islanders she
+observes with blue eyes. She proceeds by contradiction. If she lacked blue
+eyes, then on Day \\(N\\) Bob would have seen the \\(N\\) other islanders with
+blue eyes that Alice observed. Thus, by induction, he would have perished
+at midnight on Day \\(N+1\\), a contradiction. Therefore, Alice may deduce
+that she has blue eyes. \\(\\square\\)
+
+<small><i>
+It's interesting that I used contradiction above. It would seem that Alice must
+assume the <a href="https://en.wikipedia.org/wiki/Law_of_excluded_middle">
+Law of the Excluded Middle</a> here, but I am not a logician, so perhaps
+I missed something.
+</i></small>
+
+**Theorem** If there are \\(N+1\\) islanders with blue eyes, they will
+perish at midnight on Day \\(N+1\\), and all others will survive.
+
+*Proof.* Each blue-eyed islander sees \\(N\\) other islanders with blue
+eyes, so by the above lemmas they will be alive on Day \\(N\\), but must
+perish on Day \\(N+1\\). The other islanders see \\(N+1\\) other islanders
+with blue eyes, and thus survive on Day \\(N+1\\). Since the blue-eyed islanders
+perished that morning, the others deduce that they cannot have blue eyes,
+but cannot specify their eye color further and thus survive.
+\\(\\square\\)
+
+## What's the wait for?
+
+It's worth pointing out that when there is more than one islander with blue eyes,
+no one gains information from the message on the bottle. So, what's the hold up?
+It wasn't obvious to me from the above proof (even though I wrote it!),
+so here's my intuition.
+
+The important thing to note is that if you see \\(N+2\\) people with blue eyes,
+you are waiting until they give you more information. You cannot tell if your
+eyes are blue or not. And if they aren't, a blue-eyed islander sees only
+\\(N+1\\) people with blue eyes. In their shoes, they have the same uncertainty,
+and they should consider the possibility they lack blue eyes, in which case
+the other blue-eyed islanders see only \\(N\\) people with blue eyes.
+And so on, and so forth. The idea is that you know it will take at
+least \\(N+1\\) days to remove the uncertainty from the other islanders with blue 
+eyes, because they lack information you have about what the others see.
+That's why the wait is required.
