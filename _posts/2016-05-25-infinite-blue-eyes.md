@@ -2,7 +2,7 @@
 layout:     post
 title:      "Infinite Blue Eyes Puzzle"
 subtitle:   "like a deep blue sea"
-date:       2016-03-28 21:18:00
+date:       2016-05-26 10:18:00
 header-img: "img/math-bg.png"
 ---
 
@@ -78,16 +78,16 @@ perish at midnight on Day 1, and all others will survive.
 However, we are more interested in the lemmas which led us to this
 conclusion.
 
-**Lemma** If an islander sees at least one islander with blue eyes, she cannot
+**Lemma 1'** If an islander sees at least one islander with blue eyes, she cannot
 deduce her eye color by Day 1.
 
-**Lemma** If an islander sees no other islanders with blue eyes, she can
+**Lemma 2'** If an islander sees no other islanders with blue eyes, she can
 deduce her eye color by Day 1.
 
 We'd like to prove two generalizations. We will always assume
 \\(N\\in\\omega=\\{0,1,2,\\dots\\}\\).
 
-**Lemma** If an islander sees at least \\(N\\) other islanders with blue
+**Lemma 1** If an islander sees at least \\(N\\) other islanders with blue
 eyes, she knows on Day \\(0\\) that she will not be able to deduce her eye
 color before Day \\(N\\).
 
@@ -110,7 +110,7 @@ cannot deduce herself from the beginning when noon on day \\(N\\) rolls around
 and everyone is still alive. Therefore,
 she still cannot deduce her eye color by noon on day \\(N+1\\). \\(\\square\\)
 
-**Lemma** If an islander sees \\(N\\) other islanders with blue eyes who
+**Lemma 2** If an islander sees \\(N\\) other islanders with blue eyes who
 are alive on Day \\(N\\), then she can deduce her eye color by Day \\(N+1\\).
 
 *Proof.* We again proceed by induction as this holds for \\(N=0\\). Let
@@ -129,7 +129,7 @@ Law of the Excluded Middle</a> here, but I am not a logician, so perhaps
 I missed something.
 </i></small>
 
-**Theorem** If there are \\(N+1\\) islanders with blue eyes, they will
+**Theorem 3** If there are \\(N+1\\) islanders with blue eyes, they will
 perish at midnight on Day \\(N+1\\), and all others will survive.
 
 *Proof.* Each blue-eyed islander sees \\(N\\) other islanders with blue
@@ -154,6 +154,73 @@ eyes are blue or not. And if they aren't, a blue-eyed islander sees only
 and they should consider the possibility they lack blue eyes, in which case
 the other blue-eyed islanders see only \\(N\\) people with blue eyes.
 And so on, and so forth. The idea is that you know it will take at
-least \\(N+1\\) days to remove the uncertainty from the other islanders with blue 
-eyes, because they lack information you have about what the others see.
+least \\(N+1\\) days to remove the uncertainty from the other islanders with blue
+eyes, because they lack information you have about their own eyes.
 That's why the wait is required.
+
+## The infinite case
+
+So, we've handled the case where there are an arbitrary number of islanders
+(even infinite!), but only finitely many islanders with blue eyes. So,
+what if there are infinitely many islanders with blue eyes?
+
+Well, we already have a very nice lemma above, **Lemma 1**. That allows us
+to prove that, since all islanders see infinitely many pairs of blue eyes,
+no islander can deduce their eye color by Day \\(N\\) for all
+\\(N\\in\\{0,1,2,\\dots\\}\\).
+
+So, assuming that our days are limited to the finite ordinals, the case is
+closed. But why should we stop there? What if there exists a day for every
+[ordinal number][ordinals]?
+
+[ordinals]: https://en.wikipedia.org/wiki/Ordinal_number
+
+We should consider what happens on Day \\(\\omega\\). Will anyone wake up dead?
+The answer is of course, no. All islanders were able to deduce from the
+beginning that no one could perish after a finite number of days, so
+by the time Day \\(\\omega\\) begins, no one has gained information they didn't
+already have. We shall be able to extend this argument by
+[transfinite induction][transfinite induction] to handle every ordinal
+(regardless of the cardinality of the ordinal or the set of blue-eyed islanders).
+
+[transfinite induction]: https://en.wikipedia.org/wiki/Transfinite_induction
+
+**Theorem 4** If there infinitely many islanders with blue eyes, then no islanders
+can deduce their eye color by Day \\(\\alpha\\), where \\(\\alpha\\) is any ordinal.
+
+*Proof.* If \\(\\alpha\\) is finite, we are done by Lemma 1. By transfinite induction,
+we may assume the theorem holds for all \\(\\beta\\lt\\alpha\\). In order to
+deduce her eye color by Day \\(\\alpha\\), \\(Alice\\) requires new information on
+a previous day. However, by the induction hypothesis, \\(Alice\\) knows from
+the beginning that every islander cannot deduce their eye color by a previous
+day. So, if \\(\\alpha\\) is a limit ordinal, we are done. The other case
+is when \\(\\alpha=\\beta+1\\) for some \\(\\beta\\lt\\alpha\\). Alice wakes up
+on Day \\(\\beta\\), and is immediately bored. She already knew that everyone
+sees infinitely many islanders with blue eyes, so she already knew that
+everyone would be alive. Indeed, they are. So, she has gained no new information
+that morning, and therefore cannot deduce anything new by the end of the day,
+the beginning of Day \\(\\alpha\\). \\(\\square\\)
+
+## In conclusion
+
+In working on this article, I was particularly amused by the following:
+
+* If the cardinality \\(\\kappa\\) of islanders with blue eyes is **finite**,
+  then all blue-eyed islanders will **perish** after finitely-many days.
+  (Specifically, \\(\\kappa\\)-many.)
+* If the cardinality \\(\\kappa\\) of islanders with blue eyes is **infinite**,
+  then all blue-eyed islanders will **remain alive** no matter how many days
+  pass, even after \\(\\kappa\\)-many days.
+
+I have some intuition here: in any case, the unknown datum for each
+islander (their own eye color) is finite. Thus, if there are finitely many
+blue-eyed islanders, this datum is important! But, if there are infinitely many
+blue-eyed islanders, then the status of an islander's own eyes is irrelevant
+to the cardinality of that set. Therefore, the bottled message, which says
+that the cardinality of blue-eyed islanders is positive, gives no new information
+to the islanders, **because they already have exactly the same information about
+the cardinality of blue-eyed islanders**.
+
+I hope you found all that interesting. If you have any comments or questions,
+shoot them to me at [@StevenXClontz](http://twitter.com/StevenXClontz).
+Thanks for reading! :-)
