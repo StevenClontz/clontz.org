@@ -144,6 +144,7 @@ puzzles, so I recommend that you register early if you want to play
   *(must design 1 or 2 puzzles before 2016 July 23)*
     * Eric Harshbarger (2 puzzles)
     * Zachary Sarver (2 puzzles)
+    * Robert Ford and Tim Hardwick (2 puzzles)
 * **Solver Teams**
     * Ashley McCrary and Dave McCrary
 
