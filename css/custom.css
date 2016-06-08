@@ -1,0 +1,10 @@
+.container li {
+  margin-top: 0.5em;
+}
+.container .breadcrumb li {
+  margin-top: 0;
+}
+
+.container img {
+  max-width: 100%;
+}
