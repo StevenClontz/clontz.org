@@ -28,10 +28,10 @@ layout: default
         <li {% if forloop.last %}class="active"{% endif %}>
           {% unless forloop.last %}
             <a href="/{% for crumb in crumbs offset:1 limit:forloop.index %}{{crumb}}/{% endfor %}">
-              {{ crumb | capitalize }}
+              {{ crumb }}
             </a>
           {% else %}
-            {{ crumb | capitalize }}
+            {{ crumb }}
           {% endunless %}
         </li>
       {% endfor %}
