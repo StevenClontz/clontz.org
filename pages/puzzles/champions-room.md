@@ -45,6 +45,13 @@ If you have any comments or suggestions for improvement, please contact me
 [by email](steven.clontz@gmail.com) or
 [@StevenXClontz](http://twitter.com/StevenXClontz).
 
+Of course, I'd be remiss if I neglected to point out the major advantage of such a
+room. **Champions' rooms are designed to refresh at frequent intervals,
+giving dedicated players who have exhausted your other rooms more opportunities
+to play games at your business.**
+
+---
+
 # Game Overview
 
 A **champions' room** is an escape room variant drawing inspiration from
@@ -117,7 +124,32 @@ making it easy to create new content for new seasons.
 
 # Puzzle Design
 
-**To be written**
+The puzzles in a champions' room are distinct from escape room puzzles.
+Because there are so few, and because they are available from the beginning
+of the game in parallel, they have the latitude to be deeper than you can
+achieve in a serial escape room. As mentioned before, puzzle concepts that you
+may encounter in a Puzzled Pint event or early in a DASH hunt are fair game.
+
+As a rule of thumb, you *don't* want most teams to solve all the puzzles,
+although they should solve many. I use the following system to determine
+the average length of a puzzle, assuming that players will attack puzzles
+in pairs: (TODO: complete)
+
+<!--
+\\[
+  \\frac{1}{8 puzzles} \\times 75 minutes \\times \\frac{1}{2}(\\# MaxPlayers)
+\\]
+
+In particular, in a room which supports 8 maximum players, the average puzzle
+should actually take roughly 37 minutes when solved by a pair of
+players. However, this should indeed
+be the average. While players should not be told this explicitly, the
+colors are chosen to represent difficulty: green puzzles are easy,
+blue puzzles are medium, red puzzles are hard, and the white puzzle
+is expert-level. So for eight players, green puzzles may be designed to last
+15 minutes, blue puzzles 25 minutes, red puzzles 50 minutes, and the
+white puzzle might take most players over an hour.
+-->
 
 # Hint System
 
