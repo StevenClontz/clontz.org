@@ -128,29 +128,44 @@ The puzzles in a champions' room are distinct from escape room puzzles.
 Because there are so few, and because they are available from the beginning
 of the game in parallel, they have the latitude to be deeper than you can
 achieve in a serial escape room. As mentioned before, puzzle concepts that you
-may encounter in a Puzzled Pint event or early in a DASH hunt are fair game.
+may encounter in a Puzzled Pint event or a novice DASH puzzle are fair game.
+If you're unfamiliar with the genre, here is an example of a novice
+[DASH7 puzzle][dash puzzle] and its [solution][dash solution].
+
+[dash puzzle]: http://playdash.org/DASH7/puzzles/2-Weighing%20of%20the%20wands-novice.pdf
+[dash solution]: http://playdash.org/DASH7/puzzles/2-Weighing%20Of%20The%20Wands%20solution.pdf
 
 As a rule of thumb, you *don't* want most teams to solve all the puzzles,
-although they should solve many. I use the following system to determine
-the average length of a puzzle, assuming that players will attack puzzles
-in pairs: (TODO: complete)
+although they should solve many, and preferably be able to open the container.
+Assuming a maximum of eight players per team,
+you could design the puzzles such that the average pair of players takes
+the following durations to solve each:
 
-<!--
-\\[
-  \\frac{1}{8 puzzles} \\times 75 minutes \\times \\frac{1}{2}(\\# MaxPlayers)
-\\]
+* Green puzzles: 10 minutes
+* Blue puzzles: 20 minutes
+* Red puzzles: 30-60 minutes
 
-In particular, in a room which supports 8 maximum players, the average puzzle
-should actually take roughly 37 minutes when solved by a pair of
-players. However, this should indeed
-be the average. While players should not be told this explicitly, the
-colors are chosen to represent difficulty: green puzzles are easy,
-blue puzzles are medium, red puzzles are hard, and the white puzzle
-is expert-level. So for eight players, green puzzles may be designed to last
-15 minutes, blue puzzles 25 minutes, red puzzles 50 minutes, and the
-white puzzle might take most players over an hour.
--->
+In particular, green puzzles are easy, blue puzzles are medium, and red puzzles
+are hard, and the container should be opened about halfway through the game.
+Then, the final white puzzle can be designed to take most full teams as long
+as 45 minutes; so, only teams which solve the white puzzle faster than the
+intended average,
+or open the container faster than the intended average, have a shot at a
+perfect run.
+
+Designing good hunt-style puzzles is arguably a different skill than your usual
+escape room fare. I recommend you do some research before attempting to
+design these puzzles yourself, or contract a professional designer with
+puzzlehunt experience to design these puzzles for you.
 
 # Hint System
 
-**To be written**
+Most escape rooms have rather loose hinting systems, which is perfectly
+fine. However, with the competitive aspect of a champions' room, the hints
+given to teams must be completely deterministic.
+
+One solution is to give out hints based on time. The delivery mechanism
+depends on the amount of technology available for the room. However,
+this may be as simple as slipping an envelope under the door every 15 minutes,
+with a list of hints for each puzzle. Hints should not be given for the
+white puzzle.
