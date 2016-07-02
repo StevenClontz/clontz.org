@@ -63,6 +63,8 @@ Wait, back to sleep? Okay.
 
 ### Confirmation(?)
 
+*ed note, okay, that's just the confirmation window, whatevs*
+
 Eric (there's the name) is still a jerk.
 
 So, here's a lecture by Zero. Blah blah, life's unfair. So we've got
@@ -89,3 +91,24 @@ Eric's giving me some Dio vibes. He's definitely gotta go.
 Here's the dog. Man, now I feel like I should follow C-Team's plan.
 Well, looks like not voting isn't an option anyway. Let's follow
 the plan and vote for C. That's what I was supposed to do, right?
+
+
+## Halfway through the first(?) set of fragments
+
+Long since gave up on "live" thoughts.
+
+Okay, so, I love serial killer Mira. Eric deserves her, but I'm sensing
+that he'll turn up to be whiny/awful for a good reason.
+
+I'm really digging the fragments system. I also look forward to seeing
+how Zero manipulates the players by lying about memories and the time
+on their watches. (Hey, why did the watch update time when they were
+transported through time and space? Guess it has a wifi connection.)
+
+But by far the best part is that I'm making the characters do awful
+things, and they don't try to rationalize it, especially Luna, *cough*,
+Diana. "I felt someone forcing my hand to press the button!" I'm just waiting
+on them to break the fourth wall and talk to me. It's interesting that Zero
+doesn't seem to recognize me as an element of the game, however, from the
+way he treats Diana when she is forced to make evil decisions. (Or maybe
+he's just a huge jerk.)
