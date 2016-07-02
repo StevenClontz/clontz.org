@@ -156,6 +156,19 @@ a variation on the traditional escape room format of my own design.
 
 [ez]: http://www.auburnescapezones.com/
 
+### Puzzled Pint
+
+![Puzzled Pint](/img/puzzled-pint.png)
+
+I co-founded the [Huntsville, AL chapter of Puzzled Pint][pphsv] with
+my friend and colleague Tracy Cobbs. Puzzled Pint is avaialble in cities
+world-wide, providing free puzzles at local pubs every second Tuesday of
+each month. We launched the Huntsville chapter in June 2016, and broke
+the international record for attendance at a chapter's first event.
+I also designed a puzzle for the election-themed November 2016 event.
+
+[pphsv]: http://twitter.com/PuzzPintHSV
+
 ### JoCo Cruise 2016
 
 ![JoCo](/img/joco.svg)
