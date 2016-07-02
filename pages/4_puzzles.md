@@ -49,26 +49,30 @@ are great team-building activities, not to mention a lot of fun for your
 organization. [Email me](mailto:steven.clontz@gmail.com) to discuss
 how we can create the perfect puzzling occasion.
 
-## Puzzlehunts
+## Portfolio
 
+I've been involved in puzzling as a hobbyist and professional since 2009.
 I'm particularly interested in puzzlehunts: large-scale events which involve
 teams of players solving puzzles, which can end up sending them across an
-entire campus or town to find the solution.
+entire campus or town to find the solution. I've also gotten involved
+in escape rooms more recently, as both a designer and player.
+
+A few of my projects can be found below.
 
 ### Auburn Puzzle Community
 
 ![Puzzlehunt](/img/puzzlehunt-2.jpg)
 
 I played and won my first
-[Auburn Puzzle Party](http://auburnpuzzleparty.wikia.com) in 2009, and
+[Auburn Puzzle Party](http://app.clontz.org) in 2009, and
 lead a team of puzzle designers to create Auburn Puzzle Parties 4 and 5 from
 2010-2012. I've also developed multiple Auburn Puzzle Potluck concepts putting
 designers in head-to-head competition.
 
 I retired from competitive puzzling in Auburn in 2016. During my tenure,
 I tied the community record for most first place wins, and I still hold
-the longest active streak of the first place wins in Auburn puzzlehunts.
-My trohpies include four
+the longest active streak of the first place wins in Auburn community puzzlehunts.
+My trophies include four
 [Eric's Puzzle Parties](http://www.ericharshbarger.org/epp/) and
 two Auburn Puzzle Parties.
 
@@ -115,24 +119,10 @@ school competition in partnership with the AMP'd Challenge.
 ![MoMath](/img/momath.png)
 
 I am a regular consultant with the National Museum of Mathematics,
-including taking lead of the design for the
+including designing the
 [2016 MoMath Dimensions Puzzlehunt](http://dimensions.momath.org),
 an annual mathematical puzzle challenge held on the museum's campus
 in New York City.
-
-### JoCo Cruise 2016
-
-![JoCo](/img/joco.svg)
-
-While I won't be on board, I contributed an original puzzle for
-the 2016 [JoCo Cruise](https://jococruise.com/) Puzzlehunt.
-
-### USC Puzzlehunt
-
-![USC Puzzlehunt](/img/usc-puzzle.png)
-
-In 2016 I was a remote competitor in the annual
-[USC Puzzlehunt](http://uscpuzzlehunt.com/).
 
 ### Leadership in the Zombie Apocolypse
 
@@ -144,3 +134,32 @@ for people managers in their "Leadership in the Zombie Apocolypse"
 training. The Leaders Foundry uses this
 event as a final test of the skills they cover in their People
 Manager Developer Program.
+
+### Escape Pod
+
+![Escape Pod](/img/escape-pod.png)
+
+I designed Von Braun's Puzzlehunt, sponsored by [Escape Pod][ep] of Huntsville, AL
+and based on their featured escape room. This five-hour hunt
+took place across the City of Huntsville during Fall 2016.
+
+[ep]: http://escapepodgame.com
+
+### Escape Zones
+
+![Escape Zones](/img/escape-zones.png)
+
+I'm a regular contributer to [Escape Zones][ez] in Auburn, AL. I've playtested
+every room they've opened to the public, and I collaborated with Eric
+Harshbarger on their first [champions' room](/puzzles/champions-room/),
+a variation on the traditional escape room format of my own design.
+
+[ez]: http://www.auburnescapezones.com/
+
+### JoCo Cruise 2016
+
+![JoCo](/img/joco.svg)
+
+I contributed an original puzzle for
+the 2016 [JoCo Cruise](https://jococruise.com/) Puzzlehunt, organized by
+my friends/colleagues Charles and Erin McPillan.
