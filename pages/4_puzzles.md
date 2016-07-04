@@ -176,3 +176,14 @@ I also designed a puzzle for the election-themed November 2016 event.
 I contributed an original puzzle for
 the 2016 [JoCo Cruise](https://jococruise.com/) Puzzlehunt, organized by
 my friends/colleagues Charles and Erin McPillan.
+
+### Super Mario Maker
+
+![Super Mario Maker](/img/super-mario-maker.jpg)
+
+I've designed several single-screen puzzle courses for Super Mario Maker
+(along with some more traditional platformers),
+available on the [Super Mario Maker Bookmark Site][smm bookmark]. Finally,
+my childhood dream of making Mario courses has come true!
+
+[smm bookmark]: https://supermariomakerbookmark.nintendo.net/profile/StevenXC
