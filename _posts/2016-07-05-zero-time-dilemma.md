@@ -3,7 +3,7 @@ layout:     post
 title:      "Zero Time Dilemma"
 subtitle:   "a spoiler-free guide"
 date:       2016-07-05 22:21:00
-header-img: "img/puzzles-bg.jpg"
+header-img: "img/20160705/fragment.jpg"
 ---
 
 The [Zero Escape trilogy](https://en.wikipedia.org/wiki/Zero_Escape)
