@@ -26,7 +26,7 @@ be solved by checking Google for answers, but in a game like ZTD, it's
 very easy to run across spoilers which will detract from the player's
 experience for a first playthrough.
 
-My goal for this post (which is currently a work in progress) is to
+My goal for this post is to
 provide first-time players a guide to push them in the correct direction,
 without any risk of spoilers. It should be referred to sparingly, and
 only when the player feels she does not know how to proceed in furthering
