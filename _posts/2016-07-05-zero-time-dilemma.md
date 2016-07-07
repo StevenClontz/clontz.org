@@ -146,7 +146,7 @@ Decisions are ordered alphabetically in this list.
     * Outcome 2
         * Prerequisites: none
         * Choice: <span class="spoiler">Press the button.</span>
-* **Execution Vote: C/D/Q**
+* **Execution Vote: C/Q/D**
     * See *Note on Execution Voting* below.
 * **Final Decision**
     * Outcome 1
@@ -335,4 +335,26 @@ Decisions are ordered alphabetically in this list.
 
 ## Note on Execution Voting
 
-TODO
+My biggest peeve with Zero Time Dilemma
+is the lack of clarity in how to trigger the different
+Execution Results. You may reasonably think that as soon as your flowchart
+contains the appropriate Decisions to execute another team, the game should
+recognize that execution.
+
+But nope. Instead, the game secretly stores the latest Decisions you made
+for each team in Execution Vote: C/Q/D. So, you need to be careful of the
+order you make your Decisions, or go back and redo all three each time.
+For your convenience,
+here's one of the quickest ways you can trigger all four Election Results:
+
+* C votes for D
+* D votes for Q
+* Q votes for C
+    * All Teams Survived
+* C votes for Q
+    * Q-Team Executed
+* D votes for C
+    * C-Team Executed
+* Q votes for D
+* C votes for D
+    * D-Team Executed
