@@ -85,16 +85,44 @@ Shoot me feedback on the Reddit post here: (TODO).
 Decisions are ordered alphabetically in this list.
 
 * **3-Way Standoff**
-    * TODO
     * Outcome 1
+        * Prerequisites: none
+        * Hint: <span class="spoiler">What two people are involved in the
+          standoff with the child?</span>
+        * Choice: <span class="spoiler">"ERIC".</span>
     * Outcome 2
+        * Prerequisites: none
+        * Hint: <span class="spoiler">What two people are involved in the
+          standoff with the child?</span>
+        * Choice: <span class="spoiler">"MIRA".</span>
     * Outcome 3
+        * Prerequisites: none
+        * Hint: <span class="spoiler">Violence isn't always the answer.</span>
+        * Choice: <span class="spoiler">"NO ONE".</span>
     * Outcome 4
+        * Prerequisites: <span class="spoiler">C-END:1</span>,
+          <span class="spoiler">D-END:2</span>, or
+          <span class="spoiler">Q-END:2</span>.
+        * Hint 1: <span class="spoiler">Start by trying any names you
+          can think of from elsewhere in the game.</span>
+        * Hint 2: <span class="spoiler">"MYSELF" fails - you cannot commit
+          suicide. Who else is there?</span>
+        * Hint 3: <span class="spoiler">If you've seen C-END:1, try to
+          solve the anagram.</span>
+        * Hint 4: <span class="spoiler">Consider attacking the character named
+          in D-END:2 or Q-END:2.</span>
+        * Choice: <span class="spoiler">"DELTA".</span>
 * <span class="spoiler">AB</span> **Game**
-    * TODO
     * Outcome 1
+        * Prerequisites: none
+        * Choice: <span class="spoiler">"ALLY".</span>
     * Outcome 2
+        * Prerequisites: <span class="spoiler">"Ally" and "Betray" gameovers.</span>
+        * Choice: <span class="spoiler">Automatic once prerequisites are
+          satisfied.</span>
     * Outcome 3
+        * Prerequisites: none
+        * Choice: <span class="spoiler">"BETRAY".</span>
 * **"Don't Press" Button**
     * Outcome 1
         * Prerequisites: none
@@ -103,46 +131,90 @@ Decisions are ordered alphabetically in this list.
         * Prerequisites: none
         * Choice: <span class="spoiler">Press the button.</span>
 * **Dream or Reality**
-    * TODO
     * Outcome 1
+        * Prerequisites: none
+        * Choice: <span class="spoiler">Let time expire.</span>
     * Outcome 2
+        * Prerequisites: none
+        * Choice: <span class="spoiler">Press the button.</span>
 * **Execution Vote: C/D/Q**
     * See *Note on Execution Voting* below.
 * **Final Decision**
     * Outcome 1
         * Prerequisites: none
-        * Choice: <span class="spoiler">"DON'T SHIFT" or let time expire</span>
+        * Choice: <span class="spoiler">"DON'T SHIFT" or let time expire.</span>
     * Outcome 2
         * Prerequisites: none
-        * Choice: <span class="spoiler">"SHIFT"</span>
+        * Choice: <span class="spoiler">"SHIFT".</span>
 * **Find the Mask**
-    * TODO
     * Outcome 1
+        * Prerequisites: none
+        * Hint 1: <span class="spoiler">Think about the Monty Hall problem.</span>
+        * Hint 2: <span class="spoiler">You have only a 10% chance of choosing
+          the correct locker without any added information.</span>
+        * Choice: <span class="spoiler">The initial choice is irrelevant, but
+          you have a 90% chance of getting this Correct outcome if you
+          switch.</span>
     * Outcome 2
+        * Prerequisites: none
+        * Hint 1: <span class="spoiler">Think about the Monty Hall problem.</span>
+        * Hint 2: <span class="spoiler">You have only a 10% chance of choosing
+          the correct locker without any added information.</span>
+        * Choice: <span class="spoiler">The initial choice is irrelevant, but
+          you have a 90% chance of getting this Incorrect outcome if you
+          don't switch.</span>
 * **Force Quit Box: C**
     * Outcome
-        * Prerequisites: ???(TODO)
-        * Hint: ???(TODO)
+        * Prerequisites: <span class="spoiler">C-END:1</span>
+        * Hint 1: <span class="spoiler">Recall the "spell to open Pandora's
+          box".</span>
+        * Hint 2: <span class="spoiler">Zero tells you this Latin phrase, which
+          means "live for today".</span>
         * Choice: <span class="spoiler">"VIVEHODIE"</span>
 * **Force Quit Box: D**
     * Outcome
-        * Prerequisites: ???(TODO)
-        * Hint: ???(TODO)
+        * Prerequisites:
+          <span class="spoiler">strong recollection of Virtue's Last
+          Reward</span> or
+          <span class="spoiler">Gun vs Incinerator Outcome 3 plus some
+          recollection of VLR</span> or
+          <span class="spoiler">D-END:2</span>
+        * Hint 1: <span class="spoiler">If you remember the events of Virtue's
+          Last Reward, you may be able to figure this out. Neither
+          item belongs to Sigma, so...</span>
+        * Hint 2: <span class="spoiler">For the first item,
+          recall Diana's memory of Phi from
+          D-COM, a few days before the events of the game. For the second
+          you'll need a certain ending from this game, or Luna's ending
+          from VLR.</span>
+        * Hint 3: <span class="spoiler">What items were sent along in a
+          transporter?</span>
         * Choice: <span class="spoiler">"BROOCH" & "BLUE BIRD"/"MUSIC BOX"</span>
 * **Force Quit Box: Q**
     * Outcome
-        * Prerequisites: ???(TODO)
-        * Hint: ???(TODO)
+        * Prerequisites: <span class="spoiler">Q-END:2</span>
+        * Hint: <span class="spoiler">Zero reveals the code to this panel
+          in another timeline.</span>
         * Choice: <span class="spoiler">"38080832"</span>
 * **Gift from Gab**
-    * TODO
     * Outcome 1
+        * Prerequisites: none
+        * Choice: <span class="spoiler">"DRINK".</span>
     * Outcome 2
+        * Prerequisites: none
+        * Choice: <span class="spoiler">"DON'T DRINK".</span>
 * **Gun vs Incinerator**
-    * TODO
     * Outcome 1
+        * Prerequisites: none
+        * Choice: <span class="spoiler">Shoot the gun. This outcome occurs
+          50% of the time.</span>
     * Outcome 2
+        * Prerequisites: none
+        * Choice: <span class="spoiler">Shoot the gun. This outcome occurs
+          50% of the time.</span>
     * Outcome 3
+        * Prerequisites: none
+        * Choice: <span class="spoiler">Let time expire.</span>
 * **Heads or Tails**
     * Outcome 1
         * Prerequisites: <span class="spoiler">CDQ-END:1</span>
@@ -154,8 +226,9 @@ Decisions are ordered alphabetically in this list.
           Outcome 1's prerequisite, then 50% afterwards.</span>
 * **Helmet Code**
     * Outcome
-        * Prerequisites: ???(TODO)
-        * Hint: ???(TODO)
+        * Prerequisites: <span class="spoiler">Reality (Bad end)</span>
+        * Hint: <span class="spoiler">Zero reveals the code to the helmet
+          in another timeline.</span>
         * Choice: <span class="spoiler">"61404091"</span>
 * **Inject** <span class="spoiler">Radical-6</span>**?**
     * Outcome 1
@@ -171,10 +244,26 @@ Decisions are ordered alphabetically in this list.
     * Outcome 2
         * Prerequisites: none
         * Choice: <span class="spoiler">Press the button.</span>
-* **The** <span class="spoiler">Antidote</span> Is?
-    * TODO
+* **The** <span class="spoiler">Antidote</span> **Is?**
     * Outcome 1
+        * Prerequisites: none
+        * Hint 1: <span class="spoiler">The antidote can be uniquely
+          determined by considering which characters' tounges are numb.</span>
+        * Hint 2: <span class="spoiler">Akane numbered the eight vials
+          A=0 through H=7, and converted them to binary, 000 through 111.
+          Carlos tested the vial if the first binary digit was 1, Junpei tested
+          the vial if the second binary digit was 1, and Akane tested the vial
+          if the last binary digit was 1.</span>
+        * Hint 3: <span class="spoiler">Match the tasting results with
+          the background image in the Decision. Carlos took the top
+          row, Junpei took the second row, and Akane took the final row.
+          Or, read the Log carefully and use logic to deduce the solution.</span>
+        * Choice: <span class="spoiler">Choose correctly using the
+          above hints.</span>
     * Outcome 2
+        * Prerequisites: none
+        * Choice: <span class="spoiler">Choose incorrectly, which occurs
+          with 87.5% likelihood when selecting randomly anyway.</span>
 * **The** <span class="spoiler">Bomb</span>
     * TODO
     * Outcome 1
