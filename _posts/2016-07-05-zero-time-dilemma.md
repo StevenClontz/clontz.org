@@ -108,7 +108,7 @@ Decisions are ordered alphabetically in this list.
         * Hint 2: <span class="spoiler">"MYSELF" fails - you cannot commit
           suicide. Who else is there?</span>
         * Hint 3: <span class="spoiler">If you've seen C-END:1, try to
-          solve the anagram.</span>
+          complete the anagram.</span>
         * Hint 4: <span class="spoiler">Consider attacking the character named
           in D-END:2 or Q-END:2.</span>
         * Choice: <span class="spoiler">"DELTA".</span>
@@ -130,6 +130,15 @@ Decisions are ordered alphabetically in this list.
     * Outcome 2
         * Prerequisites: none
         * Choice: <span class="spoiler">Press the button.</span>
+* **Door of Truth**
+    * Outcome
+        * Prerequisites:
+          <span class="spoiler">D-END:2 and Yellow Door (Q-Team Cinema)</span>
+        * Hint 1: <span class="spoiler">You've seen a hint on the other
+          side of the door during Yellow Door (Q-Team Cinema)</span>
+        * Hint 2: <span class="spoiler">You saw the birth of two babies
+          leading up to D-END:2.</span>
+        * Choice: <span class="spoiler">"11162029" (for 11/16/2029).</span>
 * **Dream or Reality**
     * Outcome 1
         * Prerequisites: none
@@ -265,29 +274,63 @@ Decisions are ordered alphabetically in this list.
         * Choice: <span class="spoiler">Choose incorrectly, which occurs
           with 87.5% likelihood when selecting randomly anyway.</span>
 * **The** <span class="spoiler">Bomb</span>
-    * TODO
     * Outcome 1
+        * Prerequisites: none
+        * Choice: <span class="spoiler">"RUN AWAY".</span>
     * Outcome 2
+        * Prerequisites: none
+        * Choice: <span class="spoiler">"DON'T RUN".</span>
 * **The Three Dice**
-    * TODO
     * Outcome 1
+        * Prerequisites: none
+        * Hint: <span class="spoiler">There's nothing you can do/learn to
+          improve your odds, but the game is gracious enough to cheat in
+          your favor.</span>
+        * Choice: <span class="spoiler">Keep rolling the dice. The game will
+          always give it to you on your third attempt.
+          (If it didn't, you would have to roll the dice 150 times just
+          for a 50% chance at victory!!)</span>
     * Outcome 2
+        * Prerequisites: none
+        * Choice: <span class="spoiler">Just roll the dice. It is the 99.537%
+          reality, after all.</span>
 * **Transporter**
-    * TODO
     * Outcome 1
+        * Prerequisites: none
+        * Choice: <span class="spoiler">"DON'T TRANSPORT".</span>
     * Outcome 2
+        * Prerequisites: none
+        * Choice: <span class="spoiler">"TRANSPORT".</span>
 * **Who** <span class="spoiler">Killed</span> **Junpei?**
     * TODO
     * Outcome 1
     * Outcome 2
 * **Who** <span class="spoiler">Killed</span> **Mira?**
-    * TODO
     * Outcome 1
+        * Prerequisites: none
+        * Hint: <span class="spoiler">Even if you knew, Eric's not
+          exactly interested in hearing it.</span>
+        * Choice: <span class="spoiler">Let time expire, "DONNO",
+          or "I DONT KNOW".</span>
     * Outcome 2
+        * Prerequisites: none
+        * Choice: <span class="spoiler">Almost anything, including
+          gibberish. However, you'll get some interesting unique reactions if
+          you try various names from the game.</span>
 * **You** <span class="spoiler">are Zero</span>**!**
-    * TODO
     * Outcome 1
+        * Prerequisites: none
+        * Choice: <span class="spoiler">Almost anything, including
+        gibberish. However, you'll get some unique reactions if
+        you try names of characters you can see in the room with you.</span>
     * Outcome 2
+        * Prerequisites: <span class="spoiler">C-END:1</span> or
+          <span class="spoiler">D-END:2</span>.
+        * Hint 1: <span class="spoiler">If you've seen C-END:1, try to
+          complete the anagram.</span>.
+        * Hint 2: <span class="spoiler">If you've seen D-END:2, you've
+          seen this person in this room before.</span>.
+        * Choice: <span class="spoiler">"DELTA".</span>
 
 
 ## Note on Execution Voting
