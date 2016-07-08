@@ -78,7 +78,10 @@ Here's my suggestions before using this guide:
    in the below list. If you have satisfied its prerequisites, then peek
    at its hints. If you give up, read its choice and move on.
 
-Shoot me feedback on the Reddit post here: (TODO).
+Shoot me feedback on the Reddit post [here][reddit].
+Thanks to /u/mythriz for pointing out a potential spoiler in that thread.
+
+[reddit]: https://www.reddit.com/r/ZeroEscape/comments/4rmz6d/ztd_decision_guide_for_firsttime_players/
 
 ## Time to Decide!
 
@@ -301,11 +304,19 @@ Decisions are ordered alphabetically in this list.
     * Outcome 2
         * Prerequisites: none
         * Choice: <span class="spoiler">"TRANSPORT".</span>
-* **Who** <span class="spoiler">Killed</span> **Junpei?**
-    * TODO
+* <span class="spoiler">Who Killed</span> **Junpei?**
     * Outcome 1
+        * Prerequisites: none
+        * Hint: <span class="spoiler">Who is the biggest danger to Carlos
+          right now?</span>
+        * Choice: <span class="spoiler">"AKANE".</span>
     * Outcome 2
-* **Who** <span class="spoiler">Killed</span> **Mira?**
+        * Prerequisites: none
+        * Hint: <span class="spoiler">In this timeline,
+          Carlos seemed shocked that he
+          voted for Q-Team instead of D-Team.</span>
+        * Choice: <span class="spoiler">"CARLOS".</span>
+* <span class="spoiler">Who Killed</span> **Mira?**
     * Outcome 1
         * Prerequisites: none
         * Hint: <span class="spoiler">Even if you knew, Eric's not
