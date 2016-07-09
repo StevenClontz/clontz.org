@@ -192,6 +192,8 @@ my childhood dream of making Mario courses has come true!
 
 ![Zero Time Dilemma](/img/20160705/fragment.jpg)
 
-I wrote a detailed spoiler-free guide for progressing the narrative of the
-visual novel Zero Time Dilemma. I like to think of it as the hint system
+I wrote a detailed [spoiler-free guide][ztd guide] for progressing the narrative
+of the visual novel Zero Time Dilemma. I like to think of it as the hint system
 the designers should have included in the game.
+
+[ztd guide]: /blog/2016/07/05/zero-time-dilemma/
