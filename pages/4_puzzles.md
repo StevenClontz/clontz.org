@@ -187,3 +187,11 @@ available on the [Super Mario Maker Bookmark Site][smm bookmark]. Finally,
 my childhood dream of making Mario courses has come true!
 
 [smm bookmark]: https://supermariomakerbookmark.nintendo.net/profile/StevenXC
+
+### Zero Time Dilemma
+
+![Zero Time Dilemma](/img/20160705/fragment.jpg)
+
+I wrote a detailed spoiler-free guide for progressing the narrative of the
+visual novel Zero Time Dilemma. I like to think of it as the hint system
+the designers should have included in the game.
