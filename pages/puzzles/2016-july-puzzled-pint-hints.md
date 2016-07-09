@@ -18,7 +18,7 @@ permalink: /puzzles/2016-july-pp-hints/
 
 [chess helper]: /img/20160712/pp-chess-helper.png
 
-## Skulls and Bones
+## Skull and Bones
 
 1. <span class="spoiler">
    What can you do with the year associated with each member?
@@ -66,6 +66,10 @@ permalink: /puzzles/2016-july-pp-hints/
    </span>
 
 ## Illuminati
+
+[Official tri-hexaflexagon construction video][official video]
+
+[official video]: https://www.youtube.com/watch?v=fEcMEgkEg24
 
 1. <span class="spoiler">
    Never heard of tri-hexaflexagon? Go here to learn all about them:
