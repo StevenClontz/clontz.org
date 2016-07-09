@@ -70,7 +70,7 @@ permalink: /puzzles/2016-july-pp-hints/
 1. <span class="spoiler">
    Never heard of tri-hexaflexagon? Go here to learn all about them:
    </span>
-   <https://www.youtube.com/watch?v=49zi7zzrYbg>
+   [YouTube](https://www.youtube.com/watch?v=49zi7zzrYbg)
 
 2. <span class="spoiler">
    You will create two tri-hexaflexagons. Each will contains 3 sides that you should
