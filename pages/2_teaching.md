@@ -17,6 +17,13 @@ higher education.
 
 ![Teaching Note](/img/teaching-note.jpg)
 
+## Current Course(s)
+
+The webpage for my Fall 2016 MA 126 (Cal 2) course may be found at this
+link:
+
+<https://stevenclontz.github.io/teaching-2016-08-17-fall>
+
 ## Philosophy
 
 My philosophy of teaching is available with my
