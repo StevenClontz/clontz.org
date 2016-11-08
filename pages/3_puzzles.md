@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Puzzles"
-description: "or fher gb qevax lbhe binygvar"
+description: "or fher gb fghql sbe lbhe zngu pynff"
 header-img: "img/puzzles-bg.jpg"
 permalink: /puzzles/
 show-navbar: true
@@ -39,15 +39,15 @@ in the second image by rolling along the grid?
 I came to puzzles as a mathematician,
 because *mathematics is the art of solving problems*, and *puzzle design
 is the art of creating fun problems to solve*.
-There are [many kinds](/puzzles/types/), and I love to work with
-them all.
 
-## Consulting and Design
+## New collaborations
 
-I'm available to design your next custom puzzle event. These experiences
-are great team-building activities, not to mention a lot of fun for your
-organization. [Email me](mailto:steven.clontz@gmail.com) to discuss
-how we can create the perfect puzzling occasion.
+Most of my time is dedicated to [research](/math/), [teaching](/teaching/),
+and running [Mathematical Puzzle Programs](http://mappmath.org).
+However, I am always open to discussing potential new projects, particularly if
+the project is novel or serves to promote mathematics. I'm always up
+for talking shop by [email](steven.clontz@gmail.com), so send me a note
+if you're interested in working together on something!
 
 ## Portfolio
 
@@ -111,18 +111,20 @@ competitions at five diffrent college campuses
 from Texas to Connecticut.
 
 As Director of MaPP, I will double that number in 2017,
-including an expansion to Australia and the introduction of a middle
+including an expansion to Japan and the introduction of a middle
 school competition in partnership with the AMP'd Challenge.
 
 ### The National Museum of Mathematics (MoMath)
 
 ![MoMath](/img/momath.png)
 
-I am a regular consultant with the National Museum of Mathematics,
-including designing the
-[2016 MoMath Dimensions Puzzlehunt](http://dimensions.momath.org),
-an annual mathematical puzzle challenge held on the museum's campus
-in New York City.
+I am a frequent consultant with the National Museum of Mathematics,
+including designing MoMath's
+[Dimensions Puzzle Hunt 2016](https://in.momath.org/civicrm/event/info?id=751),
+an annual puzzle challenge held on the museum's campus
+in New York City, and talking about game theory for their
+[Family Fridays](https://in.momath.org/civicrm/event/info?id=758)
+outreach program.
 
 ### Leadership in the Zombie Apocolypse
 
@@ -139,9 +141,9 @@ Manager Developer Program.
 
 ![Escape Pod](/img/escape-pod.png)
 
-I designed Von Braun's Puzzlehunt, sponsored by [Escape Pod][ep] of Huntsville, AL
-and based on their featured escape room. This five-hour hunt
-took place across the City of Huntsville during Fall 2016.
+I designed Von Braun's Puzzlehunt, sponsored by [Escape Pod][ep] of
+Huntsville, AL and based on their featured escape room. This five-hour hunt
+took place across the City of Huntsville during November 2016.
 
 [ep]: http://escapepodgame.com
 
@@ -161,11 +163,11 @@ a variation on the traditional escape room format of my own design.
 ![Puzzled Pint](/img/puzzled-pint.png)
 
 I co-founded the [Huntsville, AL chapter of Puzzled Pint][pphsv] with
-my friend and colleague Tracy Cobbs. Puzzled Pint is avaialble in cities
-world-wide, providing free puzzles at local pubs every second Tuesday of
+my friend and colleague Tracy Cobbs. Puzzled Pint is available in cities
+world-wide, providing free puzzles at local pubs on the second Tuesday of
 each month. We launched the Huntsville chapter in June 2016, and broke
 the international record for attendance at a chapter's first event.
-I also designed a puzzle for the election-themed November 2016 event.
+I also designed a puzzle for Puzzled Pint's election-themed November 2016 event.
 
 [pphsv]: http://twitter.com/PuzzPintHSV
 
@@ -192,8 +194,8 @@ my childhood dream of making Mario courses has come true!
 
 ![Zero Time Dilemma](/img/20160705/fragment.jpg)
 
-I wrote a detailed [spoiler-free guide][ztd guide] for progressing the narrative
-of the visual novel Zero Time Dilemma. I like to think of it as the hint system
-the designers should have included in the game.
+I wrote a detailed [spoiler-free guide][ztd guide] for progressing the
+narrative of the visual novel Zero Time Dilemma. I like to think of it as the
+hint system the designers should have included in the game.
 
 [ztd guide]: /blog/2016/07/05/zero-time-dilemma/

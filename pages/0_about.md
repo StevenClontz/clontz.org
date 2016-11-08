@@ -9,8 +9,20 @@ show-navbar: true
 
 My name is Steven Clontz, and I'm a
 [mathematician](/math/), [professor](/teaching/),
-[programmer](/code/), and [puzzler](/puzzles/)
+and [puzzler](/puzzles/)
 based out of Mobile, Alabama.
+
+## Contact
+
+The quickest way to reach out to me is by
+[email](mailto:steven.clontz@gmail.com) or on
+[Twitter](http://twitter.com/StevenXClontz). You can also mail or visit
+my office at the following address.
+
+Department of Mathematics and Statistics  
+University of South Alabama  
+411 University Boulevard North, ILB #314  
+Mobile, AL 36688-0002
 
 ## Curriculum Vitae / Resume
 
@@ -35,7 +47,11 @@ masters degrees in educational leadership and library media, and currently
 works as a primary school educator.
 
 Currently we live and work in Mobile, Alabama, where
-I serve as Assistant Professor of Mathematics at
-[South Alabama](http://southalabama.edu). I am also an active freelance
-consultant and puzzle designer - shoot me an
+I serve as Assistant Professor of Mathematics at the
+[University of South Alabama](http://southalabama.edu).
+I also occasionally work as a freelance consultant in the areas of
+[mathematics](/math/), [mathematics education](/teaching/),
+and [game and puzzle design](/puzzles/). These days I'm pretty picky with
+the projects I take on, but if you have a cool idea for a collaboration,
+please shoot me an
 [email](mailto:steven.clontz@gmail.com) to get in touch!

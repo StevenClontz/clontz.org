@@ -1,13 +1,16 @@
 ---
 layout: page
-title: "Programming"
+title: "Other Projects"
 description: "hello world"
 header-img: "img/code-bg.png"
-permalink: /code/
+permalink: /projects/
 show-navbar: true
 ---
 
-My work in software development covers a variety of platforms and
+I've been known to dabble in a few other areas, in particular
+entrepreneurship and software development.
+
+My programming experience covers a variety of platforms and
 languages, including Ruby, Python, and Javascript.
 Naturally, a lot my work in those languages involves web development,
 but I've been known to hack on a few other types of projects
