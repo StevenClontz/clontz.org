@@ -3,8 +3,8 @@ layout: page
 title: "Puzzles"
 description: "or fher gb qevax lbhe binygvar"
 header-img: "img/puzzles-bg.jpg"
-permalink: /puzzles-foo/
-show-navbar: false
+permalink: /puzzles/
+show-navbar: true
 ---
 
 ![Swiper no swiping](/img/swiper-no-swiping.jpg)
