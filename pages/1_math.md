@@ -8,7 +8,11 @@ show-navbar: true
 ---
 
 I am a published researcher in
-set-theoretic topology and continuum theory.
+set-theoretic topology and continuum theory, serving as a tenure-track
+assistant professor at the [University of South Alabama][usa].
+
+[usa]: http://southalabama.edu
+
 My specializations include:
 
 - selection principles and games
