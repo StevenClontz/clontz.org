@@ -9,11 +9,15 @@ show-navbar: true
 
 I am a published researcher in
 set-theoretic topology and continuum theory.
-My specializations include applications
-of game theory in topology and the study of generalized
-inverse limits indexed by arbitrary total orders.
+My specializations include:
 
-Of course, my work as a mathematician strongly influences my
+- selection principles and games
+- limited information strategies in selection games
+  and other topological games
+- generalized inverse limits indexed by arbitrary total orders and bonded
+  with idempotent maps
+
+In addition, my work as a mathematician strongly influences my
 [teaching](/teaching/) and [game and puzzle design](/puzzles/).
 
 ## Publications
