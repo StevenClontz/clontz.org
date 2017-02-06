@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Markov Strategies in Selection Games"
-subtitle:   "Chalk talk at Auburn University"
+subtitle:   "Seminar talk at Auburn University"
 date:       2017-02-05 19:54:00
 header-img: "img/math-bg.png"
 ---
@@ -76,7 +76,9 @@ seminar on 2017 Feb 06.
       player chooses finite sets) was studied by Scheepers in
       *Concerning \\(n\\)-tactics in the countable-finite game*.
       Call this game \\(Sch^{\cup,\supsetneq}(\kappa)\\).
-    - TODO: result on k-tactics and 3-tactics from that paper?
+    - Scheepers showed that any \\((k+3)\\)-tactical strategy for the second
+      player in \\(Sch^{\cup,\supsetneq}(\kappa)\\)
+      may be improved to a \\(k\\)-tactical strategy.
     - Modification: \\(Sch^{\cap}(\kappa)\\): the first player chooses
       any countable set \\(C_n\\), and the second player chooses any finite set
       \\(F_n\\). The second player wins if
@@ -86,7 +88,7 @@ seminar on 2017 Feb 06.
       \\(Sch^{\cup,\supsetneq}(\kappa)\\) (Scheepers) and
       a winning \\(2\\)-Markov strategy in
       \\(Sch^{\cap}(\kappa)\\) (Clontz).
-    - \\(A'(\aleph_1)\\) holds in ZFC;
+    - \\(A'(\aleph_n)\\) holds in ZFC for \\(n<\omega\\) (Clontz,Dow to appear);
       \\(A'(\kappa)\\) may be forced to hold for arbitrarily large
       \\(\kappa\leq\mathfrak c\\) (Scheepers).
 - Selection Games
