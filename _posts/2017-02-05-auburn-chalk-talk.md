@@ -71,7 +71,7 @@ seminar on 2017 Feb 06.
       followed by the second player choosing a nowhere dense subset
       \\(N_{n+1}\\). The second player wins if
       \\(\bigcup_{n<\omega}N_n\supseteq\bigcup_{n<\omega}M_n\\).
-    - The special case where \\(X=\kappa\\) is a discrete space
+    - The special case where \\(X=\kappa\\) has the co-finite topology
       (and therefore the first player chooses countable sets and the second
       player chooses finite sets) was studied by Scheepers in
       *Concerning \\(n\\)-tactics in the countable-finite game*.
