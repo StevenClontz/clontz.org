@@ -3,7 +3,6 @@ layout:     post
 title:      "Job Hunting Workshop Notes"
 subtitle:   "from my talk at Auburn University"
 date:       2017-03-31 18:16:00
-header-img: "img/home-bg.png"
 ---
 
 (I'll be adding complete notes later, but here are just the
@@ -20,3 +19,8 @@ relevant links for now.)
 - [MathJobs.org][mathjobs]
     - One of the main job posting websites for academic jobs
       in mathematics
+
+[overleaf]: http://overleaf.com
+[sharelatex]: http://sharelatex.com
+[researchgate]: http://researchgate.net
+[mathjobs]: http://mathjobs.org
