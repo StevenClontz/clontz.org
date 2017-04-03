@@ -20,7 +20,9 @@ First things first, here are the relevant links.
       in mathematics
       
       
-Some more detailed notes follow.jj
+Some more detailed notes follow.
+
+---
 
 ## Typesetting Professional Documents with Overleaf/ShareLaTeX
 
@@ -37,7 +39,7 @@ result online or download a PDF. First impressions are important, and using
 LaTeX to typeset documents is the industry standard, so it's wise to use it when
 presenting yourself to prospective future collegues.
 
-## Networking online and in real life
+## Networking in real life and online
 
 Your main goal as an applicant is to get your foot in the door. In a sea of
 qualified applicants, you only have a few opporunities to catch a search committee's
@@ -52,10 +54,41 @@ applicant names, their schools, and their fields. So, you want your name to be f
 to that colleague, at least enough that they will take the extra step to read your cover 
 letter.
 
-There's no substitute for meeting colleagues in real life. However, another tool you can use
-to follow up on a real life connection is [ResearchGate][researchgate].
+There's no substitute for meeting colleagues in real life. However, another tool you 
+can use to follow up on a real life connection is [ResearchGate][researchgate]. While
+search committees should read every cover letter they receive, your colleague may not
+be serving on that committee. In that case, they may only have a list of names,
+schools, and fields of research; thus, you want to increase your chances of name
+recognition.
 
-(TO BE CONTINUED)
+## Finding jobs and submitting applications
+
+While there are other sites for academic mathematics jobs, the only one I used during
+my search was [MathJobs][mathjobs]. You should begin looking on this site 13 months
+before you want to start; for example, if you're looking for a job to start in August
+2018, you should begin looking in July 2017.
+
+Here's my recommended workflow. Start by making an account. Once you've logged in,
+go through all the job postings by clicking All on the View Jobs page. You'll
+probably notice that 80% of the postings don't apply to you, depending on your
+field of research and geographical preferences. Mark those jobs with an X so they
+will be hidden by default when logged in. Other jobs you will know that you want
+to apply. Mark those with a checkmark.
+
+Now once you've filtered all the postings, you can click the yellow jagged cloud
+on future logins to see what's been posted since the last time you visited. I
+recommend doing this once a week so you don't get overwhelmed.
+
+There are other places for advice on how to write CVs, cover letters, etc.,
+beyond my general advice above on using professional LaTeX typesetting.
+One particular thing I'd like to mention: make sure you make the case in your
+cover letter for why you want that job particularly. A connection with
+a faculty member or the local community is a great way to catch the attention
+of search committees you have a particular interest in.
+
+---
+
+Best of luck!
 
 [overleaf]: http://overleaf.com
 [sharelatex]: http://sharelatex.com
