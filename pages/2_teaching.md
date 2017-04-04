@@ -7,7 +7,15 @@ permalink: /teaching/
 show-navbar: true
 ---
 
-I love teaching! I got my start as a National Youth Leadership Training
+## For my Current Students
+
+Are you my current student? My course webpages and related materials
+may be found on <http://prof.clontz.org>.
+
+## About my Teaching
+
+I love teaching! I trace this enthusiasm back to
+my tenure as a National Youth Leadership Training
 staffer at Camp Westmoreland in the BSA's Greater Alabama Council.
 NYLT utilizes youth instructors for teaching all courses, giving my
 teenaged self the opportunity to educate my peers on how to be
@@ -16,13 +24,6 @@ I became an instructor of mathematics at several institutions of
 higher education.
 
 ![Teaching Note](/img/teaching-note.jpg)
-
-## Current Course(s)
-
-The webpage for my Fall 2016 MA 126 (Cal 2) course may be found at this
-link:
-
-<https://stevenclontz.github.io/teaching-2016-08-17-fall>
 
 ## Philosophy
 
