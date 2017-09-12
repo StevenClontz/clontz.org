@@ -74,7 +74,7 @@ the University of South Alabama's ACM and Math Clubs.
         - The question hasn't been answered because no one's tried: perfect
           for undergrads!
 
-[pi-base]: http://pibase.org
+[pi-base]: http://pi-base.org
 [donut]: https://en.wikipedia.org/wiki/Topology#/media/File:Mug_and_Torus_morph.gif
 [ph]: https://www.math.upenn.edu/~ghrist/preprints/barcodes.pdf
 [font-puzzle]: http://mappmath.org/puzzles/
