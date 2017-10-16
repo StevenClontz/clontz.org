@@ -7,10 +7,18 @@ permalink: /about/
 show-navbar: true
 ---
 
-My name is Steven Clontz, and I'm a
-[mathematician](/math/), [professor](/teaching/),
-and [puzzler](/puzzles/)
-based out of Mobile, Alabama.
+Steven Clontz is a [mathematician](/math/), [professor](/teaching), and
+[puzzle designer](/puzzles/) based out of the University of South Alabama
+in Mobile, Alabama. His puzzles and games have been featured at such venues as
+the National Museum of Mathematics in New York City. His published research
+specializes in the intersection of topology and game theory, characterizing the
+structure of topological spaces by the amount of information required to win at
+certain games. Dr. Clontz uses active learning techniques such as Inquiry-Based
+and Team-Based Learning in his classrooms to allow his students discover
+mathematics for themselves rather than blindly memorizing algorithms without
+understanding why. He also serves as director of Mathematical Puzzle Programs,
+which designs and organizes puzzle events at college campuses and math camps
+across the world.
 
 ## Contact and Calendar
 
