@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "MathFEST"
-description: "materials for MathFEST 2018"
+title: "MathFest"
+description: "materials for MAA MathFest 2018"
 header-img: "img/teaching-bg.jpg"
 permalink: /mathfest/
 ---
