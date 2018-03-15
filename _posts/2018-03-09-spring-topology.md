@@ -16,12 +16,15 @@ several plenary talks and set-theoretic topology talks for the conference.
 A schedule and live video are available on my
 [STDC2018 Livestream](/math/stdc-2018) page.
 
-## pi-Base: A Usable Map of the Forest
-
-Slides/notes for my research talk in the set-theoretic topology special session
-will be made available here at a later date.
-
 ## Team-Based Learning and Standards-Based Grading
 
-Slides/notes for my teaching talk in the Educational Advancement Foundation
-workshop will be made available here at a later date.
+My slides are [available at this link][tbl-sbg].
+
+[tbl-sbg]: https://docs.google.com/presentation/d/1ulHbe6SlAoUjq5hQH70W5rt0P96mFeESJZ7UG8pOurs/edit?usp=sharing
+
+## pi-Base: A Usable Map of the Forest
+
+My slides are [available at this link][pi-base].
+
+[pi-base]: https://docs.google.com/presentation/d/1RnQYkNL6Mt4ye99BV7XHLsu-h5-s5qLfNFdl22edo60/edit?usp=sharing
+
