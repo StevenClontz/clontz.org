@@ -2,6 +2,7 @@
 layout:     post
 title:      "52nd Spring Topology and Dynamical Systems Conference"
 subtitle:   "Links for my presentations and livestream"
+header-img: "img/math-bg.png"
 date:       2018-03-09 14:13:00
 ---
 
