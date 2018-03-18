@@ -30,7 +30,8 @@ much less airfare.
 
 I think livestreaming more of our oral presentations in mathematics
 is part of the solution to this inequity, which is why I've put together
-this page to explain how surprisingly easy it is to livestream mathematical content 
+this page to explain how surprisingly easy it is to livestream mathematical 
+content 
 (you probably have most of the equipment available in your department already), 
 and the 
 [Online Streaming in Mathematics YouTube Channel](https://www.youtube.com/channel/UCfaU4ITYd-mwolEox3SxvWw)
@@ -40,4 +41,51 @@ I want to thank the organizers of the
 [2018 Spring Topology/Dynamics Confernece](http://www.auburn.edu/~kuperkm/STDC2018/)
 and its set-theoretic topology special session
 for accepting my offer to livestream much of the conference procedings.
+While I've been working on this initiative since my last year of graduate
+school, much of the content of this page is based on that experience.
+
+## Equipment
+
+By design, I've focused on equipment that is often already available to
+faculty whenever possible, as well as a configuration that is easiest to
+implement with minimal disruption to usual conference proceedings.
+
+These are the items you'll want to acquire for each *simultaneous* stream
+you wish to produce.
+
+- Video Camera
+    - Required features:
+        - Mountable on tripod (see below)
+        - 720p video, decent sound recording using internal microphone
+        - HDMI output (including cable)
+        - Able to output video through HDMI without recording
+          (tip: disable "demo mode")
+    - Confirmed models:
+        - TODO
+- Tripod
+    - Required features:
+        - Can mount video camera stabily at various heights
+        - Allows panning of camera to track speaker movement
+    - Confirmed models:
+        - TODO
+- HDMI-USB Converter
+    - Required features:
+        - Converts HDMI audio/video signal into USB signal for use on computer
+        - USB 3.0 cable (available separately)
+    - Confirmed models:
+        - TODO
+- Laptop
+    - Required features:
+        - Windows, Mac, or Linux
+        - Sufficient processing power for running software described below 
+          (8GB RAM, 2.6 GHz processor using Windows 10 
+          confirmed, but probably not necessary)
+        - USB ports (3.0, perhaps using USB hub)  
+          for video input and other accessories e.g. mouse
+    - Confirmed models: 
+        - TODO
+- Other equipment
+    - Long power extension cable and/or power strip
+    - USB flash drive
+
 
