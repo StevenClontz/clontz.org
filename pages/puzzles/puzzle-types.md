@@ -25,7 +25,9 @@ crowd-sourced (who doesn't?).
 Examples include jigsaw puzzles, nail puzzles, Rubik's Cubes.
 
 Probably the most common variant of puzzle; I expect most puzzlers consider a
-jigsaw piece as the "logo" for puzzling. Not much else to say here.
+jigsaw piece as the "logo" for puzzling. These can be solved through trial-and-error,
+but particularly for Rubik's cube-type puzzles there can be mathematical/logical
+methods for a solution as well. 
 
 ## Logic Puzzles
 
@@ -41,37 +43,95 @@ I'm a particular fan of picross puzzles (also called nonograms) because the solu
 paints a picture (i.e. gives the solver new information unrelated to the properties
 of the puzzle itself).
 
-## Math puzzle
+## Math Puzzles
+
+There are two varieties that I'd like to distinguish:
+
+### Traditional
 
 Example:
 
-> Suppose `xy=6`, `xz=10`, and `yz=15`. What is `xyz` equal to?
+> Given \\(xy=6\\), \\(xz=10\\), and \\(yz=15\\), find the value of \\(xyz\\).
 
-What distingishes these from other types of math *problems* in that a math
+What distingishes these from math *problems* in that a math
 puzzle is meant to be recreational, or
 perhaps competitive. These puzzles typically don't lend themselves to algorithmic
 solutions; at least, not algorithms which are traditionally taught in school, anyway.
-See also: AMC comeptitions, Putnam problems, pretty much any math competition
-you can think of. (Almost...)
+See also: AMC comeptitions, Putnam problems, and other traditional math competitions.
 
 By the way, the trick in the example is to not try to solve for `xyz`, but first try
 to solve for `x^2y^2z^2`... It's a fun puzzle the first time you hear it, but the
 top competitors in these competitions memorize hundreds of tricks just like that.
+So ironically, while these puzzles are typically designed to challenge students'
+mathematical abilities, the optimal strategy for solving such puzzles is to
+memorize a large backlog of tricks and gimmicks, and figure out what slight variation
+is required for the puzzle at-hand.
+
+### Modern
+
+Example:
+
+> You've developed a new social networking platform, and you plan to support
+> 100 users for your beta release. Each user can be "friends" with every other
+> user. How many "friendships" does your social network's database need to be
+> able to store?
+
+Rather than explicitly asking a mathematical "solve for \\(x\\)" question,
+a modern math puzzle paints a narrative, and leaves the application of
+mathematics up to the solver. 
+
+For instance, since the first user could have
+up to 99 friends, the second user could have up to 98 *other* friends,
+and so on, we find that the answer is:
+
+\\[
+99+98+\dots +2+1=4950
+\\]
+
+But that might be hard (and we could make it completely infeasible by
+upping the number to a thousand, or million users).
+In that case, players are forced into making the clever observation that 
+each person can have 99 other friends, but that's double-counting friendships,
+so we should divide that number by two:
+
+\\[
+\frac{100\times 99}{2}=4950
+\\]
+
+Of course, if you know some graph theory, 
+you could also approach this problem by expressing it as a
+graph and asking yourself "how many edges are in the complete graph with 100
+vertices?". 
+This illustrates that a good modern math puzzle can both challenge and teach
+mathematics,
+without explicitly being posed as a "solve for \\(x\\)"  math problem.
+
+It's worth noting that this "puzzle" is very close to being a "word problem".
+And if it was given in the context of an enumeration course, it would be!
+But unless you were taught about triangular numbers in class just yesterday,
+the point of the puzzle isn't to get you to memorize an esoteric formula,
+but to challenge your problem-solving and mathematical modeling abilities
+to come up with your own patterns and formulas.
 
 ## Cryptic puzzles
 
 Kind of hard to give examples of these, because they are generally "designer" puzzles
 which are meant to be solved at most once by a given person, perhaps in the context
 of a puzzlehunt competition. In a cryptic puzzle, the goal/answer is still
-well-defined (i.e. enter the an 8-digit number into an online form which is
+well-defined (i.e. enter a certain word or phrase into an online form which is
 accepted; find a clue to a location where a previously designated token can be found).
 However, the mechanics of decyphering this solution are left completely vague,
 and it's up to the solver to guess at several interpretations of what the puzzle
 could mean until one fits.
 
-These are probably the hardest to design, because there's no "correct" way for a player
-to approach such a puzzle. I could go into more detail, but that's a whole book of
-material on its own. (If you want to pay me an advance, however...)
+Designing such puzzles takes a lot of practice, in addition to knowledge of
+your audience. Different communities expect different levels of difficulty,
+and different players will have different levels of "genre savviness".
+These are by far my favorite, but it's hard to tell at a glance if such a puzzle
+is a high-quality difficult cryptic puzzle, or just badly written.
+
+My "Swiper No Swiping" puzzle on my [puzzle homepage](/puzzles/) is an example of such a
+puzzle.
 
 ## Word puzzles
 
@@ -88,48 +148,24 @@ up to interpretation (like pattern puzzles). In general, word puzzles which are 
 on defintions have a bit of flexibility (unless there's a way to check the solution),
 so designing them takes finesse.
 
+On the other hand, puzzles like 
+[Places Please](https://www.pennydellpuzzles.com/product.aspx?c=selectedpuzzlespuzzlebooks&p=PLP)
+are actually logic puzzles, even though they use words! This is because no prior
+knowledge of words is required, as they are all provided. Instead, players must
+simply use logic to find how these words can be used to fill out the grid.
+
 ## Trivia puzzles
 
 Similar to cryptic puzzles, trivia puzzles usually have custom designs (otherwise,
-they're just plain trivia). While trivia puzzles often have cryptic elements, they
-may also be explicit. What they do require is either knowledge of some sort of
-trivia, or access to the internet. As such, they may also be called research
-puzzles when internet access is allowed or encouraged.
+they're just plain trivia). While trivia puzzles often have cryptic elements, such a puzzle
+may also be explicit (in which case, it might also be a type of word puzzle). 
+In any case, the player must have some domain knowledge to solve such puzzles,
+or the ability to learn about the topic.
 
-## Mathematical puzzles
-
-Wait, didn't I already go over these? So, this is personal preference,
-but I actually distinguish math puzzles from mathematical puzzles.
-Here's how I separate the two:
-
-* A math puzzle is a math problem.
-* A mathematical puzzle is a puzzle which uses/encourages mathematics.
-
-For example (and yeah, this is a classic):
-
-> 100 people are in a room, and everyone high-fives one another. How
-> many high-fives total occurred?
-
-You may rightfully say that this is just a word-based math puzzle,
-but the distinction I draw is that players are given the freedom
-to model the above question however they wish. There's always
-the brute force solution:
-
-```
-99+98+...+2+1=4950
-```
-
-But you could also approach this problem by expressing it as a
-graph ("how many edges are in the complete graph with 100
-vertices?"), or making the clever observation that each person
-performs 99 high fives, so divide that number by two:
-
-```
-100*99/2=4950
-```
-
-These puzzles have the advantage of being educational, without
-the appearance of being a math problem.
+Generally speaking, I'm not a fan of these puzzles unless internet access is allowed
+(and encouraged). However, there are many fun puzzles that begin with "research"
+into the trivia involved, only to unlock some other type of puzzle once that data
+has been filled in.
 
 ---
 
@@ -146,18 +182,21 @@ Example:
 Riddles don't fit my definition of a puzzle, but they might fit yours,
 so here you go. Note that there are a few answers to the above riddle:
 "The doctor is the mother!" "The doctor is the step-father!" "The doctor is
-the adopted father!" etc. etc.
+the adopted father!" etc. etc. They might be useful for lateral thinking,
+but are bad form in any sort of competitive environment such as puzzlehunts
+or escape rooms.
 
-## Pattern puzzles
+## Pattern Guessing
 
 Example:
 
 > What comes next in the list? 1, 2, 4, ...
 
 Another non-puzzle example. Especially egregious are
-"which picture comes next in the pattern" Mensa-type questions. Since
-I'm a mathematician, I'll point out that in the example,
-both `f(n)=2^n` and `g(n)=(1-n)(2-n)/2+2n(2-n)+4n(n-1)/2`
-satisify `f(0)=g(0)=1`, `f(1)=g(1)=2`, and `f(2)=g(2)=4`, but
-`f(3)=8` and `g(3)=7`. Of course, you may prefer `f` because it's simpler,
-and you may have a point.
+"which picture comes next in the pattern" Mensa-type questions.
+I'll point out that in the example,
+both \\(f(n)=2^n\\) and \\(g(n)=\frac{n^2+n+2}{2}\\)
+satisify the requirements
+\\(f(0)=g(0)=1,f(1)=g(1)=2,f(2)=g(2)=4\\), 
+yielding equally reasonable guesses
+of \\(f(3)=8\\) and \\(g(3)=7\\), respectively.
