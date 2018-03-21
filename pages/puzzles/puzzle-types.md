@@ -115,23 +115,31 @@ to come up with your own patterns and formulas.
 
 ## Cryptic puzzles
 
-Kind of hard to give examples of these, because they are generally "designer" puzzles
-which are meant to be solved at most once by a given person, perhaps in the context
-of a puzzlehunt competition. In a cryptic puzzle, the goal/answer is still
+Example: my "Swiper No Swiping" puzzle on my [puzzle homepage](/puzzles/).
+
+Such puzzles might be called "designer" puzzles
+which are meant to be solved at most once by a given person, since part of the
+puzzle is the epiphany required to see an extraction technique.
+These are the most common type of puzzles found in quality puzzlehunts and
+escape rooms.
+
+In a cryptic puzzle, the goal/answer should be
 well-defined (i.e. enter a certain word or phrase into an online form which is
 accepted; find a clue to a location where a previously designated token can be found).
-However, the mechanics of decyphering this solution are left completely vague,
+However, the mechanics of extracting this solution are left partially or 
+completely vague,
 and it's up to the solver to guess at several interpretations of what the puzzle
-could mean until one fits.
+could mean until one fits. Often the puzzle's title or its flavortext can
+hide clues to this extraction: "you'd be **blind** to not know how to solve this"
+might be a (not-so) subtle clue to look for a way to find **Braille letters**
+in the puzzle.
 
 Designing such puzzles takes a lot of practice, in addition to knowledge of
 your audience. Different communities expect different levels of difficulty,
 and different players will have different levels of "genre savviness".
-These are by far my favorite, but it's hard to tell at a glance if such a puzzle
-is a high-quality difficult cryptic puzzle, or just badly written.
-
-My "Swiper No Swiping" puzzle on my [puzzle homepage](/puzzles/) is an example of such a
-puzzle.
+These are by far my favorite type of puzzle to design and solve, 
+but it's hard to tell at a quick glance if such a puzzle is a high-quality 
+difficult cryptic puzzle, or just badly written.
 
 ## Word puzzles
 
