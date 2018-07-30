@@ -23,6 +23,8 @@ ideas behind Team-Based Learning.
 
 Time estimates calculated using [Niram.org](http://niram.org/read/).
 
+Slides from this workshop will be made available at a later date.
+
 ## Workshop: Mathematical Puzzle Programs: Outreach and Recruitment with Puzzles
 
 Participants in this workshop will get to play an abbreviated version of the
@@ -31,8 +33,38 @@ an iOS or Android smart device with internet access to play along using
 the [ClueKeeper](http://cluekeeper.com) app.
 
 Please visit [MaPPmath.org](http://mappmath.org) for more information
-on Mathematical Puzzle Programs!
+on Mathematical Puzzle Programs.
+
+The puzzles from this workshop will be made available at a later date.
 
 ## Presentation: Tools to Facilitate Mastery Grading 
 
-Resources will be added here at a later date.
+I will review two web applications I use for mastery grading.
+
+- [sbg-rails](https://github.com/stevenclontz/sbg-rails/)
+  - This app is being written by myself using Ruby on Rails. Anyone comfortable
+    with running a Ruby on Rails app may clone and install the repo
+    using the GitHub link above.
+  - A (buggy) demo is available at <https://sbg-rails.herokuapp.com/>.
+    It requires a username/password provided at the presentation.
+  - The app is designed around two goals:
+    - Instructors are given an interface to efficiently log student attempts to
+      master course standards, and produce progress reports based on those attempts.
+    - Exams may be custom generated based upon student progress and a problem bank.
+  - To enter grades, a spreadsheet-like interface is provided. However, this is
+    still somewhat inconvenient as assessments need to be graded on paper
+    and then re-entered exercise-by-exercise into the app.
+- [Gradescope](https://gradescope.com/)
+  - Currently, the Gradescope Basic plan is available for free to the first five instructors
+    from each institution who sign up; later signups get two terms free.
+  - Instructors can create and grade arbitrary worksheets using this app.
+  - While it's designed around traditional grading, it can still be used
+    to support a mastery grading classroom.
+  - My implementation: use sbg-rails to generate assessments, and students submit
+    answers on sheets that I upload to Gradescope.
+    - Assessment: TODO
+    - Answer sheet: TODO
+    - Sample responses: TODO
+  - By "exporting evaluations", spreadsheets for each graded standard may be exported from
+    Gradescope and copied/imported into your gradebook of choice. sbg-rails has
+    an import utility for Gradescope reports.
