@@ -62,9 +62,8 @@ I will review two web applications I use for mastery grading.
     to support a mastery grading classroom.
   - My implementation: use sbg-rails to generate assessments, and students submit
     answers on sheets that I upload to Gradescope.
-    - Assessment: TODO
-    - Answer sheet: TODO
-    - Sample responses: TODO
+    - Answer sheet: [PDF](/img/20180731/answer-template.pdf)
+    - Sample responses: [PDF](/img/20180731/sample-solutions.pdf)
   - By "exporting evaluations", spreadsheets for each graded standard may be exported from
     Gradescope and copied/imported into your gradebook of choice. sbg-rails has
     an import utility for Gradescope reports.
