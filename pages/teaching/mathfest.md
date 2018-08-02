@@ -23,7 +23,12 @@ ideas behind Team-Based Learning.
 
 Time estimates calculated using [Niram.org](http://niram.org/read/).
 
-Slides from this workshop will be made available at a later date.
+After the workshop, you may be interested in the following resources:
+
+- [PDF of workshop slides](/img/20180802/tbl-mathfest.pdf)
+- The [GitHub project](https://github.com/StevenClontz/tbil-la) for our
+  in-development
+  TBIL Linear Algebra resources.
 
 ## Workshop: Mathematical Puzzle Programs: Outreach and Recruitment with Puzzles
 
