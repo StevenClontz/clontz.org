@@ -12,6 +12,8 @@ Please contact me at <sclontz@southalabama.edu> with any questions!
 
 ## Workshop: An Introduction to Team-Based Learning
 
+*Drew Lewis and Steven Clontz*
+
 Participants are encouraged to review the following "readiness preparation materials" 
 (a component of Team-Based Learning), to introduce them to the basic
 ideas behind Team-Based Learning.
@@ -31,6 +33,8 @@ After the workshop, you may be interested in the following resources:
   TBIL Linear Algebra resources.
 
 ## Workshop: Mathematical Puzzle Programs: Outreach and Recruitment with Puzzles
+
+*Braxton Carrigan, Steven Clontz, and PJ Couch*
 
 Participants in this workshop will get to play an abbreviated version of the
 MaPP Challenge competition for themselves. If possible, please bring
