@@ -44,7 +44,8 @@ the [ClueKeeper](http://cluekeeper.com) app.
 Please visit [MaPPmath.org](http://mappmath.org) for more information
 on Mathematical Puzzle Programs.
 
-The puzzles from this workshop will be made available at a later date.
+Theh puzzles for this workshop are available on our GitHub:
+<https://github.com/MaPPmath/challenge18/blob/mathfest-demo/mapp-challenge-18-game-book.pdf>
 
 ## Presentation: Tools to Facilitate Mastery Grading 
 
