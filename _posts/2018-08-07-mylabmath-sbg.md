@@ -62,8 +62,20 @@ Pearson, for some unintelligible reason, has designed the Study Plan as
 though only the student is interested in knowing their mastery of course
 material. So while there is the ability for instructors to see Study
 Plan progress and use it as a part of the grade on MyLabMath, there are
-two serious anti-patterns in Pearson's design (that I've reported to them,
+~~two~~ three serious anti-patterns in Pearson's design (that I've reported to them,
 not that I anticipate any changes):
+
+- *UPDATE 2018-08-08:* **Study Plan mastery is set by student account, not by
+  the course.**
+
+This isn't bad in of itself, but the only way to fairly assess based on
+work done during your course is to enable an option in the Study Plan to
+scrub all previous progress in the Study Plan from previous semesters. I wish
+there was a way to have a course-level Study Plan that somehow shadows the
+student-level Study Plan. There's possibly a major security issue here if a student
+has access to a second MyLabMath course that can improve the Study Plan;
+that depends on how Pearson has implemented things behind the scenes and
+I cannot tell.
 
 - The default/natural way to configure the Study Plan for students to
   demonstrate mastery is through a "Quiz Me" feature. After students
@@ -95,6 +107,7 @@ to hand-create assessments from an existing Study Plan without too much pain.
   I hit the "check all" box and clicked "Pool" to create a quiz exercise that would be
   chosen randomly from that pool.
 - I set a password for the quiz and let it be available for the entire semester.
+  *UPDATE 2018-08-08:* Quizzes could be attempted infinitely many times.
 
 Since a password was set, students were required to visit our on-campus Math Technology Lab
 to complete quizzes. For this summer MTWRF class, I actually did not cover new material
@@ -104,6 +117,11 @@ the week that the lab was open as well. (I made an error here: I should have req
 to either spend a sufficient amount of time or made a sufficient amount of progress 
 in the lab working on quizzes in MyLabMath, since I believe
 that data is available, or else they should have been forced to come to class on Friday.)
+
+*UPDATE 2018-08-08:* In the gradebook, there were only two entries: 85% for the Study Plan,
+and 15% for the Final Exam. Note in particular that Quizzes were worth 0% directly, but
+they updated the Study Plan, so each correct response was essentially
+worth about 1% of the overall grade for the course.
 
 Overall I think this went well. A major downside was the inability to assess twice in
 MyLabMath: while I don't usually consider a standard "mastered" until it has been
