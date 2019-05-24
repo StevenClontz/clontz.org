@@ -3,7 +3,7 @@ layout: post
 title: "Mastery Grading and Team-Based Learning in a Minimester"
 subtitle: "my experiences in 2019 May"
 header-img: "img/teaching-bg.jpg"
-date: 2019-05-22 10:00
+date: 2019-05-24 10:00
 ---
 
 I've been asked for my thoughts on how my semester teaching
