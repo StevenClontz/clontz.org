@@ -1,0 +1,22 @@
+I"*<p>A quick one… pretty simple but I wanted to make note of it.</p>
+
+<p>I unwisely numbered the files in a folder like so:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1.txt
+2.txt
+...
+9.txt
+10.txt
+11.txt
+12.txt
+</code></pre></div></div>
+
+<p>So their alphanumeric order is not the same as the numeric order. Is there
+a quick way in the shell to renumber these with leading zeros?
+<a href="http://stackoverflow.com/questions/3672301/linux-shell-script-to-add-leading-zeros-to-file-names">Of course.</a></p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>for a in [0-9]*.txt; do                     # match numbered files
+    mv $a `printf %02d.%s ${a%.*} ${a##*.}` # replace number with 2-digit ver.
+done
+</code></pre></div></div>
+:ET

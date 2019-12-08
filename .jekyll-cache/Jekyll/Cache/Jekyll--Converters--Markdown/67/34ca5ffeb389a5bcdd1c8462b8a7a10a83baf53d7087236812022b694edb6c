@@ -1,0 +1,10 @@
+I"�<p>So I can’t exactly publish this while I’m in the middle of moving my site
+to <a href="http://nanoc.ws">nanoc</a>, but here’s another bash one-liner for
+mass-changing an old extension <code class="highlighter-rouge">*.old</code> to a new one <code class="highlighter-rouge">*.new</code> within a folder.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>for file in *.old; do mv "$file" "${file%.*}.new"; done
+</code></pre></div></div>
+
+<p>Pretty useful: I wanted to change from Octopress’s <code class="highlighter-rouge">*.markdown</code> extension to
+the more typical <code class="highlighter-rouge">*.md</code> for my blog posts, and that saved me a few clicks!</p>
+:ET

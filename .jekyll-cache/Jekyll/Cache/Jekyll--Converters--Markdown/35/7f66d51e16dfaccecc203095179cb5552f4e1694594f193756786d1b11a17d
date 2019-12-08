@@ -1,0 +1,61 @@
+I"�<p>Picking up Yeoman today, and in the process learned a slick trick
+for GitHub Pages. A common pattern in both Nanoc and a Yeoman AngularJS
+generated project is to have a built version of the site/app within
+the project folder, but untracked. Previously, I set up a separate
+Git repository within that subfolder in order to push to
+<code class="highlighter-rouge">gh-pages</code> for publishing. But there’s a better way.</p>
+
+<!-- more -->
+
+<p>Enter <code class="highlighter-rouge">git subtree</code>: rather than the process of maintaining a separate
+repository for the build folder, Git is able to simply push it using
+the existing repository. Here are the steps:</p>
+
+<ul>
+  <li>
+    <p>First, build your project. For nanoc, this is <code class="highlighter-rouge">nanoc compile</code>
+(or just <code class="highlighter-rouge">nanoc</code>); for Grunt, this is <code class="highlighter-rouge">grunt build</code>.</p>
+  </li>
+  <li>
+    <p>If your build folder is in <code class="highlighter-rouge">.gitignore</code>, then remove it. We will track
+changes to the built site alongside your source.</p>
+  </li>
+  <li>
+    <p>Add the build folder to the repository with <code class="highlighter-rouge">git add build_folder</code>,
+replacing <code class="highlighter-rouge">build_folder</code> with <code class="highlighter-rouge">output</code>/<code class="highlighter-rouge">dist</code>/etc. as appropriate.
+Also add the new <code class="highlighter-rouge">.gitignore</code> with <code class="highlighter-rouge">git add .gitignore</code>.
+Commit your changes with <code class="highlighter-rouge">git commit -m "Added build folder"</code>.</p>
+  </li>
+  <li>
+    <p>You’re ready to deploy to GitHub Pages. Whenever you wish to deploy,
+make sure you’ve committed your changes to the repository (which should
+now include your build folder). Then it’s as simple as:</p>
+  </li>
+</ul>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    # replace build_folder as appropriate
+    git subtree push --prefix build_folder origin gh-pages
+</code></pre></div></div>
+
+<p>Git pushes the subset of your repository corresponding to your build
+folder to the <code class="highlighter-rouge">gh-pages</code> branch, which is then available at
+<code class="highlighter-rouge">http://username.github.io/RepositoryName/</code>.</p>
+
+<p>Since the subtree push command is rather verbose, I wrote a nanoc command
+to handle it for my blog:
+<a href="https://github.com/StevenClontz/StevenClontz.com/blob/master/commands/deploy-ghpages.rb">https://github.com/StevenClontz/StevenClontz.com/blob/master/commands/deploy-ghpages.rb</a></p>
+
+<p>Credit goes to the Yeoman wiki for showing me the light:
+<a href="https://github.com/yeoman/yeoman/wiki/Deployment">https://github.com/yeoman/yeoman/wiki/Deployment</a></p>
+
+<h3 id="addendum">Addendum</h3>
+
+<p>One caveat here. Since <code class="highlighter-rouge">git subtree push</code> doesn’t have a <code class="highlighter-rouge">--force</code> option,
+you will have trouble on the first push if you have an existing <code class="highlighter-rouge">gh-pages</code>
+branch. You can actually chain git commands together to fix this, thankfully.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git push origin `git subtree split --prefix build_folder master`:gh-pages --force
+</code></pre></div></div>
+
+<p>Source: <a href="http://stackoverflow.com/a/13403588/1607849">http://stackoverflow.com/a/13403588/1607849</a></p>
+:ET

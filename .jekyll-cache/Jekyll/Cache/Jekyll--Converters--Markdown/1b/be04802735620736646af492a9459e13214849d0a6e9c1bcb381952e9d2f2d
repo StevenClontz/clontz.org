@@ -1,0 +1,8 @@
+I"�<p>Maybe I should get gross multiweek sinus infections more often. In addition to co-authoring my first ever topology paper to be submitted to a journal (I hope to share more about that soon!), I’ve spent the past couple of days hacking out an Auburn-themed version of the Ruby static site generator <a href="http://nanoc.ws">nanoc</a>.</p>
+
+<p><a href="http://i.imgur.com/Pl532Nh.png">http://i.imgur.com/Pl532Nh.png</a></p>
+
+<p>If you are an Auburn student/employee/professor comfortable with the terminal (no Ruby experience required), and would like to roll out an Auburn-themed website, this is a very slick way to do it. Check out the example site here: <a href="http://auburnwrites.github.io/nanoc-au/">http://auburnwrites.github.io/nanoc-au/</a>.</p>
+
+<p>UPDATE 2014-01-03: I’ve added a proof-of-concept here: <a href="http://www.auburn.edu/~clontsc">http://www.auburn.edu/~clontsc</a></p>
+:ET

@@ -1,0 +1,65 @@
+I"�<p>UPDATE: This is a terrible way to get this working, as I thankfully discovered.
+<a href="/blog/2014/02/04/visual-studio-2012-and-git-slash-bitbucket/">See my 2014-02-04 post for details.</a></p>
+
+<p>It took me forever and a day to get this functional, so I wanted to share the
+problem and solution in case it helps someone else out there trying to
+Google their way to solve a similar puzzle.</p>
+
+<h3 id="problem">Problem</h3>
+
+<p>I inherited a ASP.NET website which was hosted at
+<code class="highlighter-rouge">https://www.domain.com/subdirectory/</code>. The site was coded with absolute
+links throughout of the form <code class="highlighter-rouge">/subdirectory/path/to/resource</code>. However, when
+Visual Studio 2012 spins up IIS Express to host the site locally, the site
+is hosted at <code class="highlighter-rouge">http://localhost:port/</code>. You can see the issue: all the
+references to <code class="highlighter-rouge">/subdirectory/etc</code> are now broken in the application, which
+makes previewing the site a pain.</p>
+
+<!-- more -->
+
+<h3 id="solution">Solution</h3>
+
+<p>I don’t know if there’s a more elegant way of solving this problem, but here’s
+what ended up working for me. I did this through the Visual Studio IDE, but
+it was rather inelegant (I had to pretend to create a new project to get to
+the only dialog box that would allow me to do it). But ultimately, I think
+what it ended up doing was editing a file called <code class="highlighter-rouge">applicationhost.config</code>
+under the <code class="highlighter-rouge">IISExpress\config\</code> folder.  Here’s the part that’s important:</p>
+
+<div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;sites&gt;</span>
+    <span class="nt">&lt;site</span> <span class="na">name=</span><span class="s">"thesite"</span> <span class="na">id=</span><span class="s">"2"</span><span class="nt">&gt;</span>
+        <span class="nt">&lt;application</span> <span class="na">path=</span><span class="s">"/"</span> <span class="na">applicationPool=</span><span class="s">"Clr2IntegratedAppPool"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;virtualDirectory</span> <span class="na">path=</span><span class="s">"/"</span> <span class="na">physicalPath=</span><span class="s">"C:\path\on\disk\to\site"</span> <span class="nt">/&gt;</span>
+        <span class="nt">&lt;/application&gt;</span>
+        <span class="nt">&lt;bindings&gt;</span>
+            <span class="nt">&lt;binding</span> <span class="na">protocol=</span><span class="s">"http"</span> <span class="na">bindingInformation=</span><span class="s">"*:49673:localhost"</span> <span class="nt">/&gt;</span>
+        <span class="nt">&lt;/bindings&gt;</span>
+    <span class="nt">&lt;/site&gt;</span>
+    <span class="nt">&lt;siteDefaults&gt;</span>
+        <span class="nt">&lt;logFile</span> <span class="na">logFormat=</span><span class="s">"W3C"</span> <span class="na">directory=</span><span class="s">"%IIS_USER_HOME%\Logs"</span> <span class="nt">/&gt;</span>
+        <span class="nt">&lt;traceFailedRequestsLogging</span> <span class="na">directory=</span><span class="s">"%IIS_USER_HOME%\TraceLogFiles"</span> <span class="na">enabled=</span><span class="s">"true"</span> <span class="na">maxLogFileSizeKB=</span><span class="s">"1024"</span> <span class="nt">/&gt;</span>
+    <span class="nt">&lt;/siteDefaults&gt;</span>
+    <span class="nt">&lt;applicationDefaults</span> <span class="na">applicationPool=</span><span class="s">"Clr4IntegratedAppPool"</span> <span class="nt">/&gt;</span>
+    <span class="nt">&lt;virtualDirectoryDefaults</span> <span class="na">allowSubDirConfig=</span><span class="s">"true"</span> <span class="nt">/&gt;</span>
+<span class="nt">&lt;/sites&gt;</span>
+</code></pre></div></div>
+
+<p>When previewing a site in the browser, Visual Studio opens up the file
+assuming it’s hosted from the root. So, the solution is to add a second
+<code class="highlighter-rouge">virtualDirectory</code> which mirrors all the files served at the root at the
+desired subdirectory, such as <code class="highlighter-rouge">\subdirectory</code>. Editing the contents of
+<code class="highlighter-rouge">&lt;application&gt;</code> like so solves the problem:</p>
+
+<div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;application</span> <span class="na">path=</span><span class="s">"/"</span> <span class="na">applicationPool=</span><span class="s">"Clr2IntegratedAppPool"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;virtualDirectory</span> <span class="na">path=</span><span class="s">"/"</span> <span class="na">physicalPath=</span><span class="s">"C:\path\on\disk\to\site"</span> <span class="nt">/&gt;</span>
+    <span class="nt">&lt;virtualDirectory</span> <span class="na">path=</span><span class="s">"/subdirectory"</span> <span class="na">physicalPath=</span><span class="s">"C:\path\on\disk\to\site"</span> <span class="nt">/&gt;</span>
+    <span class="c">&lt;!-- note that both physicalPaths are the same! --&gt;</span>
+<span class="nt">&lt;/application&gt;</span>
+</code></pre></div></div>
+
+<p>It’s a hack, but it works. The more elegant solution would be to allow the
+original virtualDirectory at <code class="highlighter-rouge">\</code> be eliminated and only host at <code class="highlighter-rouge">\subdirectory</code>,
+however, this messes with Visual Studio’s project file in a way that I don’t
+want to try and fix. I can preview things now, and that’s a start!</p>
+
+:ET

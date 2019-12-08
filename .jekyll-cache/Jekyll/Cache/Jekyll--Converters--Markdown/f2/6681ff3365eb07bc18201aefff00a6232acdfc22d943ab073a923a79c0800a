@@ -1,0 +1,71 @@
+I"�<p>Too many web development posts! Time for some topology!</p>
+
+<p>As an exercise I’ve worked through the classical result that if a space <script type="math/tex">X</script>
+is compact Hausdorff and has a <script type="math/tex">G_\delta</script>-diagonal <script type="math/tex">\Delta</script>, then <script type="math/tex">X</script> is
+metrizable.
+It relies on Urysohn’s theorem that regular second-countable spaces are
+metrizable, and since compact Hausdorff spaces are normal*, I’ll just show
+that the space is second countable.</p>
+
+<p>When I went to compare, most of proofs I found online and in texts like
+Engleking were a lot less direct (involving characterizations
+of <script type="math/tex">G_\delta</script> diagonals using covers), so I hope someone gets
+some use out of this fairly straight-forward attack (due to a hint from
+my advisor Gary Gruenhage).</p>
+
+<!-- more -->
+
+<h3 id="definitions">Definitions</h3>
+
+<p>We’ll assume you’re good on most of the terms, but <script type="math/tex">G_\delta</script> sets are
+countable intersections (from the <script type="math/tex">\delta</script>) of open sets (from the <script type="math/tex">G</script>). The
+diagonal of a space is what you expect:</p>
+
+<script type="math/tex; mode=display">\Delta = \{\langle x,x \rangle : x \in X \} \subseteq X^2</script>
+
+<h3 id="proof">Proof</h3>
+
+<p>Start by assuming that <script type="math/tex">% <![CDATA[
+\Delta = \bigcap_{n<\omega} G_n %]]></script> where
+<script type="math/tex">G_{n+1} \subseteq G_n</script>. Since <script type="math/tex">X^2</script> is normal (not because <script type="math/tex">X</script> is, but
+because <script type="math/tex">X^2</script> is also compact Hausdorff) and <script type="math/tex">\Delta</script> is closed, we can set
+<script type="math/tex">U_0=G_0</script>, and
+<script type="math/tex">\Delta \subseteq U_{n+1} \subseteq \overline{U_{n+1}}\subseteq U_n \cap G_{n+1}</script>.</p>
+
+<p>It follows that
+<script type="math/tex">% <![CDATA[
+\Delta \subseteq \bigcap_{n<\omega} U_n \subseteq \bigcap_{n<\omega} \overline{U_n} \subseteq \bigcap_{n<\omega} G_n = \Delta %]]></script></p>
+
+<p>These <script type="math/tex">U_n</script> have a special property: for every <script type="math/tex">x\in X</script> and every open
+neighborhood <script type="math/tex">A</script> of <script type="math/tex">x</script>, there is some <script type="math/tex">% <![CDATA[
+n<\omega %]]></script> such that</p>
+
+<script type="math/tex; mode=display">U_n[x]=\{y:\langle x,y\rangle \in U_n\}\subseteq A</script>
+
+<p>To see this, suppose not: then we may choose <script type="math/tex">x_n \in U_n[x]\setminus A</script>.
+Since <script type="math/tex">x_n \in \overline{U_m[x]}</script> for <script type="math/tex">n\geq m</script>, it follows that <script type="math/tex">x_n</script> must
+converge in <script type="math/tex">% <![CDATA[
+\bigcap_{m<\omega} \overline{U_m[x]} = \{x\} %]]></script>. But since <script type="math/tex">x_n</script>
+converges to <script type="math/tex">x</script>, its neighborhood <script type="math/tex">A</script> must contain all but finitely many
+<script type="math/tex">x_n</script>, a contradiction.</p>
+
+<p>Now, since <script type="math/tex">U_n</script> is open, we can choose open <script type="math/tex">B_{x,n}</script> for each <script type="math/tex">x\in X</script> such
+that  <script type="math/tex">(B_{x,n})^2\subseteq U_n</script>. Since <script type="math/tex">X</script> is compact, let <script type="math/tex">\mathcal{B}_n</script>
+be a finite subcover for <script type="math/tex">\{B_{x,n}: x\in X\}</script> for each <script type="math/tex">% <![CDATA[
+n<\omega %]]></script>.</p>
+
+<p>We note that <script type="math/tex">% <![CDATA[
+\mathcal{B} = \bigcup_{n<\omega} \mathcal{B}_n %]]></script> is countable,
+and we claim it is a base for <script type="math/tex">X</script>. Let <script type="math/tex">A</script> be a neighborhood of <script type="math/tex">x</script>; then
+choose <script type="math/tex">U_n</script> such that <script type="math/tex">U_n[x]\subseteq A</script>. We need only take <script type="math/tex">B_{z,n}</script> from
+the cover <script type="math/tex">\mathcal{B}_n</script> of <script type="math/tex">X</script> such that <script type="math/tex">x\in B_{z,n}</script>, and note that
+<script type="math/tex">(B_{z,n})^2\subseteq U_n</script> implies <script type="math/tex">x\in B_{z,n}\subseteq U_n[x] \subseteq A</script>.
+<script type="math/tex">\Box</script></p>
+
+<p><small>
+  *Not too bad: you can easily show that in Hausdorff spaces, not just
+  points can be separated by open sets, but all compact sets can be
+  separated by open sets. All closed subsets of compact spaces are compact,
+  so that’s that.
+</small></p>
+:ET

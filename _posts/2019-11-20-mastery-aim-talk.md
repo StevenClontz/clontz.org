@@ -1,23 +1,20 @@
 ---
 layout: post
-title: "Mastery Grading AIM Demo"
-subtitle: "Work-In-Progress notes for my presentation"
+title: "Mastery Grading AIM Talk"
+subtitle: "notes for my presentation"
 header-img: "img/teaching-bg.jpg"
 date: 2019-11-20 10:00
 ---
 
-The majority of this presentation is anticipated to be a demonstration
-of various tools I use or have created for mastery grading, but
-here are a few notes that I'll be using during my talk.
-
-Credit goes to Dr. Drew Lewis who provided his slides on
-"Standards Based and Specifciations Grading" which inspired some
-of this talk.
+Here are some notes that accompany my presentation on Mastery
+Grading at the
+[American Institute of Mathematics workshop on Interactive Asessments in OER](https://aimath.org/workshops/interacttextbook/).
 
 ## Opening Activities
 
 - What are some reasons for assigning grades to students?
-- What grade do the following students deserve?
+- What grade do the following students deserve? *Credit to
+  D. Lewis for this activity.*
 
 ![table of grades - credit D Lewis](/img/20191121/grades.png)
 
@@ -42,7 +39,7 @@ of this talk.
 
 ## What is Mastery Grading?
 
-According to <https://www.masterygrading.com/>...
+According to <https://www.masterygrading.com/> (**emphasis** added by me)...
 
 - Mastery grading is an approach to student assessment in which student work is graded 
 directly on whether it demonstrates mastery of a clear list of objectives. 
@@ -51,4 +48,23 @@ mastery each student has demonstrated of the objectives by the end of the course
 - Students typically have (or can earn) multiple opportunities to demonstrate mastery of 
 each objective.
 - Mastery grading puts emphasis on learning, provides clarity for students, and 
-encourages perseverance and growth mindset.
+encourages perseverance and **growth mindset**.
+
+### Growth Mindset
+
+Via <https://mindsetscholarsnetwork.org/>:
+
+![growth mindset](/img/20191208/growth-mindset.png)
+
+## Demo of Mastery Grading Tools
+
+There are many different ways to implement mastery grading
+(e.g. standards-based grading, specifications grading...).
+At the workshop I will walk through my implementation of mastery
+grading for my 2019 Fall course on sophomore differential equations.
+
+- [MA238 Learning Standards](https://prof.clontz.org/classes/2019/08/ma238/standards/)
+- [MA238 Syllabus](https://prof.clontz.org/classes/2019/08/ma238/)
+- [SbgRails](https://github.com/stevenclontz/sbg-rails)
+- [Mastr](https://mastr.clontz.org)
+- [Gradescope](https://www.gradescope.com/)

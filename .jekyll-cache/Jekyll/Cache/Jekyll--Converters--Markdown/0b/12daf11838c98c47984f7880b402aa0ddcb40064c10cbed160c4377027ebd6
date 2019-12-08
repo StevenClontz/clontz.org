@@ -1,0 +1,6 @@
+I"+<p>More adventures in .NET. Here’s a couple of code snippets to enforce
+lower-case URLs in a MVC 4 application (which oddly defaults to
+<a href="http://en.wikipedia.org/wiki/CamelCase">UpperCamelCase</a>).</p>
+
+<p><a href="https://gist.github.com/StevenClontz/8870552">Check out the Gist.</a></p>
+:ET

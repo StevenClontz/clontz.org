@@ -1,0 +1,173 @@
+I"�#<p>This concept is something I created when my buddy <a href="http://www.ericharshbarger.org">Eric</a> and I
+were approached by <a href="http://auburnescapezones.com/">Auburn Escape Zones</a> to create an advanced escape
+room experience. So, I set about to design a game which satisfies
+the following qualities:</p>
+
+<ul>
+  <li>The puzzles follow the puzzlehunt tradition, rather than
+your typical escape room fare. This includes more cryptic clues which
+may require longer for an epiphany than what I’d recommend for
+a traditional room,
+and more complex codes than your typical substitution ciphers.
+In short, an experience for advanced puzzlers, or escape room enthusiasts
+who are looking for a different kind of challenge.</li>
+  <li>Generally, teams should have more than enough content to fill 60 minutes.
+So, rather than the goal of escaping in that timeframe by solving everything
+there is, teams are tasked to solve as much as they can as quickly as possible.</li>
+  <li>The game is designed to be refreshed seasonally, about every four months.
+This means a skeleton theme and structure within which the puzzles can be
+easily replaced.</li>
+  <li>Competition between teams is the motivating factor. Teams are scored based
+on how much they solved, and how quickly they solved.
+They should be enticed to return season after season to get their names
+on top of the public leaderboard.</li>
+</ul>
+
+<p><img src="/img/champions-road.jpg" alt="SM3DW Champion's Road" /><br />
+<em>Fans of <strong>Super Mario 3D World</strong> may recall this particular challenge for advanced
+players, from which I drew some inspiration. Even when I had difficulty completing
+the entire course, I relished the little victories as I worked my way through.</em></p>
+
+<p>In addition to finding a new audience for my hunt-style puzzles, I like
+this concept because it’s something I’d love to play myself! For that
+reason, I’m licensing the concept and this write-up under
+<a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</a>.
+If you have any comments or suggestions for improvement, please contact me
+<a href="steven.clontz@gmail.com">by email</a> or
+<a href="http://twitter.com/StevenXClontz">@StevenXClontz</a>.</p>
+
+<p>Of course, I’d be remiss if I neglected to point out the major advantage of such a
+room. <strong>Champions’ rooms are designed to refresh at frequent intervals,
+giving dedicated players who have exhausted your other rooms more opportunities
+to play games at your business.</strong></p>
+
+<hr />
+
+<h1 id="game-overview">Game Overview</h1>
+
+<p>A <strong>champions’ room</strong> is an escape room variant drawing inspiration from
+puzzlehunts and events, such as the <strong>MIT Mystery Hunt</strong>, <strong>DASH</strong>,
+<strong>Puzzled Pint</strong>, and
+many others. It is designed to require minimal staff, and to challenge/reward
+advanced escape room players.</p>
+
+<p>Depending on the puzzles, a team may support anywhere from six to eight
+players. Unlike an escape room, there is no mystery about “how to escape
+the room”. Instead, the following goals are made clear from the beginning
+(perhaps explained by the GM inside the room with the players):</p>
+
+<ul>
+  <li>
+    <p>The room contains seven main puzzles. Each puzzle is marked with a color:
+two green, two blue, and three red. These puzzles may be found throughout the
+room, and don’t require too much digging to find (see <em>Puzzle Design</em> below).</p>
+  </li>
+  <li>
+    <p>A container is bound by three chains, respectively matching the three colors:
+green, blue, red. There are two breaks in the green/blue chains, and three
+breaks in the red chain, which are joined by combination locks. By solving
+appropriately colored puzzles, the combinations to these locks are revealed.
+Note that this means that only one puzzle of each color must be solved in
+order to access the contents of the container.</p>
+  </li>
+  <li>
+    <p>A scoreboard is affixed to the wall, with several eye bolts. As players
+release combination locks, they should attach the lock to the appropriate
+location on the scoreboard. Game Control watches this
+scoreboard, and record the time when the most recent lock was attached to it.
+The seven basic colored locks are worth <strong>ten points each</strong>, for a total
+of seventy.</p>
+  </li>
+  <li>
+    <p>Underneath the scoreboard is a black keylock attached to another eye bolt.
+In its starting position it is worth nothing, but its key is locked inside
+the chained container. Unlocking and moving the black keylock to the appropriate
+section of the scoreboard is worth another <strong>ten points</strong>.</p>
+  </li>
+  <li>
+    <p>Also in the chained container is a white lock fixed to an eye bolt, and a
+final puzzle. Solving this puzzle reveals how to release the white lock,
+which is worth <strong>twenty points</strong> when affixed to the appropriate section of
+the scoreboard.</p>
+  </li>
+  <li>
+    <p>After <strong>sixty minutes</strong> have elapsed, or when all locks have been scored,
+the game is over. Teams’ rankings are determined first by the number of
+points earned, then by the amount of time they took to score their final
+lock.</p>
+    <ul>
+      <li>For example, suppose Team A scored 2 green, 1 blue, 2 red, and 1 black
+  lock, and Team B scored 1 green, 1 blue, 1 red, 1 black, and 1 white lock.
+  Both teams earned 60 points. However, if Team B scored their final lock
+  at 53 minutes, but Team A scored their final lock after only 48 minutes,
+  then Team A is ranked higher than Team B (regardless of the color of
+  their final locks).</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="theming">Theming</h1>
+
+<p><img src="/img/vlr-q.jpg" alt="VLR's Q Room" /><br />
+<em><strong>Virtue’s Last Reward</strong> featured its own sort of champions’ room. The
+protagonist arrives in a rather plain room, which serves to test the player
+on the skills they’ve developed throughout the game. (Among all the spoilers
+which exist for VLR, this is by far the least important, so don’t worry.)</em></p>
+
+<p>Unlike traditional escape rooms, a champions’ room serves to test the
+puzzling skills of its players, rather than providing an immersive alternate
+reality experience. That said, there’s no harm (and likely some good) in
+employing a light theme to join the puzzle elements together.
+At <a href="http://auburnescapezones.com/">Auburn Escape Zones</a>, we’ve employed a theme called
+<em>The Puzzlemaster’s Workshop</em>. Players interact with a maker’s workspace,
+complete with posters of common codes, but any puzzle type can be inserted
+into the space. That way, any kind of puzzle may be easily fit to the theme,
+making it easy to create new content for new seasons.</p>
+
+<h1 id="puzzle-design">Puzzle Design</h1>
+
+<p>The puzzles in a champions’ room are distinct from escape room puzzles.
+Because there are so few, and because they are available from the beginning
+of the game in parallel, they have the latitude to be deeper than you can
+achieve in a serial escape room. As mentioned before, puzzle concepts that you
+may encounter in a Puzzled Pint event or a novice DASH puzzle are fair game.
+If you’re unfamiliar with the genre, here is an example of a novice
+<a href="http://playdash.org/DASH7/puzzles/2-Weighing%20of%20the%20wands-novice.pdf">DASH7 puzzle</a> and its <a href="http://playdash.org/DASH7/puzzles/2-Weighing%20Of%20The%20Wands%20solution.pdf">solution</a>.</p>
+
+<p>As a rule of thumb, you <em>don’t</em> want most teams to solve all the puzzles,
+although they should solve many, and preferably be able to open the container.
+Assuming a maximum of eight players per team,
+you could design the puzzles such that the average pair of players takes
+the following durations to solve each:</p>
+
+<ul>
+  <li>Green puzzles: 10 minutes</li>
+  <li>Blue puzzles: 20 minutes</li>
+  <li>Red puzzles: 30-60 minutes</li>
+</ul>
+
+<p>In particular, green puzzles are easy, blue puzzles are medium, and red puzzles
+are hard, and the container should be opened about halfway through the game.
+Then, the final white puzzle can be designed to take most full teams as long
+as 45 minutes; so, only teams which solve the white puzzle faster than the
+intended average,
+or open the container faster than the intended average, have a shot at a
+perfect run.</p>
+
+<p>Designing good hunt-style puzzles is arguably a different skill than your usual
+escape room fare. I recommend you do some research before attempting to
+design these puzzles yourself, or contract a professional designer with
+puzzlehunt experience to design these puzzles for you.</p>
+
+<h1 id="hint-system">Hint System</h1>
+
+<p>Most escape rooms have rather loose hinting systems, which is perfectly
+fine. However, with the competitive aspect of a champions’ room, the hints
+given to teams must be completely deterministic.</p>
+
+<p>One solution is to give out hints based on time. The delivery mechanism
+depends on the amount of technology available for the room. However,
+this may be as simple as slipping an envelope under the door every 15 minutes,
+with a list of hints for each puzzle. Hints should not be given for the
+white puzzle.</p>
+:ET

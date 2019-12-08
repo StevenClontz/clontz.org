@@ -1,0 +1,96 @@
+I"<p>I will be co-organizing two workshops and giving
+one individual presentation at MAA MathFest 2018.
+Please contact me at <a href="mailto:sclontz@southalabama.edu">sclontz@southalabama.edu</a> with any questions!</p>
+
+<h2 id="workshop-an-introduction-to-team-based-learning">Workshop: An Introduction to Team-Based Learning</h2>
+
+<p><em>Drew Lewis and Steven Clontz</em></p>
+
+<p>Participants are encouraged to review the following “readiness preparation materials” 
+(a component of Team-Based Learning), to introduce them to the basic
+ideas behind Team-Based Learning.</p>
+
+<ul>
+  <li><a href="https://cft.vanderbilt.edu/guides-sub-pages/team-based-learning/">https://cft.vanderbilt.edu/guides-sub-pages/team-based-learning/</a>
+    <ul>
+      <li><em>est. time: 6 minutes</em></li>
+    </ul>
+  </li>
+  <li><a href="http://www.celt.iastate.edu/teaching/teaching-format/team-based-learning">http://www.celt.iastate.edu/teaching/teaching-format/team-based-learning</a>
+    <ul>
+      <li><em>est. time: 4 minutes</em></li>
+    </ul>
+  </li>
+</ul>
+
+<p>Time estimates calculated using <a href="http://niram.org/read/">Niram.org</a>.</p>
+
+<p>After the workshop, you may be interested in the following resources:</p>
+
+<ul>
+  <li><a href="/img/20180802/tbl-mathfest.pdf">PDF of workshop slides</a></li>
+  <li>The <a href="https://github.com/StevenClontz/tbil-la">GitHub project</a> for our
+in-development
+TBIL Linear Algebra resources.</li>
+</ul>
+
+<h2 id="workshop-mathematical-puzzle-programs-outreach-and-recruitment-with-puzzles">Workshop: Mathematical Puzzle Programs: Outreach and Recruitment with Puzzles</h2>
+
+<p><em>Braxton Carrigan, Steven Clontz, and PJ Couch</em></p>
+
+<p>Participants in this workshop will get to play an abbreviated version of the
+MaPP Challenge competition for themselves. If possible, please bring
+an iOS or Android smart device with internet access to play along using
+the <a href="http://cluekeeper.com">ClueKeeper</a> app.</p>
+
+<p>Please visit <a href="http://mappmath.org">MaPPmath.org</a> for more information
+on Mathematical Puzzle Programs.</p>
+
+<p>Theh puzzles for this workshop are available on our GitHub:
+<a href="https://github.com/MaPPmath/challenge18/blob/mathfest-demo/mapp-challenge-18-game-book.pdf">https://github.com/MaPPmath/challenge18/blob/mathfest-demo/mapp-challenge-18-game-book.pdf</a></p>
+
+<h2 id="presentation-tools-to-facilitate-mastery-grading">Presentation: Tools to Facilitate Mastery Grading</h2>
+
+<p>I will review two web applications I use for mastery grading.</p>
+
+<ul>
+  <li><a href="https://github.com/stevenclontz/sbg-rails/">sbg-rails</a>
+    <ul>
+      <li>This app is being written by myself using Ruby on Rails. Anyone comfortable
+with running a Ruby on Rails app may clone and install the repo
+using the GitHub link above.</li>
+      <li>A (buggy) demo is available at <a href="https://sbg-rails.herokuapp.com/">https://sbg-rails.herokuapp.com/</a>.
+It requires a username/password provided at the presentation.</li>
+      <li>The app is designed around two goals:
+        <ul>
+          <li>Instructors are given an interface to efficiently log student attempts to
+master course standards, and produce progress reports based on those attempts.</li>
+          <li>Exams may be custom generated based upon student progress and a problem bank.</li>
+        </ul>
+      </li>
+      <li>To enter grades, a spreadsheet-like interface is provided. However, this is
+still somewhat inconvenient as assessments need to be graded on paper
+and then re-entered exercise-by-exercise into the app.</li>
+    </ul>
+  </li>
+  <li><a href="https://gradescope.com/">Gradescope</a>
+    <ul>
+      <li>Currently, the Gradescope Basic plan is available for free to the first five instructors
+from each institution who sign up; later signups get two terms free.</li>
+      <li>Instructors can create and grade arbitrary worksheets using this app.</li>
+      <li>While it’s designed around traditional grading, it can still be used
+to support a mastery grading classroom.</li>
+      <li>My implementation: use sbg-rails to generate assessments, and students submit
+answers on sheets that I upload to Gradescope.
+        <ul>
+          <li>Answer sheet: <a href="/img/20180731/answer-template.pdf">PDF</a></li>
+          <li>Sample responses: <a href="/img/20180731/sample-solutions.pdf">PDF</a></li>
+        </ul>
+      </li>
+      <li>By “exporting evaluations”, spreadsheets for each graded standard may be exported from
+Gradescope and copied/imported into your gradebook of choice. sbg-rails has
+an import utility for Gradescope reports.</li>
+    </ul>
+  </li>
+</ul>
+:ET

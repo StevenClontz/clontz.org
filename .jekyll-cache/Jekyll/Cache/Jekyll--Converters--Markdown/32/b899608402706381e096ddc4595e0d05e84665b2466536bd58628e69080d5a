@@ -1,0 +1,597 @@
+I"�O<p>The <a href="https://en.wikipedia.org/wiki/Zero_Escape">Zero Escape trilogy</a>
+is my favorite video game series. To be clear, I’m not claiming it’s the
+<em>best</em>, but merely my favorite. Its escape rooms can be hit-or-miss, but
+the stories in each game have kept me up to 3am many nights as I tried
+to unravel their intricate storylines.</p>
+
+<p>What’s so great about their plots? Well, unfortunately, telling you would
+be a huge spoiler! I can say this: each game pushes the boundaries of
+story-telling within the visual novel format just a little further.</p>
+
+<p>Unfortunately, there are a few questionable design
+decisions with the latest game, Zero Time Dilemma, which can block players’
+progress through the game.
+Most of them could have been
+solved with a better hinting system, not only within the escape rooms,
+but also in how to progress the story itself. Normally such problems can
+be solved by checking Google for answers, but in a game like ZTD, it’s
+very easy to run across spoilers which will detract from the player’s
+experience for a first playthrough.</p>
+
+<p>My goal for this post is to
+provide first-time players a guide to push them in the correct direction,
+without any risk of spoilers. It should be referred to sparingly, and
+only when the player feels she does not know how to proceed in furthering
+the story.</p>
+
+<p><img src="/img/20160705/fragment.jpg" alt="Fragments" /><br />
+<em>To emulate the loss of the characters’ memories, gameplay is fragmented into
+several sections.</em></p>
+
+<p><img src="/img/20160705/global.jpg" alt="Global" /><br />
+<em>As more of the story is revealed, the fragmented storylines are positioned
+within a branching timeline, based upon the choices of the characters.</em></p>
+
+<p>When it is unclear how to progress the story, the player either has to make
+a new <strong>Decision</strong> (marked with a balance scale on the flowchart),
+or needs to complete a <strong>Quest</strong> (often, escape a room; marked with a door
+on the flowchart).
+Searching online for Quest walkthroughs is easy enough, and has little risk
+for spoilers, so I’ll be focusing on the several Decision games. Here’s an
+example:</p>
+
+<ul>
+  <li><strong>Read Spoiler?</strong> (example)
+    <ul>
+      <li>Outcome 1
+        <ul>
+          <li>Prerequisite:
+<span class="spoiler">CQD-END:2</span></li>
+          <li>Hint 1:
+<span class="spoiler">Think about this Decision’s title.</span></li>
+          <li>Hint 2:
+<span class="spoiler">Well, you aren’t going to WRITE it.</span></li>
+          <li>Choice:
+<span class="spoiler">“READ”</span></li>
+        </ul>
+      </li>
+      <li>Outcome 2
+        <ul>
+          <li>Prerequisite: none</li>
+          <li>Choice:
+<span class="spoiler">“DONT”, or let time expire</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p>The outcomes are numbered as they appear left-to-right on the fragment and
+global flowcharts, not necessarily in the order they should be played.
+The given prerequisites are not enforced by the game; however, unless you’ve
+fulfilled them, then you shouldn’t expect to know how to make that choice
+at that point of the game (and should try doing something else for now).
+Here’s my suggestions before using this guide:</p>
+
+<ol>
+  <li>Play any Fragments marked New.</li>
+  <li>Play any nodes of the Global Flowchart marked with an exclamation point.</li>
+  <li>Read my <em>Note on Execution Voting</em> for an explanation
+on how to get all the Execution Results.</li>
+  <li>Look for a Decision you are missing outcomes for on the Global Flowchart
+in the below list. If you have satisfied its prerequisites, then peek
+at its hints. If you give up, read its choice and move on.</li>
+</ol>
+
+<p>Shoot me feedback on the Reddit post <a href="https://www.reddit.com/r/ZeroEscape/comments/4rmz6d/ztd_decision_guide_for_firsttime_players/">here</a>.
+Thanks to /u/mythriz for pointing out a potential spoiler in that thread.</p>
+
+<h2 id="time-to-decide">Time to Decide!</h2>
+
+<p>Decisions are ordered alphabetically in this list.</p>
+
+<ul>
+  <li><strong>3-Way Standoff</strong>
+    <ul>
+      <li>Outcome 1
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Hint: <span class="spoiler">What two people are involved in the
+standoff with the child?</span></li>
+          <li>Choice: <span class="spoiler">“ERIC”.</span></li>
+        </ul>
+      </li>
+      <li>Outcome 2
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Hint: <span class="spoiler">What two people are involved in the
+standoff with the child?</span></li>
+          <li>Choice: <span class="spoiler">“MIRA”.</span></li>
+        </ul>
+      </li>
+      <li>Outcome 3
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Hint: <span class="spoiler">Violence isn’t always the answer.</span></li>
+          <li>Choice: <span class="spoiler">“NO ONE”.</span></li>
+        </ul>
+      </li>
+      <li>Outcome 4
+        <ul>
+          <li>Prerequisites: <span class="spoiler">C-END:1</span>,
+<span class="spoiler">D-END:2</span>, or
+<span class="spoiler">Q-END:2</span>.</li>
+          <li>Hint 1: <span class="spoiler">Start by trying any names you
+can think of from elsewhere in the game.</span></li>
+          <li>Hint 2: <span class="spoiler">“MYSELF” fails - you cannot commit
+suicide. Who else is there?</span></li>
+          <li>Hint 3: <span class="spoiler">If you’ve seen C-END:1, try to
+complete the anagram.</span></li>
+          <li>Hint 4: <span class="spoiler">Consider attacking the character named
+in D-END:2 or Q-END:2.</span></li>
+          <li>Choice: <span class="spoiler">“DELTA”.</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><span class="spoiler">AB</span> <strong>Game</strong>
+    <ul>
+      <li>Outcome 1
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">“ALLY”.</span></li>
+        </ul>
+      </li>
+      <li>Outcome 2
+        <ul>
+          <li>Prerequisites: <span class="spoiler">“Ally” and “Betray” gameovers.</span></li>
+          <li>Choice: <span class="spoiler">Automatic once prerequisites are
+satisfied.</span></li>
+        </ul>
+      </li>
+      <li>Outcome 3
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">“BETRAY”.</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>“Don’t Press” Button</strong>
+    <ul>
+      <li>Outcome 1
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">Let time expire.</span></li>
+        </ul>
+      </li>
+      <li>Outcome 2
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">Press the button.</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Door of Truth</strong>
+    <ul>
+      <li>Outcome
+        <ul>
+          <li>Prerequisites:
+<span class="spoiler">D-END:2 and Yellow Door (Q-Team Cinema)</span></li>
+          <li>Hint 1: <span class="spoiler">You’ve seen a hint on the other
+side of the door during Yellow Door (Q-Team Cinema)</span></li>
+          <li>Hint 2: <span class="spoiler">You saw the birth of two babies
+leading up to D-END:2.</span></li>
+          <li>Choice: <span class="spoiler">“11162029” (for 11/16/2029).</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Dream or Reality</strong>
+    <ul>
+      <li>Outcome 1
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">Let time expire.</span></li>
+        </ul>
+      </li>
+      <li>Outcome 2
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">Press the button.</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Execution Vote: C/Q/D</strong>
+    <ul>
+      <li>See <em>Note on Execution Voting</em> below.</li>
+    </ul>
+  </li>
+  <li><strong>Final Decision</strong>
+    <ul>
+      <li>Outcome 1
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">“DON’T SHIFT” or let time expire.</span></li>
+        </ul>
+      </li>
+      <li>Outcome 2
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">“SHIFT”.</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Find the Mask</strong>
+    <ul>
+      <li>Outcome 1
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Hint 1: <span class="spoiler">Think about the Monty Hall problem.</span></li>
+          <li>Hint 2: <span class="spoiler">You have only a 10% chance of choosing
+the correct locker without any added information.</span></li>
+          <li>Choice: <span class="spoiler">The initial choice is irrelevant, but
+you have a 90% chance of getting this Correct outcome if you
+switch.</span></li>
+        </ul>
+      </li>
+      <li>Outcome 2
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Hint 1: <span class="spoiler">Think about the Monty Hall problem.</span></li>
+          <li>Hint 2: <span class="spoiler">You have only a 10% chance of choosing
+the correct locker without any added information.</span></li>
+          <li>Choice: <span class="spoiler">The initial choice is irrelevant, but
+you have a 90% chance of getting this Incorrect outcome if you
+don’t switch.</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Force Quit Box: C</strong>
+    <ul>
+      <li>Outcome
+        <ul>
+          <li>Prerequisites: <span class="spoiler">C-END:1</span></li>
+          <li>Hint 1: <span class="spoiler">Recall the “spell to open Pandora’s
+box”.</span></li>
+          <li>Hint 2: <span class="spoiler">Zero tells you this Latin phrase, which
+means “live for today”.</span></li>
+          <li>Choice: <span class="spoiler">“VIVEHODIE”</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Force Quit Box: D</strong>
+    <ul>
+      <li>Outcome
+        <ul>
+          <li>Prerequisites:
+<span class="spoiler">strong recollection of Virtue’s Last
+Reward</span> or
+<span class="spoiler">Gun vs Incinerator Outcome 3 plus some
+recollection of VLR</span> or
+<span class="spoiler">D-END:2</span></li>
+          <li>Hint 1: <span class="spoiler">If you remember the events of Virtue’s
+Last Reward, you may be able to figure this out. Neither
+item belongs to Sigma, so…</span></li>
+          <li>Hint 2: <span class="spoiler">For the first item,
+recall Diana’s memory of Phi from
+D-COM, a few days before the events of the game. For the second
+you’ll need a certain ending from this game, or Luna’s ending
+from VLR.</span></li>
+          <li>Hint 3: <span class="spoiler">What items were sent along in a
+transporter?</span></li>
+          <li>Choice: <span class="spoiler">“BROOCH” &amp; “BLUE BIRD”/”MUSIC BOX”</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Force Quit Box: Q</strong>
+    <ul>
+      <li>Outcome
+        <ul>
+          <li>Prerequisites: <span class="spoiler">Q-END:2</span></li>
+          <li>Hint: <span class="spoiler">Zero reveals the code to this panel
+in another timeline.</span></li>
+          <li>Choice: <span class="spoiler">“38080832”</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Gift from Gab</strong>
+    <ul>
+      <li>Outcome 1
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">“DRINK”.</span></li>
+        </ul>
+      </li>
+      <li>Outcome 2
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">“DON’T DRINK”.</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Gun vs Incinerator</strong>
+    <ul>
+      <li>Outcome 1
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">Shoot the gun. This outcome occurs
+50% of the time.</span></li>
+        </ul>
+      </li>
+      <li>Outcome 2
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">Shoot the gun. This outcome occurs
+50% of the time.</span></li>
+        </ul>
+      </li>
+      <li>Outcome 3
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">Let time expire.</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Heads or Tails</strong>
+    <ul>
+      <li>Outcome 1
+        <ul>
+          <li>Prerequisites: <span class="spoiler">CDQ-END:1</span></li>
+          <li>Choice: <span class="spoiler">Irrelevant. Always triggers after
+fulfilling prerequisite, then 50% afterwards.</span></li>
+        </ul>
+      </li>
+      <li>Outcome 2
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">Irrelevant. Always triggers before
+Outcome 1’s prerequisite, then 50% afterwards.</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Helmet Code</strong>
+    <ul>
+      <li>Outcome
+        <ul>
+          <li>Prerequisites: <span class="spoiler">Reality (Bad end)</span></li>
+          <li>Hint: <span class="spoiler">Zero reveals the code to the helmet
+in another timeline.</span></li>
+          <li>Choice: <span class="spoiler">“61404091”</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Inject</strong> <span class="spoiler">Radical-6</span><strong>?</strong>
+    <ul>
+      <li>Outcome 1
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">“INJECT RADICAL-6”</span></li>
+        </ul>
+      </li>
+      <li>Outcome 2
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">“DON’T INJECT”</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Kill Button: C/Q/D</strong>
+    <ul>
+      <li>Outcome 1
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">Let time expire.</span></li>
+        </ul>
+      </li>
+      <li>Outcome 2
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">Press the button.</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>The</strong> <span class="spoiler">Antidote</span> <strong>Is?</strong>
+    <ul>
+      <li>Outcome 1
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Hint 1: <span class="spoiler">The antidote can be uniquely
+determined by considering which characters’ tounges are numb.</span></li>
+          <li>Hint 2: <span class="spoiler">Akane numbered the eight vials
+A=0 through H=7, and converted them to binary, 000 through 111.
+Carlos tested the vial if the first binary digit was 1, Junpei tested
+the vial if the second binary digit was 1, and Akane tested the vial
+if the last binary digit was 1.</span></li>
+          <li>Hint 3: <span class="spoiler">Match the tasting results with
+the background image in the Decision. Carlos took the top
+row, Junpei took the second row, and Akane took the final row.
+Or, read the Log carefully and use logic to deduce the solution.</span></li>
+          <li>Choice: <span class="spoiler">Choose correctly using the
+above hints.</span></li>
+        </ul>
+      </li>
+      <li>Outcome 2
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">Choose incorrectly, which occurs
+with 87.5% likelihood when selecting randomly anyway.</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>The</strong> <span class="spoiler">Bomb</span>
+    <ul>
+      <li>Outcome 1
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">“RUN AWAY”.</span></li>
+        </ul>
+      </li>
+      <li>Outcome 2
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">“DON’T RUN”.</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>The Three Dice</strong>
+    <ul>
+      <li>Outcome 1
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Hint: <span class="spoiler">There’s nothing you can do/learn to
+improve your odds, but the game is gracious enough to cheat in
+your favor.</span></li>
+          <li>Choice: <span class="spoiler">Keep rolling the dice. The game will
+always give it to you on your third attempt.
+(If it didn’t, you would have to roll the dice 150 times just
+for a 50% chance at victory!!)</span></li>
+        </ul>
+      </li>
+      <li>Outcome 2
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">Just roll the dice. It is the 99.537%
+reality, after all.</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Transporter</strong>
+    <ul>
+      <li>Outcome 1
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">“DON’T TRANSPORT”.</span></li>
+        </ul>
+      </li>
+      <li>Outcome 2
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">“TRANSPORT”.</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><span class="spoiler">Who Killed</span> <strong>Junpei?</strong>
+    <ul>
+      <li>Outcome 1
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Hint: <span class="spoiler">Who is the biggest danger to Carlos
+right now?</span></li>
+          <li>Choice: <span class="spoiler">“AKANE”.</span></li>
+        </ul>
+      </li>
+      <li>Outcome 2
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Hint: <span class="spoiler">In this timeline,
+Carlos seemed shocked that he
+voted for Q-Team instead of D-Team.</span></li>
+          <li>Choice: <span class="spoiler">“CARLOS”.</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><span class="spoiler">Who Killed</span> <strong>Mira?</strong>
+    <ul>
+      <li>Outcome 1
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Hint: <span class="spoiler">Even if you knew, Eric’s not
+exactly interested in hearing it.</span></li>
+          <li>Choice: <span class="spoiler">Let time expire, “DONNO”,
+or “I DONT KNOW”.</span></li>
+        </ul>
+      </li>
+      <li>Outcome 2
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">Almost anything, including
+gibberish. However, you’ll get some interesting unique reactions if
+you try various names from the game.</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>You</strong> <span class="spoiler">are Zero</span><strong>!</strong>
+    <ul>
+      <li>Outcome 1
+        <ul>
+          <li>Prerequisites: none</li>
+          <li>Choice: <span class="spoiler">Almost anything, including
+  gibberish. However, you’ll get some unique reactions if
+  you try names of characters you can see in the room with you.</span></li>
+        </ul>
+      </li>
+      <li>Outcome 2
+        <ul>
+          <li>Prerequisites: <span class="spoiler">C-END:1</span> or
+<span class="spoiler">D-END:2</span>.</li>
+          <li>Hint 1: <span class="spoiler">If you’ve seen C-END:1, try to
+complete the anagram.</span>.</li>
+          <li>Hint 2: <span class="spoiler">If you’ve seen D-END:2, you’ve
+seen this person in this room before.</span>.</li>
+          <li>Choice: <span class="spoiler">“DELTA”.</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="note-on-execution-voting">Note on Execution Voting</h2>
+
+<p>My biggest peeve with Zero Time Dilemma
+is the lack of clarity in how to trigger the different
+Execution Results. You may reasonably think that as soon as your flowchart
+contains the appropriate Decisions to execute another team, the game should
+recognize that execution.</p>
+
+<p>But nope. Instead, the game secretly stores the latest Decisions you made
+for each team in Execution Vote: C/Q/D. So, you need to be careful of the
+order you make your Decisions, or go back and redo all three each time.
+For your convenience,
+here’s one of the quickest ways you can trigger all four Election Results:</p>
+
+<ul>
+  <li>C votes for D</li>
+  <li>D votes for Q</li>
+  <li>Q votes for C
+    <ul>
+      <li>All Teams Survived</li>
+    </ul>
+  </li>
+  <li>C votes for Q
+    <ul>
+      <li>Q-Team Executed</li>
+    </ul>
+  </li>
+  <li>D votes for C
+    <ul>
+      <li>C-Team Executed</li>
+    </ul>
+  </li>
+  <li>Q votes for D</li>
+  <li>C votes for D
+    <ul>
+      <li>D-Team Executed</li>
+    </ul>
+  </li>
+</ul>
+:ET
