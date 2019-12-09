@@ -68,3 +68,7 @@ grading for my 2019 Fall course on sophomore differential equations.
 - [SbgRails](https://github.com/stevenclontz/sbg-rails)
 - [Mastr](https://mastr.clontz.org)
 - [Gradescope](https://www.gradescope.com/)
+
+Also needs to be mentioned: Sharona Krinsey's 
+[video walkthrough](https://calstatela.zoom.us/recording/play/LD7EHPEOmOYg51tcN1-3FtrhYv4ZKzpNwub0Rh3b3gUJ2RHkuWCyrJZtYUe-ngbl?continueMode=true)
+of implementing mastery grading on Canvas.
