@@ -72,3 +72,8 @@ grading for my 2019 Fall course on sophomore differential equations.
 Also needs to be mentioned: Sharona Krinsey's 
 [video walkthrough](https://calstatela.zoom.us/recording/play/LD7EHPEOmOYg51tcN1-3FtrhYv4ZKzpNwub0Rh3b3gUJ2RHkuWCyrJZtYUe-ngbl?continueMode=true)
 of implementing mastery grading on Canvas.
+
+And you may be interested in this
+[running list of articles](https://docs.google.com/document/d/1bauaBh23VbtrcYrZ-oUH6OAoyN7YVhawIQxQUZViwVM/edit?usp=sharing)
+accepted to PRIMUS
+for its upcoming special edition on Mastery Grading.
