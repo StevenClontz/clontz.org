@@ -2,7 +2,7 @@
 layout: page
 title: "Puzzles"
 description: "or fher gb fghql sbe lbhe zngu pynff"
-header-img: "img/puzzles-bg.jpg"
+header-img: "img/puzzles-bg.png"
 permalink: /puzzles/
 show-navbar: true
 ---
