@@ -7,11 +7,12 @@ permalink: /puzzles/
 show-navbar: true
 ---
 
-![Swiper no swiping](/img/swiper-no-swiping.jpg)
+![Cryptic Puzzle Clue](/img/20200102/puzzle-clue.png)
+![Cryptic Puzzle](/img/20200102/puzzle.png)
 
-What word should appear under the question mark? (from JoCo Cruise 2016)
-[[Full image](/img/swiper-no-swiping.jpg)]
-[[Solution](https://github.com/StevenClontz/swiper-no-swiping/raw/master/puzzle-solution.pdf)]
+What six-letter word can be extracted from the larger grid? (from 
+[MaPP Challenge '19](https://mappmath.org))
+[[Solution](/img/20200102/puzzle-solution.png)]
 
 {::nomarkdown}
 <div class="youtube">
@@ -40,14 +41,8 @@ I came to puzzles as a mathematician,
 because *mathematics is the art of solving problems*, and *puzzle design
 is the art of creating fun problems to solve*.
 
-## New collaborations
-
-Most of my time is dedicated to [research](/math/), [teaching](/teaching/),
-and running [Mathematical Puzzle Programs](http://mappmath.org).
-However, I am always open to discussing potential new projects, particularly if
-the project is novel or serves to promote mathematics. I'm always up
-for talking shop by [email](steven.clontz@gmail.com), so send me a note
-if you're interested in working together on something!
+There are [many types](/puzzles/types/) of puzzle out there, and
+I've spent a lot of time designing and enjoying them.
 
 ## Portfolio
 
