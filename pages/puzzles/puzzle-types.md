@@ -223,3 +223,5 @@ send me an email using the link in the footer.
 I also have published a book of logic and cryptic
 puzzles, which is available on 
 [Amazon](https://smile.amazon.com/Tricky-Logic-Puzzles-Adults-Difficult/dp/1646111451/).
+
+[![book](/img/2020book.jpg)](https://smile.amazon.com/Tricky-Logic-Puzzles-Adults-Difficult/dp/1646111451/)
