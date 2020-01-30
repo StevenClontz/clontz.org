@@ -14,6 +14,11 @@ What six-letter word can be extracted from the larger grid? (from
 [MaPP Challenge '19](https://mappmath.org))
 [[Solution](/img/20200102/puzzle-solution.png)]
 
+
+Hover for a hint: <span class="spoiler">The 2x3 rectangle clues a certain
+mathematical code. Use this code along with the shading and number given
+in this rectangle to figure out how to shade the larger grid.</span>
+
 {::nomarkdown}
 <div class="youtube">
 <iframe width="560" height="315" style="max-width:100%" src="//www.youtube.com/embed/KrL5WV7TxYI" frameborder="0" allowfullscreen></iframe>
