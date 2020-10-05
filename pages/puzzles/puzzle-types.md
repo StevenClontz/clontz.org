@@ -15,7 +15,13 @@ is any task which satisfies two properties:
 
 This can be accomplished through many methods!
 Here are a few such categories of puzzle types that I've come across
-in [my experience](/puzzles/).
+in [work](/puzzles/).
+
+*Note to folks looking for puzzle consulting: I'd love to work with
+all of you! But be warned that I have very little free time to take on
+new work these days. That said, feel free to shoot me an email using the address
+at the bottom of this page with your idea if you have a budget and
+are looking for some help. (Toby Fox, the answer is yes, I'd love to.)*
 
 ## Cryptic puzzles
 
@@ -217,9 +223,7 @@ or escape rooms.
 
 To learn more about me or my work with puzzles,
 please visit my [About](/about/)
-and [Puzzle](/puzzles/) pages. If you're looking for
-consulting support to develop a puzzle-based product,
-send me an email using the link in the footer.
+and [Puzzle](/puzzles/) pages.
 I also have published a book of logic and cryptic
 puzzles, which is available on 
 [Amazon](https://smile.amazon.com/Tricky-Logic-Puzzles-Adults-Difficult/dp/1646111451/).
