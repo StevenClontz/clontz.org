@@ -15,7 +15,7 @@ is any task which satisfies two properties:
 
 This can be accomplished through many methods!
 Here are a few such categories of puzzle types that I've come across
-in [work](/puzzles/).
+in [my work](/puzzles/).
 
 *Note to folks looking for puzzle consulting: I'd love to work with
 all of you! But be warned that I have very little free time to take on
