@@ -20,7 +20,7 @@ understanding why. He also serves as director of Mathematical Puzzle Programs,
 which designs and organizes puzzle events at college campuses and math camps
 across the world.
 
-## Contact and Calendar
+## Contact
 
 The quickest way to reach out to me is by
 <steven.clontz@gmail.com> or on
