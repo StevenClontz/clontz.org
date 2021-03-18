@@ -31,15 +31,8 @@ my office at the following address.
 
 Department of Mathematics and Statistics  
 University of South Alabama  
-411 University Boulevard North, ILB #314  
+411 University Boulevard North, MSPB #314  
 Mobile, AL 36688-0002
-
-If you're coming by the office, I usually maintain a roughly 9-5 schedule on
-days with scheduled classes or office hours. However, due to meetings
-and travel, your best bet is to come by my scheduled office hours listed
-on the below calendar. You can also schedule an appointment by emailing me.
-
-<iframe src="https://calendar.google.com/calendar/embed?src=sclontz%40southalabama.edu&ctz=America/Chicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Curriculum Vitae / Resume
 
