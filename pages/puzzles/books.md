@@ -9,9 +9,9 @@ permalink: /puzzles/books/
 I'm happy to have had the opportunity to publish a few
 books of [puzzles](/puzzles/). Information on these books is
 below, or you can check out my
-[Amazon profile](https://www.amazon.com/Steven-Clontz/e/B083TJ1YN6)
+[Amazon profile](https://www.amazon.com/Steven-Clontz/e/B083TJ1YN6).
 
-## Tricky Logic Puzzle for Adults
+## Tricky Logic Puzzles for Adults
 
 [![book](/img/2020book.jpg)](https://smile.amazon.com/gp/product/1646111451)
 
