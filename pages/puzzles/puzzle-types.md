@@ -17,11 +17,12 @@ This can be accomplished through many methods!
 Here are a few such categories of puzzle types that I've come across
 in [my work](/puzzles/).
 
-*Note to folks looking for puzzle consulting: I'd love to work with
-all of you! But be warned that I have very little free time to take on
-new work these days. That said, feel free to shoot me an email using the address
-at the bottom of this page with your idea if you have a budget and
-are looking for some help. (Toby Fox, the answer is yes, I'd love to.)*
+*If you'd like try some puzzles of my own design, please check out
+[my latest book for kids](https://amzn.to/3cLiVv1) or
+[another of my books](/puzzles/books/), available on Amazon and
+other major booksellers! I also am occassionally able to offer consulting
+services for puzzle design; interested parties can contact me using the
+email link at the footer of this page. (Toby Fox, hit me up.)*
 
 ## Cryptic puzzles
 
@@ -223,9 +224,9 @@ or escape rooms.
 
 To learn more about me or my work with puzzles,
 please visit my [About](/about/)
-and [Puzzle](/puzzles/) pages.
-I also have published a book of logic and cryptic
-puzzles, which is available on 
-[Amazon](https://smile.amazon.com/Tricky-Logic-Puzzles-Adults-Difficult/dp/1646111451/).
+and [Puzzle](/puzzles/) pages, or you can learn more about my
+[Books](/puzzles/books/).
 
-[![book](/img/2020book.jpg)](https://smile.amazon.com/Tricky-Logic-Puzzles-Adults-Difficult/dp/1646111451/)
+[![book](/img/2020book.jpg)](https://smile.amazon.com/dp/1646111451/)
+
+[![book](/img/2021book.jpg)](https://amzn.to/3cLiVv1)
