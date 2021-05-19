@@ -30,6 +30,9 @@ below, or you can check out my
 >- True brain-busters―Stretch your abilities with puzzles that are designed to be tough―even for master puzzlers!
 >- Plenty of options―Banish boredom with several types of puzzles, including math-focused Calcudoku and innovative Cryptic Puzzles that require both code breaking and creative thinking.
 
+Join the conversation by tweeting #TrickyLogicPuzzles:
+<a href="https://twitter.com/intent/tweet?button_hashtag=TrickyLogicPuzzles&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #TrickyLogicPuzzles</a>
+
 ## Do the Math: Challenging, Fun Math Puzzles for Kids
 
 [![book](/img/2021book.jpg)](https://amzn.to/3cLiVv1)
@@ -49,3 +52,8 @@ below, or you can check out my
 > - Easy-to-follow instructions―Short and simple instructions make sure the only tough part of these math puzzles for kids ages 8-12 is figuring out the answer.
 >
 > Help kids build logical thinking skills with these amazing math puzzles for kids ages 8-12.
+
+Join the conversation by tweeting #DoTheMathBook:
+<a href="https://twitter.com/intent/tweet?button_hashtag=DoTheMathBook&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #DoTheMathBook</a>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
