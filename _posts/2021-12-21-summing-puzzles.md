@@ -2,7 +2,7 @@
 layout: post
 title: "Free Summing Puzzles"
 subtitle: "merry christmas!"
-header-img: "img/puzzle-bg.png"
+header-img: "img/puzzles-bg.png"
 date: 2021-12-21 12:05:00
 ---
 
