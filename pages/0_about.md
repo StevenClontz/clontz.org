@@ -57,7 +57,7 @@ masters degrees in educational leadership and library media, and currently
 works as a primary school educator.
 
 Currently we live and work in Mobile, Alabama, where
-I serve as Assistant Professor of Mathematics at the
+I serve as Associate Professor of Mathematics at the
 [University of South Alabama](http://southalabama.edu).
 I also occasionally work as a freelance consultant in the areas of
 [mathematics](/math/), [mathematics education](/teaching/),
