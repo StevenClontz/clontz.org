@@ -21,11 +21,16 @@ My specializations include:
 - generalized inverse limits indexed by arbitrary partial orders
 
 I am also heavily involved in the development of modern
-**cyberinfrastructure** for mathematics research and instruction,
+cyberinfrastructure for mathematics research and instruction,
 particularly the production of
 [next-generation mathematical documents](https://pretextbook.org)
 and
 [semantically searchable mathematical databases](https://topology.pi-base.org).
+As of writing I am an investigator on two National Science Foundation-funded
+projects related to this work.
+
+- [POSE: Phase I: An Open-Source Ecosystem for the Creation and Use of Accessible Science, Technology, Engineering and Mathematics (STEM) Open Education Resources](https://prose.runestone.academy/)
+- [Transforming Lower Division Undergraduate Mathematics Through Team-Based Inquiry Learning](https://sites.google.com/southalabama.edu/tbil/)
 
 In addition, my work as a mathematician strongly influences my
 [teaching](/teaching/) and [game and puzzle design](/puzzles/).
@@ -34,7 +39,7 @@ In addition, my work as a mathematician strongly influences my
 
 My work may be accessed across several sites:
 
-- [arXiv](https://arxiv.org/find/math/1/au:+Clontz_S/0/1/0/all/0/1)
+- [arXiv](https://arxiv.org/search/?searchtype=author&query=Clontz%2C+S)
 - [GitHub](https://github.com/StevenClontz/research)
 - [Google Scholar](https://scholar.google.com/citations?user=nHGdimcAAAAJ)
 - [zbMATH](https://zbmath.org/authors/clontz.steven)
