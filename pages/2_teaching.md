@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Teaching"
-description: "explain, demonstrate, guide, enable"
+description: "through carefully scaffolded inquiry"
 header-img: "img/teaching-bg.jpg"
 permalink: /teaching/
 show-navbar: true
