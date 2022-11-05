@@ -3,12 +3,14 @@ title: Steven Clontz
 short-title: Clontz.org
 header-img: "img/home-bg.jpg"
 email: steven.clontz@gmail.com
-description: "mathematician, educator, researcher, puzzler"
+description: "mathematician, professor, puzzler"
 baseurl: ""
 url: "http://clontz.org"
 twitter_username: StevenXClontz
 github_username:  StevenClontz
 facebook_username:
+mastodon_username: StevenXClontz
+mastodon_server: mathstodon.xyz
 
 # Build settings
 markdown: kramdown
