@@ -9,22 +9,19 @@ show-navbar: true
 
 Steven Clontz is a [mathematician](/math/), [professor](/teaching), and
 [puzzle designer](/puzzles/) based out of the University of South Alabama
-in Mobile, Alabama. His puzzles and games have been featured at such venues as
-the National Museum of Mathematics in New York City. His published research
-specializes in the intersection of topology and game theory, characterizing the
-structure of topological spaces by the amount of information required to win at
-certain games. Dr. Clontz uses active learning techniques such as Inquiry-Based
+in Mobile, Alabama. His puzzles and games have been published in print,
+featured at such venues as the National Museum of Mathematics, and included
+in MaPP Challenge events across the country. His research
+specializes in the intersection of topology and game theory, and his work
+also contributes to the cyberinfrastructure of mathematics research and education.
+Dr. Clontz uses active learning techniques such as Inquiry-Based
 and Team-Based Learning in his classrooms to allow his students discover
-mathematics for themselves rather than blindly memorizing algorithms without
-understanding why. He also serves as director of Mathematical Puzzle Programs,
-which designs and organizes puzzle events at college campuses and math camps
-across the world.
+mathematics for themselves.
 
 ## Contact
 
-The quickest way to reach out to me is by
-<steven.clontz@gmail.com> or on
-[Twitter](http://twitter.com/StevenXClontz). (Students:
+The quickest way to reach out to me is through one of the contacts
+included in the footer of each page of this site. (Students:
 please only use my South email address <sclontz@southalabama.edu>
 for class-related communications.) You can also mail or visit
 my office at the following address.
@@ -33,13 +30,6 @@ Department of Mathematics and Statistics
 University of South Alabama  
 411 University Boulevard North, MSPB #314  
 Mobile, AL 36688-0002
-
-## Curriculum Vitae / Resume
-
-You can find out more about my work in the various areas
-above by clicking on their links. I also maintain my
-curriculum vitae on GitHub:
-<https://github.com/StevenClontz/cv/>.
 
 ## Life
 
