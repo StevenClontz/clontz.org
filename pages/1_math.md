@@ -46,4 +46,5 @@ My work may be accessed across several sites:
 
 ## Research Statement
 
-Coming soon.
+A statement of my professional goals as they relate to mathematics reserach,
+cyberinfrastructure, and outreach is available for download as a [PDF](/clontz-professional-goals.pdf).
