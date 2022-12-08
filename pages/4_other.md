@@ -7,8 +7,6 @@ permalink: /projects/
 show-navbar: true
 ---
 
-I've been known to dabble in a few other areas.
-
 My programming experience covers a variety of platforms and
 languages, including Ruby, Python, and Javascript.
 Naturally, a lot my work in those languages involves web development,
