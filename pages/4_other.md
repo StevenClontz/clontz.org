@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Other Projects"
+title: "Software"
 description: "hello world"
 header-img: "img/code-bg.png"
-permalink: /projects/
+permalink: /software/
 show-navbar: true
 ---
 
@@ -22,7 +22,7 @@ for authoring and generating randomizable outcomes-based assessments,
 and the [PreTeXt](https://pretextbook.org) project I contribute to which
 allows authors to semantically describe the content of scholarly documents
 such as textbooks and research papers, and export this content to accessible
-HTML, printable PDF, tactile braille code, and more.
+HTML, printable PDF, tactile braille writing and graphics, and more.
 
 During graduate school, I co-founded
 `Teloga.com` (no longer in service), a CRM for
