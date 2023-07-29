@@ -3,7 +3,7 @@ layout: post
 title: "PROSE GitHub Dropin"
 subtitle: "what i made"
 header-img: "img/teaching-bg.jpg"
-date: 2023-06-11 22:30:00
+date: 2023-06-27 22:30:00
 ---
 
 Thanks to everyone for participating in today's drop-in discussion about GitHub!
