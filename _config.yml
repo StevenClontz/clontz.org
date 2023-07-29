@@ -11,6 +11,8 @@ github_username:  StevenClontz
 facebook_username:
 mastodon_username: StevenXClontz
 mastodon_server: mathstodon.xyz
+bluesky_username: StevenXClontz
+bluesky_server: bsky.social
 
 # Build settings
 markdown: kramdown
