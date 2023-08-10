@@ -21,7 +21,7 @@ So here's my quick implementation guide for how I pull things off these days in 
 - Students can demonstrate that they meet expectations for each learning outcome through the last day of class.
 - Students are encouraged to keep to the pace of the class as best they can.
 - You don't need a degree in economics to create an intricate "token"-based economy for late submissions or reasessments.
-  Instead you can just set "best-by dates" and let your policies handle the rest.
+  Instead you can just set "best-by dates" and let your policies more or less handle the rest.
 
 ## Assessment workflow
 
