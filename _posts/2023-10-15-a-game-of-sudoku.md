@@ -99,10 +99,10 @@ playthrough of LSVS(M) if and only if \\(N\equiv M\mod 2\\)? However, consider
 the following maximal Latin squares:
 
 ```
-132x
-3214
-x142
-24x3
+1234
+3x41
+41x2
+231x
 ```
 
 ```
@@ -121,4 +121,65 @@ Nonetheless, we were able to succeed in proving the following.
 
 ### Theorem
 
-Player 1 wins every playthrough of LSVS(1)
+Player 1 wins every playthrough of LSVS(3).
+
+#### Proof
+
+The way we see this is by showing that there do
+not exist partially-filled Latin \\(3\times 3\\)
+squares using even-many cells that cannot be filled
+further.
+This is immediate when considering squares with only
+\\(0\\) or \\(2\\) cells filled.
+
+When considering \\(8\\) cells, we may assume (by
+swapping rows/cols) that the lower-right cell
+is unfilled, and the top row is `123`.
+
+```
+123
+???
+??.
+```
+
+There are only two legal ways to complete the second
+row, which then each determine the bottom row. We
+see by inspection that the missing cell can be filled.
+
+```
+123    123
+231 or 312
+31.    23.
+```
+
+For \\(4\\) cells, note that if a row is completely unfilled,
+each cell of that row can be legally filled. So we need only
+consider the situation where a diagonal (modulo swaps) is
+filled. In the illustration below, the upper-right cell
+is fillable.
+
+```
+?..
+??.
+..?
+```
+
+Finally, for \\(6\\) cells, we observe that there are only
+three patterns to consider modulo swaps:
+
+```
+???    ???    ???
+??? or ??. or ??.
+...    ?..    ..?
+```
+
+In the first two patterns, it's clear that the lower-right
+cell is fillable. To see the last, assume the top is `123`
+and consider that in order to make the right cell unfillable,
+there must be a fillable cell on the bottom row:
+
+```
+123    123
+21x or 23x
+..?    ..2
+```
