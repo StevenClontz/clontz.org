@@ -41,7 +41,7 @@ came up with the following results.
 ### Definition
 
 The game **LSVS(n)** ("Latin Square VS") proceeds as follows
-for two players. The game begins with an empty $n\times n$ grid.
+for two players. The game begins with an empty \\(n\times n\\) grid.
 Players alternate
 filling digits into the grid, as long as the usual Latin square
 constraints are satisfied (no repeats in each row and column)
@@ -95,15 +95,30 @@ Player 2.
 ---
 
 This suggests a wild conjecture: perhaps Player N wins every
-playthrough of LSVS(M) if and only if $N\equiv M\mod 2$? However,
-Daniel found the following scenario for a $4\times 4$ grid
-which could go either way.
+playthrough of LSVS(M) if and only if \\(N\equiv M\mod 2\\)? However, consider
+the following maximal Latin squares:
 
 ```
 132x
 3214
-..4.
-..x3
+x142
+24x3
 ```
 
+```
+1234
+2341
+3412
+4123
+```
 
+Player 1 wins the first result, while Player 2 wins
+the second.
+
+Nonetheless, we were able to succeed in proving the following.
+
+---
+
+### Theorem
+
+Player 1 wins every playthrough of LSVS(1)
