@@ -183,3 +183,45 @@ there must be a fillable cell on the bottom row:
 21x or 23x
 ..?    ..2
 ```
+
+---
+
+This was about as far as we got in the Incubator.
+However, being newly excited about the problem, I
+started pitching it around a bit. And with the AMS
+Southeastern Sectional meeting hosted at my university
+last weekend, I had the perfect audience.
+
+Kudos to [Matt Noble](https://www.mga.edu/directory/people.php?name=noble-matthew)
+for sharing the following very slick proof.
+
+---
+
+### Theorem
+
+Player \\(N\\) has a winning strategy for LSVS(M)
+if and only if \\(N\equiv M\mod 2\\).
+
+#### Proof
+
+Enumerate the cells of the \\(M\times M\\) grid by
+\\(\{(i,j):0\leq i,j \lt M\}\\).
+
+In the odd case, Player 1 plays \\(M\\) in the center
+cell. Then whenever Player 2 plays \\(M\\) in the cell
+\\((i,j)\\), Player 1 responds by playing \\(M\\) in the
+cell \\((M-i-1,M-j-1)\\). And whenever Player 2 plays
+\\(m\lt M\\) in the cell \\((i,j)\\), Player 1 responds
+by playing \\(M-m\\) in the cell \\((M-i-1,M-j-1)\\)
+
+In the even case, whenever Player 1 plays \\(m\\) in the cell
+\\((i,j)\\), Player 1 responds by playing \\(M-m\\) in the
+cell \\((M-i-1,M-j-1)\\).
+
+TODO: update this post to explain why Player 2's moves
+are always legal.
+
+---
+
+Note that the above strategy for Player 1 in the odd case
+is also a winning strategy for Player 1 in Sudoku VS.
