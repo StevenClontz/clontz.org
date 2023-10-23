@@ -205,23 +205,42 @@ if and only if \\(N\equiv M\mod 2\\).
 #### Proof
 
 Enumerate the cells of the \\(M\times M\\) grid by
-\\(\{(i,j):0\leq i,j \lt M\}\\).
+\\(\{(i,j):0\leq i,j \lt M\}\\). Note that to define
+a winning strategy, we need only define a legal move
+for the winning player in response to any move of the opponent.
 
-In the odd case, Player 1 plays \\(M\\) in the center
-cell. Then whenever Player 2 plays \\(M\\) in the cell
+##### Odd case
+
+In the odd case, Player 1 begins by playing \\(M\\) in the center
+cell, which is of course legal.
+
+Then whenever Player 2 plays \\(M\\) in the cell
 \\((i,j)\\), Player 1 responds by playing \\(M\\) in the
-cell \\((M-i-1,M-j-1)\\). And whenever Player 2 plays
+cell \\((M-i-1,M-j-1)\\). Note that \\(M\\) cannot already
+be in column \\(M-i-1\\) or row \\(M-j-1\\): if it was played
+by Player 1, it was in resopnse to another play of \\(M\\)
+by Player 2 in column \\(i\\) or row \\(j\\), making the move
+\\(M\\) in \\((i,j)\\) illegal. And if it was played by Player 2,
+Player 1 previously responded by playing in column
+\\(M-(M-i-1)-1=i\\) or row \\(M-(M-j-1)-1=j\\), making the move
+\\(M\\) in \\((i,j)\\) illegal.
+
+Finally, whenever Player 2 plays
 \\(m\lt M\\) in the cell \\((i,j)\\), Player 1 responds
-by playing \\(M-m\\) in the cell \\((M-i-1,M-j-1)\\)
+by playing \\(M-m\\) in the cell \\((M-i-1,M-j-1)\\). The legality
+of this move can be proven similarly to the prior argument, noting
+\\(M-(M-m)=m\\).
+
+##### Even case
 
 In the even case, whenever Player 1 plays \\(m\\) in the cell
-\\((i,j)\\), Player 1 responds by playing \\(M-m\\) in the
-cell \\((M-i-1,M-j-1)\\).
-
-TODO: update this post to explain why Player 2's moves
-are always legal.
+\\((i,j)\\), Player 1 responds by playing \\(M-m+1\\) in the
+cell \\((M-i-1,M-j-1)\\). The legality
+of this move can be proven similarly to the prior arguments, noting
+\\(M-(M-m+1)+1=m\\). and \\(M-m+1\not=m\\)
 
 ---
 
 Note that the above strategy for Player 1 in the odd case
-is also a winning strategy for Player 1 in Sudoku VS.
+is also a winning strategy for Player 1 in Sudoku VS, by similar
+symmetry arguments.
