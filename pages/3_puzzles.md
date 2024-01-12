@@ -59,6 +59,16 @@ in escape rooms more recently, as both a designer and player.
 
 A few of my projects can be found below.
 
+### Books
+
+I've written a couple of books!
+
+[![book](/img/2020book.jpg)](https://smile.amazon.com/gp/product/1646111451)
+
+[![book](/img/2021book.jpg)](https://amzn.to/3cLiVv1)
+
+More here: [my books](/puzzles/books/).
+
 ### Auburn Puzzle Community
 
 ![Puzzlehunt](/img/puzzlehunt-2.jpg)
