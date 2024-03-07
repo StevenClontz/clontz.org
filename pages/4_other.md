@@ -27,7 +27,10 @@ HTML, printable PDF, tactile braille writing and graphics, and more.
 During graduate school, I co-founded
 `Teloga.com` (no longer in service), a CRM for
 collegiate music organizations which operated from 2011-2015. It
-was built on Ruby on Rails (previously Django) and Angular.
+was built on Ruby on Rails (previously Django) and Angular. Many of the
+lessons learned on that project have informed my work on the
+[ScholarLattice science gateway for mathematics reserach](https://scholarlattice.pi-base.org)
+powered by Svelte and Supabase.
 
 My [GitHub](http://github.com/StevenClontz) has a bunch of my repos if
 you want to see what I'm working on these days.
