@@ -14,7 +14,7 @@ South Alabama combinatorics seminar on March 21.
     - <https://math.stackexchange.com/questions/4814029>
 - Modeling finite topological spaces
     - Set + topology.
-        - Ex: X=5, T={{0,1},{1},{2,3,4},{3,4}}
+        - Ex: X=5, T=\{{0,1\},\{1\},\{2,3,4\},\{3,4\}\}
     - Specialization preorder.
         - Ex: 0 ≺ 1, 2 ≺ 3, 2 ≺ 4, 3 ≺ 4 ≺ 3
     - Directed graph
