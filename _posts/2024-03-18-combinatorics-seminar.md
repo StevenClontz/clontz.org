@@ -14,12 +14,12 @@ South Alabama combinatorics seminar on March 21.
     - <https://math.stackexchange.com/questions/4814029>
 - Modeling finite topological spaces
     - Set + topology.
-        - Ex: X=5, T=\{\{0,1\},\{1\},\{2,3,4\},\{3,4\}\}
+        - Ex: X=5, basis=\{\{0,1\},\{1\},\{2,3,4\},\{3,4\}\}
     - Specialization preorder.
         - Ex: 0 ≺ 1, 2 ≺ 3, 2 ≺ 4, 3 ≺ 4 ≺ 3
-    - Directed graph
+    - Directed graph* (where x->y->z implies x->z)
     - [Connected](https://topology.pi-base.org/properties/P36/) 
-      topology = connected of graph
+      topology = connected digraph
 - Biconnected ([π-Base P44](https://topology.pi-base.org/properties/P44/))
     - Connected space such that given two disjoint connected subspaces, 
       one is a singleton.
@@ -41,6 +41,7 @@ South Alabama combinatorics seminar on March 21.
       to track in the π-Base...
 - Thm: For finite spaces with at least 4 points, biconnected is equivalent
   to having a dispersion point.
-
+    - We cannot have x ≺ y ≺ z. Since \{y,z\} is connected, it follows
+    \{x,w\} is disconnected for 
 
 
