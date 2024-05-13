@@ -17,9 +17,12 @@ This can be accomplished through many methods!
 Here are a few such categories of puzzle types that I've come across
 in [my work](/puzzles/).
 
-*Psst. I heard you like puzzles? Try out my new free logic puzzle
-game at [SumIt.clontz.org](https://sumit.clontz.org). It works on
-your phone or web browser without having to install anything.*
+*By the way, thanks for checking this page out and not one of the dozen
+knock-offs folks have written (or generated via AI) after this page
+happened to get popular in search results. You can check out my own
+puzzle projects at the link above, or contact me directly
+if you're looking for a [consultant](/consulting/)
+to create puzzles for your next project.*
 
 ## Cryptic puzzles
 
