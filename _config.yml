@@ -6,11 +6,12 @@ email: steven@clontz.org
 description: "math, education, technology, infrastructure, puzzles"
 baseurl: ""
 url: "http://clontz.org"
-twitter_username: StevenXClontz
+# twitter_username: StevenXClontz
 github_username:  StevenClontz
+linkedin_username: StevenClontz
 facebook_username:
-mastodon_username: StevenXClontz
-mastodon_server: mathstodon.xyz
+# mastodon_username: StevenXClontz
+# mastodon_server: mathstodon.xyz
 bluesky_username: StevenXClontz
 bluesky_domain: bsky.social
 
