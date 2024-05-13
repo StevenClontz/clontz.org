@@ -12,8 +12,7 @@ linkedin_username: StevenClontz
 facebook_username:
 # mastodon_username: StevenXClontz
 # mastodon_server: mathstodon.xyz
-bluesky_username: StevenXClontz
-bluesky_domain: bsky.social
+bluesky_username: clontz.org
 
 # Build settings
 markdown: kramdown
