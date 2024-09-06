@@ -9,15 +9,15 @@ show-navbar: true
 
 Steven Clontz is a [mathematician](/math/), [professor](/teaching), and
 [puzzle designer](/puzzles/) based out of the University of South Alabama
-in Mobile, Alabama. His puzzles and games have been published in print,
-featured at such venues as the National Museum of Mathematics, and included
-in MaPP Challenge events across the country. His scholarship includes
+in Mobile, Alabama. His scholarship includes
 research in general and set-theoretic topology, as well as the advancement
-of sociotechnical infrastructure powering contemporary progress in mathematics
+of sociotechnical infrastructure underlying contemporary mathematics
 and STEM education research and practice.
 In the classroom, Dr. Clontz uses active learning techniques such as
-[Team-Based Inquiry Learning](http://tbil.org) to allow his students discover
-mathematics for themselves.
+[Team-Based Inquiry Learning](http://tbil.org) to help his students discover
+mathematics for themselves. His puzzles and games have been published in print,
+featured at such venues as the National Museum of Mathematics, and included
+in MaPP Challenge events across the country.
 
 ## Life
 
