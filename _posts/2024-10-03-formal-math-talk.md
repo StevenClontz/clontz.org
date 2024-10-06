@@ -3,6 +3,8 @@ title: Modeling and Verifying Mathematics by Computer
 subtitle: notes for my colloquium talk today
 ---
 
+Recording: <https://www.youtube.com/watch?v=skdxWKyxETI>
+
 Notes for today's South Alabama colloquium talk:
 
 - Slides: <https://docs.google.com/presentation/d/15VpaFgdW2UXuId-6y1WiCv9_M2mXvGU1DVq6aZuz_5c/edit?usp=sharing>
