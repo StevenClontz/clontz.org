@@ -129,9 +129,26 @@ $G_1(\mathscr N,\mathscr N_\omega)$, which is exactly the
 R-mw-selective game of [ABG 2024], modified
 to allow Alice to play arbitrary networks.
 
+### Example
+
+[ABG 2024] notes that the R-mw-selective game with
+countable networks is almost dual to the PO-set game.
+However, it's consistent with ZFC that Bob $\uparrow$
+PO-set while Alice $\not\uparrow$ R-mw-selective: take
+a subspace of $\mathbb R$ of cardinality $\omega_1$ in
+a model where $\omega_1<cov(\mathscr M)$. By [Ex 2.7, ABG 2024]
+we have Alice $\not\uparrow$ R-mw-selective. However,
+Bob $\uparrow$ PO-set (in fact, Bob $\uparrow_{\mathrm{tact}}$
+PO-set): the winning tactic given a point $x$ and neighborhood
+$U$ played by Alice each round is to simply play $\{x\}$;
+it's clear that Bob has successfully avoided constructing
+a network, and thus wins.
+
+This shows Question 2.5 of [ABG 2024] cannot be answered
+in the affirmative in ZFC.
+
 ### Question
 
-Let $nw(X)=\aleph_0$.
-Does Alice $\uparrow$ R-mw-selective with arbitrary networks
-imply Alice $\uparrow$ R-mw-selective with countable networks?
-This would answer Question 2.5 of [ABG 2024].
+Is there a model of ZFC where if Alice $\uparrow$ R-mw-selective
+with arbitrary networks, then Alice $\uparrow$ R-mw-selective with
+countable networks?
