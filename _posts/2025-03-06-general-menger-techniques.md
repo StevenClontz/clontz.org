@@ -29,19 +29,21 @@ First, we recall the following.
 
 ### Definition
 
-For a set $X$, let
-$\mathbf C(X)=\{f\in(\bigcup X)^X:x\in X\Rightarrow f(x)\in x\}$
-be the collection of all choice functions on $X$.
+For a set $$X$$, let
+$$\mathbf C(X)=\{f\in(\bigcup X)^X:x\in X\Rightarrow f(x)\in x\}$$
+be the collection of all choice functions on $$X$$.
 
 ### Definition
 
-The set $\mathcal R$ is said to be a **reflection**
-of the set $\mathcal A$ if 
+The set $$\mathcal R$$ is said to be a **reflection**
+of the set $$\mathcal A$$ if 
+
 $$\mathcal A'=\{\operatorname{range} f:f\in\mathbf C(\mathcal R)\}$$
-is coinitial in $\mathcal A$ with respect to $\subseteq$;
-that is, $\mathcal A'\subseteq \mathcal A$, and for all
-$A\in \mathcal A$, there exists $A'\in \mathcal A'$ such that 
-$A'\subseteq A$.
+
+is coinitial in $$\mathcal A$$ with respect to $$\subseteq$$;
+that is, $$\mathcal A'\subseteq \mathcal A$$, and for all
+$$A\in \mathcal A$$, there exists $$A'\in \mathcal A'$$ such that 
+$$A'\subseteq A$$.
 
 ### Definition
 
@@ -58,13 +60,13 @@ and "corresponding information" mean here.
 
 ### Theorem 1 (Corollary 26 of [[C 2020](https://www.sciencedirect.com/science/article/pii/S0166864120300031#en0330)])
 
-If $\mathcal R$ is a reflection of $\mathcal A$, then
-$G_1(\mathcal A,\mathcal B)$ and
-$G_1(\mathcal R,\neg\mathcal B)$ are dual.
+If $$\mathcal R$$ is a reflection of $$\mathcal A$$, then
+$$G_1(\mathcal A,\mathcal B)$$ and
+$$G_1(\mathcal R,\neg\mathcal B)$$ are dual.
 
-(Here, $\neg\mathcal B$ is the complement of $\mathcal B$, that is,
+(Here, $$\neg\mathcal B$$ is the complement of $$\mathcal B$$, that is,
 *Player 1* rather than Player 2 wins
-if the game produces an element of $\mathcal B$.)
+if the game produces an element of $$\mathcal B$$.)
 
 ---
 
@@ -74,58 +76,81 @@ This provides us the machinery necessary for the following.
 
 ### Definition
 
-Let $\mathscr N$ denote the collection of 
+Let $$\mathscr N$$ denote the collection of 
 [networks](https://en.wikipedia.org/wiki/Base_(topology)#Weight_and_character)
 of a topological space.
 
 ### Definition
 
-Let $\mathcal P_x(U)=\{S\subseteq U:x\in S\}$
+Let
+
+$$\mathcal P_x(U)=\{S\subseteq U:x\in S\}$$
+
 and
-$\mathcal R_N=\{\mathcal P_x(U):x\in X,U\text{ is an open neighborhood of } x\}$.
+
+$$\mathcal R_N=\{\mathcal P_x(U):x\in X,U\text{ is an open neighborhood of } x\}.$$
 
 ### Theorem 2
 
-$G_1(\mathscr N,\mathcal B)$ and
-$G_1(\mathcal R_N,\neg\mathcal B)$ are dual.
+$$G_1(\mathscr N,\mathcal B)$$
+and
+$$G_1(\mathcal R_N,\neg\mathcal B)$$
+are dual.
 
 #### Proof
 
-By Theorem 1, we need only show $\mathcal R_N$ is a reflection
-of $\mathscr N$. Let 
+By Theorem 1, we need only show $$\mathcal R_N$$ is a reflection
+of $$\mathscr N$$. Let 
+
 $$\mathscr N'=\{\operatorname{range} f:f\in\mathbf C(\mathcal R_N)\}$$
 
-We must first confirm $\mathscr N'\subseteq\mathscr N$, that is,
-each $\operatorname{range} f$ is a network. To see this, let $U$
-be an open neighborhood of $x$, and consider $f(\mathcal P_x(U))\in\mathcal P_x(U)$; it follows $x\in f(\mathcal P_x(U))\subseteq U$. Since $f(\mathcal P_x(U))\in\operatorname{range} f$, we're done.
+We must first confirm $$\mathscr N'\subseteq\mathscr N$$, that is,
+each $$\operatorname{range} f$$ is a network. To see this, let $$U$$
+be an open neighborhood of $$x$$, and consider
+$$f(\mathcal P_x(U))\in\mathcal P_x(U);$$
+it follows 
+$$x\in f(\mathcal P_x(U))\subseteq U.$$
+Since $$f(\mathcal P_x(U))\in\operatorname{range} f$$, we're done.
 
-We now confirm that $\mathscr N'$ is coinitial in $\mathscr N$. So let
-$\mathcal N\in\mathscr N$ be a network. Then for each $x\in X$ and
-open neighborhood $U$ of $x$, we may choose
-$f(\mathcal P_x(U))\in\mathcal N$ such that $x\in f(\mathcal P_x(U))\subseteq U$. Then $f\in\mathbf C(\mathcal R_N)$ and thus $\operatorname{range} f\in\mathscr N'$. Finally, note
-$\operatorname{range} f\subseteq\mathcal N$.
+We now confirm that $$\mathscr N'$$ is coinitial in $$\mathscr N$$. So let
+$$\mathcal N\in\mathscr N$$
+be a network. Then for each $$x\in X$$ and
+open neighborhood $$U$$ of $$x$$, we may choose
+$$f(\mathcal P_x(U))\in\mathcal N$$
+such that 
+$$x\in f(\mathcal P_x(U))\subseteq U.$$
+Then 
+$$f\in\mathbf C(\mathcal R_N)$$
+and thus 
+$$\operatorname{range} f\in\mathscr N'.$$
+Finally, note
+$$\operatorname{range} f\subseteq\mathcal N.$$
 
 ### Corollary
 
 In the terminology of
 [[ABG 2024](https://www.sciencedirect.com/science/article/pii/S0166864124001214)],
-Bob $\uparrow$ PO-Set implies Alice $\uparrow$ a modification of
+Bob $$\uparrow$$ PO-Set implies Alice $$\uparrow$$ a modification of
 R-mw-selective, where Alice is allowed to play arbitrary networks
 (not just countable networks).
 
 #### Proof
 
 As defined in [ABG 2024], the PO-set game is exactly
-$G_1(\mathcal R_N,\neg\mathscr N)$: Player 1 chooses a point and open
+$$G_1(\mathcal R_N,\neg\mathscr N):$$ 
+Player 1 chooses a point and open
 neighborhood, then Player 2 chooses some subset of that neighborhood
 containing the point; Player 1 wins provided the choices of Player 2
 form a network. Since only countable collections are constructed
 in this game, the PO-set game is also exactly
-$G_1(\mathcal R_N,\neg\mathscr N_\omega)$, where $\mathscr N_\omega$
+$$G_1(\mathcal R_N,\neg\mathscr N_\omega),$$ 
+where 
+$$\mathscr N_\omega$$
 collects the *countable* networks of the space.
 
 So by the above duality result, the PO-set game is dual to
-$G_1(\mathscr N,\mathscr N_\omega)$, which is exactly the
+$$G_1(\mathscr N,\mathscr N_\omega),$$
+which is exactly the
 R-mw-selective game of [ABG 2024], modified
 to allow Alice to play arbitrary networks.
 
@@ -133,14 +158,24 @@ to allow Alice to play arbitrary networks.
 
 [ABG 2024] notes that the R-mw-selective game with
 countable networks is almost dual to the PO-set game.
-However, it's consistent with ZFC that Bob $\uparrow$
-PO-set while Alice $\not\uparrow$ R-mw-selective: take
-a subspace of $\mathbb R$ of cardinality $\omega_1$ in
-a model where $\omega_1<cov(\mathscr M)$. By [Ex 2.7, ABG 2024]
-we have Alice $\not\uparrow$ R-mw-selective. However,
-Bob $\uparrow$ PO-set (in fact, Bob $\uparrow_{\mathrm{tact}}$
-PO-set): the winning tactic given a point $x$ and neighborhood
-$U$ played by Alice each round is to simply play $\{x\}$;
+However, it's consistent with ZFC that Bob 
+$$\uparrow$$
+PO-set while Alice 
+$$\not\uparrow$$
+R-mw-selective: take
+a subspace of $$\mathbb R$$ of cardinality $$\omega_1$$ in
+a model where
+$$\omega_1<cov(\mathscr M).$$
+By [Ex 2.7, ABG 2024]
+we have Alice 
+$$\not\uparrow$$ 
+R-mw-selective. However, Bob 
+$$\uparrow$$
+PO-set (in fact, Bob 
+$$\uparrow_{\mathrm{tact}}$$
+PO-set): the winning tactic given a point $$x$$ and neighborhood
+$$U$$
+played by Alice each round is to simply play $$\{x\}$$;
 it's clear that Bob has successfully avoided constructing
 a network, and thus wins.
 
@@ -149,6 +184,6 @@ in the affirmative in ZFC.
 
 ### Question
 
-Is there a model of ZFC where if Alice $\uparrow$ R-mw-selective
-with arbitrary networks, then Alice $\uparrow$ R-mw-selective with
+Is there a model of ZFC where if Alice $$\uparrow$$ R-mw-selective
+with arbitrary networks, then Alice $$\uparrow$$ R-mw-selective with
 countable networks?
