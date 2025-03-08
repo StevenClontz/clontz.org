@@ -18,7 +18,9 @@ and
 to answer a question the paper asks, I thought I'd write up
 how to apply these general techniques for this specific topic.
 
-The reader is expected to be familiar with the basic theory of
+This note is much more technical than my typical blog posts.
+In particular,
+the reader is expected to be familiar with the basic theory of
 [selection games and principles](https://en.wikipedia.org/wiki/Selection_principle).
 
 First, we recall the following.
@@ -60,9 +62,8 @@ If $\mathcal R$ is a reflection of $\mathcal A$, then
 $G_1(\mathcal A,\mathcal B)$ and
 $G_1(\mathcal R,\neg\mathcal B)$ are dual.
 
-(Here, $\neg\mathcal B$
-is the complement of $\mathcal B$ in the appropriate set, that is,
-**Player 1** rather than Player 2 wins
+(Here, $\neg\mathcal B$ is the complement of $\mathcal B$, that is,
+*Player 1* rather than Player 2 wins
 if the game produces an element of $\mathcal B$.)
 
 ---
@@ -81,18 +82,18 @@ of a topological space.
 
 Let $\mathcal P_x(U)=\{S\subseteq U:x\in S\}$
 and
-$\mathcal R=\{\mathcal P_x(U):x\in X,U\text{ is an open neighborhood of } x\}$.
+$\mathcal R_N=\{\mathcal P_x(U):x\in X,U\text{ is an open neighborhood of } x\}$.
 
 ### Theorem 2
 
-$G_1(\mathscr N,\mathscr N)$ and
-$G_1(\mathcal R,\neg\mathscr N)$ are dual.
+$G_1(\mathscr N,\mathcal B)$ and
+$G_1(\mathcal R_N,\neg\mathcal B)$ are dual.
 
 #### Proof
 
-By Theorem 1, we need only show $\mathcal R$ is a reflection
+By Theorem 1, we need only show $\mathcal R_N$ is a reflection
 of $\mathscr N$. Let 
-$$\mathscr N'=\{\operatorname{range} f:f\in\mathbf C(\mathcal R)\}$$
+$$\mathscr N'=\{\operatorname{range} f:f\in\mathbf C(\mathcal R_N)\}$$
 
 We must first confirm $\mathscr N'\subseteq\mathscr N$, that is,
 each $\operatorname{range} f$ is a network. To see this, let $U$
@@ -101,36 +102,36 @@ be an open neighborhood of $x$, and consider $f(\mathcal P_x(U))\in\mathcal P_x(
 We now confirm that $\mathscr N'$ is coinitial in $\mathscr N$. So let
 $\mathcal N\in\mathscr N$ be a network. Then for each $x\in X$ and
 open neighborhood $U$ of $x$, we may choose
-$f(\mathcal P_x(U))\in\mathcal N$ such that $x\in f(\mathcal P_x(U))\subseteq U$. Then $f\in\mathbf C(\mathcal R)$ and thus $\operatorname{range} f\in\mathscr N'$. Finally, note
+$f(\mathcal P_x(U))\in\mathcal N$ such that $x\in f(\mathcal P_x(U))\subseteq U$. Then $f\in\mathbf C(\mathcal R_N)$ and thus $\operatorname{range} f\in\mathscr N'$. Finally, note
 $\operatorname{range} f\subseteq\mathcal N$.
 
 ### Corollary
 
-The R-nw-selective game and PO-Set games of
-[[ABG 2024](https://www.sciencedirect.com/science/article/pii/S0166864124001214)]
-are dual.
-(This is Proposition 2.4 of ABG 2024 and answers its Question 2.5.)
+In the terminology of
+[[ABG 2024](https://www.sciencedirect.com/science/article/pii/S0166864124001214)],
+Bob $\uparrow$ PO-Set implies Alice $\uparrow$ a modification of
+R-mw-selective, where Alice is allowed to play arbitrary networks
+(not just countable networks).
 
 #### Proof
 
-As defined in
-[[ABG 2024](https://www.sciencedirect.com/science/article/pii/S0166864124001214)]
-the PO-set game is exactly
-$G_1(\mathcal R,\neg\mathscr N)$: Player 1 chooses a point and open
+As defined in [ABG 2024], the PO-set game is exactly
+$G_1(\mathcal R_N,\neg\mathscr N)$: Player 1 chooses a point and open
 neighborhood, then Player 2 chooses some subset of that neighborhood
 containing the point; Player 1 wins provided the choices of Player 2
-form a network.
-
-ABG 2024 defines the R-nw-selective game to be
-$G_1(\mathscr N_\omega,\mathscr N_\omega)$ where $\mathscr N_\omega$
+form a network. Since only countable collections are constructed
+in this game, the PO-set game is also exactly
+$G_1(\mathcal R_N,\neg\mathscr N_\omega)$, where $\mathscr N_\omega$
 collects the *countable* networks of the space.
-However, it's immediate that any collection chosen
-by Player 2 will be countable, so $G_1(\mathscr N,\mathscr N)$
-and $G_1(\mathscr N,\mathscr N_\omega)$ are equivalent games.
 
-Now compare $G_1(\mathscr N,\mathscr N_\omega)$
-and $G_1(\mathscr N_\omega,\mathscr N_\omega)$. First, any winning strategy
-for Player 2 in $G_1(\mathscr N,\mathscr N_\omega)$ is a winning strategy
-for Player 2 in $G_1(\mathscr N_\omega,\mathscr N_\omega)$.
-But given a strategy for
-Player 2 in $G_1(\mathscr N_\omega,\mathscr N_\omega)$... TODO
+So by the above duality result, the PO-set game is dual to
+$G_1(\mathscr N,\mathscr N_\omega)$, which is exactly the
+R-mw-selective game of [ABG 2024], modified
+to allow Alice to play arbitrary networks.
+
+### Question
+
+Let $nw(X)=\aleph_0$.
+Does Alice $\uparrow$ R-mw-selective with arbitrary networks
+imply Alice $\uparrow$ R-mw-selective with countable networks?
+This would answer Question 2.5 of [ABG 2024].
